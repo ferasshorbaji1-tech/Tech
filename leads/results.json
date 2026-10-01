@@ -1290,24 +1290,24 @@
 "email": "hello@mogobogo.qa",
 "all": "hello@mogobogo.qa",
 "source": "mogobogo.qa (prior check)",
-"status": "Confirmed on their own site in the earlier check; domain matches site - kept"
+"status": "Confirmed on their own site in the earlier check; domain matches site"
 },
 "7": {
 "email": "info@marmarayistanbulrestaurant.com",
 "all": "info@marmarayistanbulrestaurant.com",
 "source": "marmarayistanbulrestaurant.com (prior check)",
-"status": "Confirmed on their own site in the earlier check; domain matches site - kept"
+"status": "Confirmed on their own site in the earlier check; domain matches site"
 },
 "8": {
 "email": "c.support@sabahwmasa.com",
 "all": "c.support@sabahwmasa.com",
 "source": "sabahwmasa.com (prior check)",
-"status": "Confirmed on their own site in the earlier check; domain matches site - kept"
+"status": "Confirmed on their own site in the earlier check; domain matches site"
 },
 "23": {
 "email": "sales@greydoha.qa",
 "all": "sales@greydoha.qa",
 "source": "greydoha.qa (prior check)",
-"status": "Confirmed on their own site in the earlier check; domain matches site - kept"
+"status": "Confirmed on their own site in the earlier check; domain matches site"
 }
 }
