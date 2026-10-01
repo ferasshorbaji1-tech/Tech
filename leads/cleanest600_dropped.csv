@@ -9,32 +9,26 @@
 28,duplicate (same email)
 30,duplicate (same email)
 36,no email
-38,small cafe (no own-domain email)
+38,small cafe (free-mail address only)
 39,no email
 40,no email
 45,no email
-49,small cafe (no own-domain email)
 50,duplicate (same email)
-51,small cafe (no own-domain email)
-52,small cafe (no own-domain email)
-53,small cafe (no own-domain email)
-54,small cafe (no own-domain email)
 55,website is a social/hosted page
-57,small cafe (no own-domain email)
-58,small cafe (no own-domain email)
-59,small cafe (no own-domain email)
+57,small cafe (free-mail address only)
+58,small cafe (free-mail address only)
+59,small cafe (free-mail address only)
 60,no email
-61,small cafe (no own-domain email)
 62,website is a social/hosted page
 63,website is a social/hosted page
 64,no email
 65,website is a social/hosted page
-66,small cafe (no own-domain email)
+66,small cafe (free-mail address only)
 67,website is a social/hosted page
 68,website is a social/hosted page
 69,website is a social/hosted page
-71,small cafe (no own-domain email)
-73,small cafe (no own-domain email)
+71,small cafe (free-mail address only)
+73,small cafe (free-mail address only)
 79,duplicate (same email)
 83,website is a social/hosted page
 85,duplicate (same email)
@@ -104,7 +98,6 @@
 426,no email
 429,no email
 430,not a business (residence/compound/site office/person)
-432,junk email
 433,no email
 439,website is a social/hosted page
 493,not a business (residence/compound/site office/person)
@@ -119,7 +112,6 @@
 544,no email
 545,no email
 547,no email
-569,junk email
 574,website is a social/hosted page
 578,duplicate (same email)
 583,duplicate (same email)
