@@ -15,7 +15,7 @@ OUT = os.path.join(HERE, 'Master_Leads_-_Best_600_verified.xlsx')
 
 # ---- gather results from main file + agent slice files
 res = {}
-for p in [os.path.join(HERE, 'results.json')] + sorted(glob.glob(os.path.join(HERE, 'results_[A-H].json'))):
+for p in [os.path.join(HERE, 'results.json')] + sorted(glob.glob(os.path.join(HERE, 'results_[A-Z].json'))):
     if os.path.exists(p):
         for k, v in json.load(open(p)).items():
             res.setdefault(k, {}).update(v)
