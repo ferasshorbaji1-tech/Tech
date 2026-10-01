@@ -1,0 +1,604 @@
+[
+ {
+  "n": 260,
+  "company": "Compass Rent A Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 3114 2282",
+  "email": "info@compassqtr.com",
+  "website": "https://compassqtr.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 261,
+  "company": "Country Rent A Car Services",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 5045 9447",
+  "email": "webmaster@countryrentacar.com",
+  "website": "http://www.countryrentacar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 262,
+  "company": "Doha Cab",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Gharrafa",
+  "phone": "+974 5510 6863",
+  "email": "info@dohacab.com",
+  "website": "http://www.dohacab.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 263,
+  "company": "Mannai Auto Rent",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 3130 7183",
+  "email": "info@daskarentacar.com",
+  "website": "https://www.daskarentacar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 264,
+  "company": "Quality Doha Rent a Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 5080 9066",
+  "email": "info@qualitydohagroup.com",
+  "website": "http://qualitydohagroup.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 265,
+  "company": "Queen Cars Rent A Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 7000 8977",
+  "email": "sales@queencarsrentacar.com",
+  "website": "https://www.queencarsrentacar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 266,
+  "company": "Select Rent a Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 3136 6623",
+  "email": "info@selectqatar.com",
+  "website": "https://www.selectqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 267,
+  "company": "Green Motion Qatar",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 7777 2592",
+  "email": "reservations@greenmotion.qa",
+  "website": "https://greenmotion.com/locations/qatar/doha-downtown",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 268,
+  "company": "AL SADEED LUXURY RENTAL",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 7075 0055",
+  "email": "you@email.com",
+  "website": "http://www.alsadeedluxuryrental.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 269,
+  "company": "Belady rent a car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 3388 3881",
+  "email": "needhelp@company.com",
+  "website": "http://www.beladyqa.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 270,
+  "company": "DLE Rentals",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 5588 4241",
+  "email": "rentalinfo@vroomo.com",
+  "website": "https://www.dohafalcon.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 271,
+  "company": "Gulfcar Rent Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 7058 6089",
+  "email": "rental@gulfcar.com",
+  "website": "https://rent.gulfcar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 272,
+  "company": "Infinity Limousine Service انفنتي لخدمات الليموزين",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 7777 9256",
+  "email": "promotors@email.com",
+  "website": "https://www.infinity-qatar.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 273,
+  "company": "J&F Qatar Autolease W.L.L.",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Industrial Area",
+  "phone": "+974 5040 0624",
+  "email": "ashley.lindsay@isobar.com",
+  "website": "https://www.nationalcar.com/en/car-rental/locations/qa/doha-hamad-international-airport-kqn1.html?mcid=yext:245709&utm_source=yext&utm_medium=local",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 274,
+  "company": "PEACE RENT A CAR",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 3037 7888",
+  "email": "email@domain.com",
+  "website": "https://peacerentacar.qa/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 275,
+  "company": "Skyway Limousine",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Thumama",
+  "phone": "+974 3000 3546",
+  "email": "info@skywayqatar-com.preview-domain.com",
+  "website": "http://www.skywayqatar.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 276,
+  "company": "Strong Rent A Car - Hamad International Airport Branch",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 5012 3189",
+  "email": "info@strongqatar.com",
+  "website": "http://www.strongrentacar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 277,
+  "company": "Strong Rent A Car - Radisson Blu Hotel Branch",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 3321 0602",
+  "email": "info@strongqatar.com",
+  "website": "http://www.strongrentacar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 278,
+  "company": "Strong Rent A Car - West Bay Branch (Waldorf Astoria Doha)",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 5022 8544",
+  "email": "info@strongqatar.com",
+  "website": "http://www.strongrentacar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 279,
+  "company": "Wellcare Limousines- Car with Driver in Qatar",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 6006 8282",
+  "email": "opsqatar@wellcarelimo.com",
+  "website": "https://wellcarelimoqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 280,
+  "company": "AL AZALY RENT A CAR .QA",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Lusail Marina",
+  "phone": "+974 3077 5000",
+  "email": "alazaly.qa@gmail.com",
+  "website": "https://635cc6faa9a6c.site123.me/",
+  "check": "Not checked yet",
+  "flags": [
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 281,
+  "company": "Dallas rent a car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 6699 7755",
+  "email": "dallas-1979@hotmail.com",
+  "website": "http://www.rentwithdallas.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 282,
+  "company": "Dream Drive Rent A Car",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Umm Salal",
+  "phone": "+974 5034 1919",
+  "email": "sajee16@gmail.com",
+  "website": "https://dreamdriveqa.blogspot.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 283,
+  "company": "ترافيل لتأجير السيارات TRAVEL RENT A CAR",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Sadd",
+  "phone": "+974 3000 2154",
+  "email": "asxvmprobertest@gmail.com",
+  "website": "https://sites.google.com/d/1_L7Hkq7hmcERsmRGfQoL6hIGrn0yemyY/p/1h7_7FiKZHFsbfs04HHqWWDvdqDUtIxQu/edit",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 284,
+  "company": "Al Aseel Hotel",
+  "category": "Luxury Hotel",
+  "area": "Muntazah",
+  "phone": "+974 3390 2458",
+  "email": "info@alaseelhotel.com",
+  "website": "http://www.alaseelhotel.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 285,
+  "company": "C - Hotel and Suites Doha",
+  "category": "Luxury Hotel",
+  "area": "Al Hilal",
+  "phone": "+974 7036 4153",
+  "email": "info@c-hotelandsuitesdoha.com",
+  "website": "http://www.c-hotelandsuitesdoha.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 286,
+  "company": "Regency Sealine Camp",
+  "category": "Luxury Hotel",
+  "area": "Al Sadd",
+  "phone": "+974 5005 9055",
+  "email": "booking@regencysealinecamp.com",
+  "website": "http://www.regencysealinecamp.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 287,
+  "company": "Sponsored",
+  "category": "Luxury Hotel",
+  "area": "Al Thumama",
+  "phone": "+974 7710 6663",
+  "email": "detach.roi@gmail.com",
+  "website": "https://book.abraj.com.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 288,
+  "company": "Al Nour Plaza Luxury Suites",
+  "category": "Hotel",
+  "area": "The Pearl",
+  "phone": "+974 5130 6090",
+  "email": "info@alnourplaza.qa",
+  "website": "http://alnourplaza.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 289,
+  "company": "Sherao Hotel Doha - فندق شراعوه الدوحة",
+  "category": "Hotel",
+  "area": "Industrial Area",
+  "phone": "+974 6600 5552",
+  "email": "info@sherao.qa",
+  "website": "https://www.sherao.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 290,
+  "company": "A M Art Gallery",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5051 7711",
+  "email": "info@amgallery.qa",
+  "website": "http://www.amgallery.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 291,
+  "company": "Arts And Crafts",
+  "category": "Art Gallery",
+  "area": "Umm Salal",
+  "phone": "+974 6686 7993",
+  "email": "info@artsandcrafts.qa",
+  "website": "https://artsandcrafts.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 292,
+  "company": "Meraas Gallery",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5511 0210",
+  "email": "info@meraasgallery.com",
+  "website": "https://meraasgallery.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 293,
+  "company": "Nouvo Inizio Art Cafe",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5120 5003",
+  "email": "admin@nouvoinizio.com",
+  "website": "http://www.nouvoinizio.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 294,
+  "company": "One A Art Gallery",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5503 5037",
+  "email": "gallery@oneaart.com",
+  "website": "https://oneaart.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 295,
+  "company": "Prem Art gallery",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5527 3802",
+  "email": "info@premartgallery.com",
+  "website": "https://www.premartgallery.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 296,
+  "company": "Stones Luxury - Qatar",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 3018 8805",
+  "email": "sales@stones.luxury",
+  "website": "https://stones.luxury/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 297,
+  "company": "Wusum Gallery - رواق وسوم",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5116 9117",
+  "email": "info@wusumgallery.com",
+  "website": "http://www.wusumgallery.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 298,
+  "company": "International Arts and Music, Messila",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5058 1988",
+  "email": "beatrootziamsec@gmail.com",
+  "website": "https://connect.spyn.co/b/iamqatar",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 299,
+  "company": "Le Cadre Gallery",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5033 8150",
+  "email": "lecadre561@gmail.com",
+  "website": "http://lcqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 300,
+  "company": "Manha avant Garde",
+  "category": "Art Gallery",
+  "area": "West Bay",
+  "phone": "+974 7735 2012",
+  "email": "adeenafarzana@gmail.com",
+  "website": "https://manha-avant-garde.my.canva.site/manha-avant-garde",
+  "check": "Not checked yet",
+  "flags": [
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 301,
+  "company": "Picture World Studio Umm salal Ali",
+  "category": "Art Gallery",
+  "area": "Umm Salal",
+  "phone": "+974 5582 0192",
+  "email": "pwaziziya@gmail.com",
+  "website": "http://www.pictureworldqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 302,
+  "company": "The Gallery International",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5518 7690",
+  "email": "galleryqatar066@gmail.com",
+  "website": "http://www.galleryinternationalco.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 303,
+  "company": "mj pictorial",
+  "category": "Art Gallery",
+  "area": "Al Waab",
+  "phone": "+974 5560 0635",
+  "email": "mjpictorial@gmail.com",
+  "website": "http://mjpictorial.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 304,
+  "company": "MsSky Tourist & Trading",
+  "category": "Yacht Charter Company",
+  "area": "Al Thumama",
+  "phone": "+974 7023 3255",
+  "email": "info@mssky.qa",
+  "website": "https://www.mssky.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 305,
+  "company": "Sea Plus Qatar",
+  "category": "Yacht Charter Company",
+  "area": "Al Waab",
+  "phone": "+974 7100 1040",
+  "email": "info@seaplus.qa",
+  "website": "https://www.seaplus.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 306,
+  "company": "974 Cruises Lusail",
+  "category": "Yacht Charter Company",
+  "area": "Lusail Marina",
+  "phone": "+974 5506 3974",
+  "email": "bookings@974cruises.com",
+  "website": "http://www.974cruises.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 307,
+  "company": "SAILING PLUS MEGAYACHTS - yachting services since 1982",
+  "category": "Yacht Charter Company",
+  "area": "Al Waab",
+  "phone": "+974 7072 9734",
+  "email": "spm@sailingplusmegayachts.com",
+  "website": "http://www.sailingplusmegayachts.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 308,
+  "company": "Gallivant Luxury Yacht Rental Qatar",
+  "category": "Yacht Charter Company",
+  "area": "The Pearl",
+  "phone": "+974 5999 4422",
+  "email": "info@gallivant.qa",
+  "website": "https://gallivantchartersqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ }
+]

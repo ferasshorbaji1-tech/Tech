@@ -1,0 +1,296 @@
+{
+"260": {
+"email": "info@compassqtr.com",
+"all": "info@compassqtr.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 3114 2282"
+},
+"261": {
+"email": "webmaster@countryrentacar.com",
+"all": "webmaster@countryrentacar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; domain matches site but webmaster@ is a generic technical mailbox, worth re-checking. Phone +974 5045 9447"
+},
+"262": {
+"email": "info@dohacab.com",
+"all": "info@dohacab.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5510 6863"
+},
+"263": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held email and website belong to Daska Rent a Car, a different business from Mannai Auto Rent, so the held address was dropped; website is suspect but left unchanged pending search. Phone +974 3130 7183"
+},
+"264": {
+"email": "info@qualitydohagroup.com",
+"all": "info@qualitydohagroup.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5080 9066"
+},
+"265": {
+"email": "sales@queencarsrentacar.com",
+"all": "sales@queencarsrentacar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7000 8977"
+},
+"266": {
+"email": "info@selectqatar.com",
+"all": "info@selectqatar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 3136 6623"
+},
+"267": {
+"email": "reservations@greenmotion.qa",
+"all": "reservations@greenmotion.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (greenmotion.com franchise page) but carries the same brand. Phone +974 7777 2592"
+},
+"268": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held you@email.com is a placeholder and was dropped (prior-pass guess info@alsadeedluxuryrental.com was never verified, not adopted). Phone +974 7075 0055"
+},
+"269": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held needhelp@company.com is a placeholder and was dropped. Phone +974 3388 3881"
+},
+"270": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held rentalinfo@vroomo.com is a theme-demo address and was dropped; website dohafalcon.com name-mismatches DLE Rentals and is suspect, left unchanged pending search. Phone +974 5588 4241"
+},
+"271": {
+"email": "rental@gulfcar.com",
+"all": "rental@gulfcar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7058 6089"
+},
+"272": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held promotors@email.com is a placeholder and was dropped. Phone +974 7777 9256"
+},
+"273": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held ashley.lindsay@isobar.com is an agency address scraped from nationalcar.com and was dropped; website is the National Car Rental Doha airport page, plausibly the franchise but unverified. Phone +974 5040 0624"
+},
+"274": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held email@domain.com is a placeholder and was dropped. Phone +974 3037 7888"
+},
+"275": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address is a preview-domain artifact (info@skywayqatar-com.preview-domain.com) and was dropped. Phone +974 3000 3546"
+},
+"276": {
+"email": "info@strongqatar.com",
+"all": "info@strongqatar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (strongrentacar.com) but carries the same brand. Phone +974 5012 3189"
+},
+"277": {
+"email": "info@strongqatar.com",
+"all": "info@strongqatar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (strongrentacar.com) but carries the same brand. Phone +974 3321 0602"
+},
+"278": {
+"email": "info@strongqatar.com",
+"all": "info@strongqatar.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (strongrentacar.com) but carries the same brand. Phone +974 5022 8544"
+},
+"279": {
+"email": "opsqatar@wellcarelimo.com",
+"all": "opsqatar@wellcarelimo.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (wellcarelimoqatar.com) but carries the same brand. Phone +974 6006 8282"
+},
+"280": {
+"email": "alazaly.qa@gmail.com",
+"all": "alazaly.qa@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, name matches business; website is a site123 hosted page and needs correction (left unchanged). Phone +974 3077 5000"
+},
+"281": {
+"email": "dallas-1979@hotmail.com",
+"all": "dallas-1979@hotmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, name matches business. Phone +974 6699 7755"
+},
+"282": {
+"email": "sajee16@gmail.com",
+"all": "sajee16@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; personal free-mail address, low confidence; website is a blogspot page and needs correction (left unchanged). Phone +974 5034 1919"
+},
+"283": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held asxvmprobertest@gmail.com is a test/junk address and was dropped; website is a Google Sites edit link and needs correction (left unchanged). Phone +974 3000 2154"
+},
+"284": {
+"email": "info@alaseelhotel.com",
+"all": "info@alaseelhotel.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 3390 2458"
+},
+"285": {
+"email": "info@c-hotelandsuitesdoha.com",
+"all": "info@c-hotelandsuitesdoha.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7036 4153"
+},
+"286": {
+"email": "booking@regencysealinecamp.com",
+"all": "booking@regencysealinecamp.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5005 9055"
+},
+"287": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Company name Sponsored is a scrape artifact and held detach.roi@gmail.com is known junk, dropped; website book.abraj.com.qa is a booking engine, row needs manual identification. Phone +974 7710 6663"
+},
+"288": {
+"email": "info@alnourplaza.qa",
+"all": "info@alnourplaza.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5130 6090"
+},
+"289": {
+"email": "info@sherao.qa",
+"all": "info@sherao.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 6600 5552"
+},
+"290": {
+"email": "info@amgallery.qa",
+"all": "info@amgallery.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5051 7711"
+},
+"291": {
+"email": "info@artsandcrafts.qa",
+"all": "info@artsandcrafts.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 6686 7993"
+},
+"292": {
+"email": "info@meraasgallery.com",
+"all": "info@meraasgallery.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5511 0210"
+},
+"293": {
+"email": "admin@nouvoinizio.com",
+"all": "admin@nouvoinizio.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5120 5003"
+},
+"294": {
+"email": "gallery@oneaart.com",
+"all": "gallery@oneaart.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5503 5037"
+},
+"295": {
+"email": "info@premartgallery.com",
+"all": "info@premartgallery.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5527 3802"
+},
+"296": {
+"email": "sales@stones.luxury",
+"all": "sales@stones.luxury",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 3018 8805"
+},
+"297": {
+"email": "info@wusumgallery.com",
+"all": "info@wusumgallery.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5116 9117"
+},
+"298": {
+"email": "",
+"all": "",
+"source": "",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held beatrootziamsec@gmail.com is known junk and was dropped; website is a spyn.co hosted booking page and needs correction (left unchanged). Phone +974 5058 1988"
+},
+"299": {
+"email": "lecadre561@gmail.com",
+"all": "lecadre561@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, name matches business. Phone +974 5033 8150"
+},
+"300": {
+"email": "adeenafarzana@gmail.com",
+"all": "adeenafarzana@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; personal free-mail address, low confidence; website is a canva.site page and needs correction (left unchanged). Phone +974 7735 2012"
+},
+"301": {
+"email": "pwaziziya@gmail.com",
+"all": "pwaziziya@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, matches PW Aziziya branch naming. Phone +974 5582 0192"
+},
+"302": {
+"email": "galleryqatar066@gmail.com",
+"all": "galleryqatar066@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, name matches business. Phone +974 5518 7690"
+},
+"303": {
+"email": "mjpictorial@gmail.com",
+"all": "mjpictorial@gmail.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; free-mail address, name matches business. Phone +974 5560 0635"
+},
+"304": {
+"email": "info@mssky.qa",
+"all": "info@mssky.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7023 3255"
+},
+"305": {
+"email": "info@seaplus.qa",
+"all": "info@seaplus.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7100 1040"
+},
+"306": {
+"email": "bookings@974cruises.com",
+"all": "bookings@974cruises.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 5506 3974"
+},
+"307": {
+"email": "spm@sailingplusmegayachts.com",
+"all": "spm@sailingplusmegayachts.com",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified (domain matches site). Phone +974 7072 9734"
+},
+"308": {
+"email": "info@gallivant.qa",
+"all": "info@gallivant.qa",
+"source": "held",
+"status": "NOT SEARCHED (session WebSearch budget was exhausted, 200/200, before this slice ran; rule-based triage only). Held address kept, unverified; its domain differs from the held site (gallivantchartersqatar.com) but carries the same brand. Phone +974 5999 4422"
+}
+}

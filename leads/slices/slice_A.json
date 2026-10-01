@@ -1,0 +1,585 @@
+[
+ {
+  "n": 211,
+  "company": "Newton British School",
+  "category": "Private School",
+  "area": "Al Thumama",
+  "phone": "+974 3309 9661",
+  "email": "schoolsinqatar@gmail.com",
+  "website": "https://schoolsinqatar.net/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 212,
+  "company": "Private Nisab Kindergarten",
+  "category": "Private School",
+  "area": "Katara",
+  "phone": "+974 6620 3311",
+  "email": "naiseb.kg.education@gmail.com",
+  "website": "https://naiseb.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 213,
+  "company": "Study Care Education Center",
+  "category": "Private School",
+  "area": "Muntazah",
+  "phone": "+974 5031 9624",
+  "email": "studycareqatar@gmail.com",
+  "website": "https://studycareqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 214,
+  "company": "روضة المعرفة الخاصة",
+  "category": "Private School",
+  "area": "Al Mirqab",
+  "phone": "+974 3324 6662",
+  "email": "almaerifah2021@gmail.com",
+  "website": "https://almaerifahkindergarten.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 215,
+  "company": "World Wonders Tours - Qatar",
+  "category": "Travel Agency",
+  "area": "Lusail Marina",
+  "phone": "+974 3030 3077",
+  "email": "info@wwt.qa",
+  "website": "https://wwt.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 216,
+  "company": "Adems Travel",
+  "category": "Travel Agency",
+  "area": "West Bay",
+  "phone": "+974 7727 5676",
+  "email": "info@ademstravel.com",
+  "website": "http://www.ademstravel.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 217,
+  "company": "Alroda travels سفريات الروضة",
+  "category": "Travel Agency",
+  "area": "Onaiza",
+  "phone": "+974 6696 2121",
+  "email": "info@rotrav.com",
+  "website": "https://www.rotrav.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 218,
+  "company": "BLUE ISLAND TRAVELS",
+  "category": "Travel Agency",
+  "area": "Industrial Area",
+  "phone": "+974 5020 6291",
+  "email": "info@blueislandholidays.com",
+  "website": "http://www.blueislandholidays.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 219,
+  "company": "LankaExplorer Holidays",
+  "category": "Travel Agency",
+  "area": "Onaiza",
+  "phone": "+974 6697 0361",
+  "email": "tour@lankaexplorer.net",
+  "website": "http://www.lankaexplorer.net/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 220,
+  "company": "76Adventure for tourism services",
+  "category": "Travel Agency",
+  "area": "Onaiza",
+  "phone": "+974 5008 9016",
+  "email": "info@76adventuretours.com",
+  "website": "http://76adventure.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 221,
+  "company": "Flywell Holidays",
+  "category": "Travel Agency",
+  "area": "West Bay",
+  "phone": "+974 3144 2255",
+  "email": "info@example.com",
+  "website": "http://www.flywellholidays.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 222,
+  "company": "Elite Escape",
+  "category": "Travel Agency",
+  "area": "Bin Mahmoud",
+  "phone": "+974 5188 2822",
+  "email": "ayaatheliteescapeqa@gmail.com",
+  "website": "https://www.eliteescape.co/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 223,
+  "company": "Torch Desert Safari and Tour",
+  "category": "Travel Agency",
+  "area": "Abu Hamour",
+  "phone": "+974 3007 9996",
+  "email": "torchsafari@gmail.com",
+  "website": "http://www.torchdesertsafaritour.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 224,
+  "company": "Time Travel Mate Tours",
+  "category": "Travel Agency",
+  "area": "West Bay",
+  "phone": "+974 5004 3485",
+  "email": "timetravelmate@gmail.com",
+  "website": "http://www.timetravelmate.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 225,
+  "company": "Al Jadwal",
+  "category": "Tour Operator",
+  "area": "Al Thumama",
+  "phone": "+974 7749 9399",
+  "email": "management@jadwal.qa",
+  "website": "https://jadwal.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 226,
+  "company": "Darwish United Travels",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 7400 0949",
+  "email": "info@matrixtravel.qa",
+  "website": "http://www.matrixtravel.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 227,
+  "company": "Travelous Doha Inbound Tours",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 5000 1349",
+  "email": "info@wejhaat.com.qa",
+  "website": "https://wejhaat.com.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 228,
+  "company": "king travel",
+  "category": "Tour Operator",
+  "area": "Bin Mahmoud",
+  "phone": "+974 3002 0098",
+  "email": "ops@kingtravel.qa",
+  "website": "http://kingtravel.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 229,
+  "company": "365 adventures and excursions in Doha Qatar",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3028 9802",
+  "email": "inbound@desertfoxqatar.com",
+  "website": "http://www.desertfoxqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 230,
+  "company": "Al Kanz Trading and Services",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 7400 1007",
+  "email": "info@travelistapp.app",
+  "website": "http://www.travelistapp.app/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 231,
+  "company": "DMC DOHA HOLIDAYS & STOPOVER TOURS ( TRANSIT LAYOVER STOPOVER IN DOHA CITY TOUR, DESERT SAFARI IN DOHA, QATAR",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 6633 2260",
+  "email": "support@oatqatar.com",
+  "website": "https://www.oatqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 232,
+  "company": "Desert safari doha qatar",
+  "category": "Tour Operator",
+  "area": "Umm Salal",
+  "phone": "+974 3111 2131",
+  "email": "info@qatardeserttour.com",
+  "website": "https://www.qatardeserttour.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 233,
+  "company": "Dream Route Tourism",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3053 2666",
+  "email": "info@dreamroutetourism.com",
+  "website": "https://dreamroutetourism.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 234,
+  "company": "Flytic Travel And Tours",
+  "category": "Tour Operator",
+  "area": "Umm Salal",
+  "phone": "+974 5122 9901",
+  "email": "info@flytictravelandtours.com",
+  "website": "https://flytictravelandtours.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 235,
+  "company": "Jnan Tours Qatar",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 3399 1975",
+  "email": "info@qadventuretransit.com",
+  "website": "https://qadventuretransit.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 236,
+  "company": "KD Tourism Qatar (Desert Safari)",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 7700 1541",
+  "email": "info@nobletourismqatar.com",
+  "website": "https://www.nobletourismqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 237,
+  "company": "MK Holidays & Tourism",
+  "category": "Tour Operator",
+  "area": "Al Sadd",
+  "phone": "+974 7734 2974",
+  "email": "info@mkholidaystourism.com",
+  "website": "http://www.mkholidaystourism.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 238,
+  "company": "Qatar Desert Safari Tour",
+  "category": "Tour Operator",
+  "area": "Ras Abu Aboud",
+  "phone": "+974 7774 1900",
+  "email": "book@desertsafariqatar.com",
+  "website": "https://www.desertsafariqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 239,
+  "company": "Qatar Inbound Tours - Doha",
+  "category": "Tour Operator",
+  "area": "Mesaimeer",
+  "phone": "+974 7734 1200",
+  "email": "info@inboundtoursqatar.com",
+  "website": "http://www.inboundtoursqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 240,
+  "company": "Rehlaty Travel and Tourism",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 6600 0258",
+  "email": "info@q-explorer.com",
+  "website": "http://www.q-explorer.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 241,
+  "company": "Safe World Tours & Travels",
+  "category": "Tour Operator",
+  "area": "Mesaimeer",
+  "phone": "+974 7100 0577",
+  "email": "info@safeworldtravels.com",
+  "website": "https://www.safeworldtravels.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 242,
+  "company": "Smart Way Limousine and Tour Transportation Qatar",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3351 4065",
+  "email": "info@smartwaycab.com",
+  "website": "https://smartwaycab.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 243,
+  "company": "Nomad Trail Tourism",
+  "category": "Tour Operator",
+  "area": "Al Waab",
+  "phone": "+974 5204 4489",
+  "email": "info@nomadtourismqatar.com",
+  "website": "https://www.nomadtourismqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 244,
+  "company": "Pearlsofdoha",
+  "category": "Tour Operator",
+  "area": "The Pearl",
+  "phone": "+974 6692 0442",
+  "email": "info@pearlsofdoha.com",
+  "website": "http://www.pearlsofdoha.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 245,
+  "company": "Al Ghaya Tours",
+  "category": "Tour Operator",
+  "area": "Al Mirqab",
+  "phone": "+974 6648 3555",
+  "email": "user@domain.com",
+  "website": "https://www.alghayatours.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 246,
+  "company": "Desert Safari & City Tour Qatar",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3169 0268",
+  "email": "info@xtravel.com",
+  "website": "https://desertsafariqtr.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 247,
+  "company": "Moon Doha Travels & Tourism Doha Al Jedeeda",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3023 3207",
+  "email": "globe@2x.webp",
+  "website": "https://discoverarabia.today/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 248,
+  "company": "Murex Activities and Tours",
+  "category": "Tour Operator",
+  "area": "Al Gharrafa",
+  "phone": "+974 3358 8899",
+  "email": "globe@2x.webp",
+  "website": "https://murexqatartours.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 249,
+  "company": "Best Of Time Tourism",
+  "category": "Tour Operator",
+  "area": "Abu Hamour",
+  "phone": "+974 3115 7722",
+  "email": "bestoftimetourism@gmail.com",
+  "website": "https://bestoftimetourism.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 250,
+  "company": "Desert Safari Qatar My Guest",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 7028 7663",
+  "email": "hallysafety@yahoo.com",
+  "website": "https://www.alumaco.com.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 251,
+  "company": "HULOOL Tourism",
+  "category": "Tour Operator",
+  "area": "Najma",
+  "phone": "+974 7211 6464",
+  "email": "hulooltourism@gmail.com",
+  "website": "https://www.hulooltourism.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 252,
+  "company": "Qatar Excursions",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 5200 0972",
+  "email": "travelousdoha@gmail.com",
+  "website": "https://traveloustour.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 253,
+  "company": "Sandscape Adventures & Tours",
+  "category": "Tour Operator",
+  "area": "Msheireb Downtown",
+  "phone": "+974 6633 0408",
+  "email": "sandscapeadv@gmail.com",
+  "website": "https://sandscapeadventures.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 254,
+  "company": "Travel & Tourism",
+  "category": "Tour Operator",
+  "area": "Industrial Area",
+  "phone": "+974 7474 0441",
+  "email": "dohatoursandholidaysdmc@gmail.com",
+  "website": "https://qatarholidaysdmc.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 255,
+  "company": "Ocean Rent A Car - Lusail Boulevard",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Lusail Marina",
+  "phone": "+974 3364 0652",
+  "email": "info@oceancars.com.qa",
+  "website": "http://www.oceancars.com.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 256,
+  "company": "A Star Limousine Qatar, Doha - Luxury Limousine Company Qatar, Doha | Bus Rental Qatar | ليموزين & تاجير سيارات",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Mirqab",
+  "phone": "+974 3123 4646",
+  "email": "operations@astarlimousineqa.com",
+  "website": "https://www.astarlimousineqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 257,
+  "company": "AL NAAS RENTAL CAR الناس لتأجير السيارات",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Najma",
+  "phone": "+974 3997 7997",
+  "email": "admin@al-naas.com",
+  "website": "http://www.al-naas.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 258,
+  "company": "Alnabigha Chauffeur & Limousine Services in Qatar",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Al Gharrafa",
+  "phone": "+974 3997 8000",
+  "email": "booking@alnabigha.com",
+  "website": "http://www.alnabigha.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 259,
+  "company": "Blue Flower Fleets",
+  "category": "Car Rental Company (Luxury)",
+  "area": "Ras Abu Aboud",
+  "phone": "+974 5552 3273",
+  "email": "info@blueflowerqatar.com",
+  "website": "https://www.blueflowerqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ }
+]

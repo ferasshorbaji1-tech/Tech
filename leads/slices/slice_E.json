@@ -1,0 +1,589 @@
+[
+ {
+  "n": 407,
+  "company": "Espacio Trading and Contracting W L L",
+  "category": "Interior Design",
+  "area": "Al Thumama",
+  "phone": "+974 7055 7447",
+  "email": "info@espacioqatar.com",
+  "website": "http://www.espacioqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 408,
+  "company": "Infinity Marble Design",
+  "category": "Interior Design",
+  "area": "Al Aziziya",
+  "phone": "+974 6682 2427",
+  "email": "info@ts-decor.com",
+  "website": "http://www.ts-decor.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 409,
+  "company": "Options Carpentry Works",
+  "category": "Interior Design",
+  "area": "Industrial Area",
+  "phone": "+974 5044 7454",
+  "email": "info@canoverqatar.com",
+  "website": "http://www.canoverqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 410,
+  "company": "RIMKATURK DESIGN AND SERVICES AND TRADING",
+  "category": "Interior Design",
+  "area": "Bin Mahmoud",
+  "phone": "+974 3336 9991",
+  "email": "info@rimka-group.com",
+  "website": "https://www.rimka-group.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 411,
+  "company": "Riviera Gardens 101 Apartments and Club House",
+  "category": "Interior Design",
+  "area": "Al Duhail",
+  "phone": "+974 7796 9975",
+  "email": "info@rivieragardens-qa.com",
+  "website": "https://rivieragardens-qa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 412,
+  "company": "South West Architecture",
+  "category": "Interior Design",
+  "area": "Al Dafna",
+  "phone": "+974 5123 3000",
+  "email": "info@blanc-interior.com",
+  "website": "http://www.blanc-interior.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 413,
+  "company": "The interior lounge",
+  "category": "Interior Design",
+  "area": "Al Gharrafa",
+  "phone": "+974 7771 6211",
+  "email": "info@the-graphitees.com",
+  "website": "http://www.the-graphitees.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 414,
+  "company": "UNITED ARCHITECTS CONSULTANT",
+  "category": "Interior Design",
+  "area": "Al Thumama",
+  "phone": "+974 5000 3224",
+  "email": "webmaster@uarc.net",
+  "website": "http://uarc.net/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 415,
+  "company": "VIVIDUS",
+  "category": "Interior Design",
+  "area": "Najma",
+  "phone": "+974 7770 5969",
+  "email": "%20info@vividusinterior.com",
+  "website": "http://vividusinterior.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email"
+  ]
+ },
+ {
+  "n": 416,
+  "company": "Colors Design Decor",
+  "category": "Interior Design",
+  "area": "Ain Khaled",
+  "phone": "+974 5087 1759",
+  "email": "elcon@domain.com",
+  "website": "https://www.colorsqatar.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 417,
+  "company": "Four Zone Design",
+  "category": "Interior Design",
+  "area": "Al Aziziya",
+  "phone": "+974 3381 7166",
+  "email": "info@mysite.com",
+  "website": "https://fourzonedesign.wixsite.com/four-zone-design",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "social_or_hosted_site"
+  ]
+ },
+ {
+  "n": 418,
+  "company": "Levante Kitchens | مطابخ ليفانتي كيتشنز",
+  "category": "Interior Design",
+  "area": "Old Airport",
+  "phone": "+974 3024 1700",
+  "email": "name@email.com",
+  "website": "https://levantekitchens.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 419,
+  "company": "Oppein Qatar",
+  "category": "Interior Design",
+  "area": "Abu Hamour",
+  "phone": "+974 3022 5091",
+  "email": "info@mocozy.com",
+  "website": "https://oppeinqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 420,
+  "company": "Design Valley (Gypsum Works)",
+  "category": "Interior Design",
+  "area": "Al Hilal",
+  "phone": "+974 5039 7254",
+  "email": "fk5113832@gmail.com",
+  "website": "https://www.facebook.com/DesignValley.qatar/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "social_or_hosted_site",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 421,
+  "company": "Aurex Group – Facility Maintenance & Fit-Out Qatar",
+  "category": "Fit Out Company",
+  "area": "Doha Jadeed",
+  "phone": "+974 3039 1595",
+  "email": "info@aurexgroup.qa",
+  "website": "https://www.aurexgroup.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 422,
+  "company": "Decolite Contracting",
+  "category": "Fit Out Company",
+  "area": "Al Aziziya",
+  "phone": "+974 6003 5007",
+  "email": "info@alantie.qa",
+  "website": "https://alantie.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 423,
+  "company": "Interprogetti Contract",
+  "category": "Fit Out Company",
+  "area": "Lusail Marina",
+  "phone": "+974 5548 5754",
+  "email": "info@interprogetti.qa",
+  "website": "http://interprogetti.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 424,
+  "company": "Nabni contracting and services",
+  "category": "Fit Out Company",
+  "area": "Bin Mahmoud",
+  "phone": "+974 6690 0600",
+  "email": "contact@nabni.qa",
+  "website": "https://nabni.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 425,
+  "company": "AZF Mekdam Site Office",
+  "category": "Fit Out Company",
+  "area": "Katara",
+  "phone": "+974 5547 3016",
+  "email": "info@mtc-qtr.com",
+  "website": "https://www.mtc-qtr.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 426,
+  "company": "Al Mannai Plumbing & Electrical Gharaffa",
+  "category": "Fit Out Company",
+  "area": "Al Gharrafa",
+  "phone": "+974 7703 6988",
+  "email": "info@dohafitout.com",
+  "website": "https://dohafitout.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 427,
+  "company": "Basis TIme Co",
+  "category": "Fit Out Company",
+  "area": "Al Gharrafa",
+  "phone": "+974 5064 3629",
+  "email": "att@attqatar.com",
+  "website": "http://www.attqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 428,
+  "company": "Brandscape Fit out & Contracting",
+  "category": "Fit Out Company",
+  "area": "Msheireb Downtown",
+  "phone": "+974 5030 3300",
+  "email": "info@moonlight-fitout.com",
+  "website": "https://moonlight-fitout.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 429,
+  "company": "Carbon Blue Global",
+  "category": "Fit Out Company",
+  "area": "Abu Hamour",
+  "phone": "+974 5538 7973",
+  "email": "sales@aarotech-qatar.com",
+  "website": "http://www.aarotech-qatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 430,
+  "company": "DORCE QATAR Project Site",
+  "category": "Fit Out Company",
+  "area": "Umm Salal",
+  "phone": "+974 7095 3679",
+  "email": "dorce@dorce.com.tr",
+  "website": "http://www.dorce.com.tr/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email"
+  ]
+ },
+ {
+  "n": 431,
+  "company": "Jadeed Afzal Taj Contracting (JATCON)",
+  "category": "Fit Out Company",
+  "area": "Al Hilal",
+  "phone": "+974 3129 3994",
+  "email": "info@hilltopqatar.com",
+  "website": "http://www.hilltopqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 432,
+  "company": "LIBRA TRADING COMPANY",
+  "category": "Fit Out Company",
+  "area": "Al Sadd",
+  "phone": "+974 3354 4141",
+  "email": "info@ictqa.com",
+  "website": "http://www.ictqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 433,
+  "company": "Moon Decoration | Interior and Exterior Gypsum Work",
+  "category": "Fit Out Company",
+  "area": "Ain Khaled",
+  "phone": "+974 5544 7647",
+  "email": "info@shamct.com",
+  "website": "http://www.shamct.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 434,
+  "company": "Qatar office",
+  "category": "Fit Out Company",
+  "area": "Old Airport",
+  "phone": "+974 5593 8338",
+  "email": "sales@cityelevators.com",
+  "website": "http://www.cityelevators.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 435,
+  "company": "SECTION TRADING",
+  "category": "Fit Out Company",
+  "area": "Bin Mahmoud",
+  "phone": "+974 3382 8401",
+  "email": "webmaster@sectiontrading.com",
+  "website": "http://www.sectiontrading.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 436,
+  "company": "UTCC Qatar –URBAN TRADING CONTACTING SERVICES AND CLEANING W.L.L Since-2019",
+  "category": "Fit Out Company",
+  "area": "Doha Jadeed",
+  "phone": "+974 5538 8092",
+  "email": "info@utccqatar.com",
+  "website": "https://utccqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 437,
+  "company": "Vertex Hygiene Services - فيرتكس لخدمات النظافة",
+  "category": "Fit Out Company",
+  "area": "Msheireb Downtown",
+  "phone": "+974 3355 0995",
+  "email": "care@vertexhygiene.com",
+  "website": "https://vertexhygiene.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 438,
+  "company": "Volar Trading Company",
+  "category": "Fit Out Company",
+  "area": "Ain Khaled",
+  "phone": "+974 3331 6566",
+  "email": "info@ambertradingwll.com",
+  "website": "https://www.ambertradingwll.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 439,
+  "company": "3D Construction and maintenance and General",
+  "category": "Fit Out Company",
+  "area": "Al Aziziya",
+  "phone": "+974 5200 0042",
+  "email": "maintenance@3d-qa.com",
+  "website": "http://brand.site/3DFORMAINTENANCE",
+  "check": "Not checked yet",
+  "flags": [
+   "social_or_hosted_site"
+  ]
+ },
+ {
+  "n": 440,
+  "company": "Jupiter Construction",
+  "category": "Fit Out Company",
+  "area": "Umm Salal",
+  "phone": "+974 6696 8512",
+  "email": "azme@mzk-projct.com",
+  "website": "http://www.mzk-project.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 441,
+  "company": "NBCC (New Badar For Contracting And cleaning) Qatar",
+  "category": "Fit Out Company",
+  "area": "Abu Hamour",
+  "phone": "+974 7782 1823",
+  "email": "example@domain.com",
+  "website": "https://nbccqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 442,
+  "company": "SHAREEFA CONSTRUCTION AND TRADING",
+  "category": "Fit Out Company",
+  "area": "Al Aziziya",
+  "phone": "+974 6649 1110",
+  "email": "mail@example.com",
+  "website": "http://www.shareefaconstruction.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 443,
+  "company": "WalkingPad Qatar",
+  "category": "Fit Out Company",
+  "area": "Al Waab",
+  "phone": "+974 7705 5080",
+  "email": "shop@walkingpadqatar.com",
+  "website": "http://walkingpad.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 444,
+  "company": "aLL Design",
+  "category": "Fit Out Company",
+  "area": "Lusail Marina",
+  "phone": "+974 6674 2426",
+  "email": "user@domain.com",
+  "website": "http://www.all.design/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 445,
+  "company": "JR Villa Renovation Qatar",
+  "category": "Fit Out Company",
+  "area": "Al Thumama",
+  "phone": "+974 5188 7814",
+  "email": "info@qatarvillarennovation.com",
+  "website": "https://www.qatarvillarenovation.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 446,
+  "company": "Interior and Carpentry services",
+  "category": "Fit Out Company",
+  "area": "Umm Salal",
+  "phone": "+974 7738 5426",
+  "email": "interiorcarpentryqa@gmail.com",
+  "website": "https://interiorcarpentryqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 447,
+  "company": "Qatar FLM Aluminium, Glass, UPVC, Gypsum, Painting, Parking Shades & Welding",
+  "category": "Fit Out Company",
+  "area": "Najma",
+  "phone": "+974 3160 2956",
+  "email": "mobarakhossain23456@gmail.com",
+  "website": "https://qatarflmservices.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 448,
+  "company": "Creative Innovative Group wll",
+  "category": "Fit Out Company",
+  "area": "Al Mirqab",
+  "phone": "+974 6661 8812",
+  "email": "malikrukhsar110@gmail.com",
+  "website": "https://malikfitout.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "free_mail"
+  ]
+ },
+ {
+  "n": 449,
+  "company": "Quick Maintenance HVAC Solutions",
+  "category": "Fit Out Company",
+  "area": "Al Thumama",
+  "phone": "+974 7092 3533",
+  "email": "quickmaintenance54@gmail.com",
+  "website": "https://quickmaintenance.tech/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 450,
+  "company": "Le Cadeau",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 5123 2220",
+  "email": "info@lecadeau.qa",
+  "website": "https://lecadeau.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 451,
+  "company": "Momentum Media Qatar",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 3365 8111",
+  "email": "sales@momentummedia.qa",
+  "website": "https://momentummedia.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 452,
+  "company": "MultiFlow",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 3157 6103",
+  "email": "sales@multiflow.qa",
+  "website": "http://www.multiflow.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 453,
+  "company": "Addwells",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 7762 2742",
+  "email": "webmaster@add-wells.com",
+  "website": "http://www.add-wells.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 454,
+  "company": "Digital Twin Advertising Qatar",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 5005 7452",
+  "email": "hello@digitaltwinqatar.com",
+  "website": "https://www.digitaltwinqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 455,
+  "company": "Excellent Graphics Printing Solutions",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Thumama",
+  "phone": "+974 6684 2637",
+  "email": "webmaster@exelgraphics.com",
+  "website": "http://www.exelgraphics.com/",
+  "check": "Not checked yet",
+  "flags": []
+ }
+]

@@ -1,0 +1,566 @@
+[
+ {
+  "n": 456,
+  "company": "Genesis Art",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Mirqab",
+  "phone": "+974 7772 3250",
+  "email": "info@genesis-qatar.com",
+  "website": "https://www.genesis-qatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 457,
+  "company": "HappeToys",
+  "category": "Corporate Gift Supplier",
+  "area": "Old Airport",
+  "phone": "+974 3344 1173",
+  "email": "support@happetoys.com",
+  "website": "https://happetoys.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 458,
+  "company": "Imprimo Trading and Services",
+  "category": "Corporate Gift Supplier",
+  "area": "Lusail Marina",
+  "phone": "+974 3336 7169",
+  "email": "creation@imprimotrading.com",
+  "website": "https://www.imprimotrading.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 459,
+  "company": "MOODHAMPER",
+  "category": "Corporate Gift Supplier",
+  "area": "Bin Mahmoud",
+  "phone": "+974 5529 9199",
+  "email": "info@moodhamper.com",
+  "website": "http://www.moodhamper.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 460,
+  "company": "Premadasa Printing Solutions",
+  "category": "Corporate Gift Supplier",
+  "area": "The Pearl",
+  "phone": "+974 7028 3355",
+  "email": "ali@premadasaprintsolutions.com",
+  "website": "http://www.premadasaprintsolutions.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 461,
+  "company": "Duplex Packs For Trading دوبلكس باكس",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Waab",
+  "phone": "+974 3073 6394",
+  "email": "info@duplexpacks.com",
+  "website": "https://duplexpack.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 462,
+  "company": "ForAll Electric Scooters",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Thumama",
+  "phone": "+974 7448 3778",
+  "email": "username@example.com",
+  "website": "https://forall.qa/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 463,
+  "company": "GIFT CITY QATAR",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Waab",
+  "phone": "+974 3371 8277",
+  "email": "pd@uaepd.net",
+  "website": "http://www.giftcityqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 464,
+  "company": "Lineart Printing & Advertising",
+  "category": "Corporate Gift Supplier",
+  "area": "The Pearl",
+  "phone": "+974 3153 3383",
+  "email": "contact@example.com",
+  "website": "https://lineartprinting.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 465,
+  "company": "MYOFFICE Trading Office Supplies and Stationery",
+  "category": "Corporate Gift Supplier",
+  "area": "Old Airport",
+  "phone": "+974 3154 2454",
+  "email": "info@stagheaddesigns.com",
+  "website": "https://www.myoffice.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 466,
+  "company": "SHINE Gold & Diamonds - Gold Souq (Branch 11)",
+  "category": "Corporate Gift Supplier",
+  "area": "Ras Abu Aboud",
+  "phone": "+974 7799 7983",
+  "email": "john@example.com",
+  "website": "https://www.shinegd.com/",
+  "check": "Not checked, no email held",
+  "flags": [
+   "bogus_email",
+   "email_domain_ne_site"
+  ]
+ },
+ {
+  "n": 467,
+  "company": "Decarlo",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Markhiya",
+  "phone": "+974 5573 7476",
+  "email": "decarlo.doha@gmail.com",
+  "website": "https://www.decarloqatar.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 468,
+  "company": "FITWELL Ladies Accessories",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Gharrafa",
+  "phone": "+974 3308 0581",
+  "email": "fitwell82@gmail.com",
+  "website": "https://www.fitwell.qa/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 469,
+  "company": "SKETCH Advertising W.L.L.",
+  "category": "Corporate Gift Supplier",
+  "area": "Al Waab",
+  "phone": "+974 7043 9633",
+  "email": "sketchqtr@gmail.com",
+  "website": "http://sketchdoha.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 470,
+  "company": "Pack and Print",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 3310 3323",
+  "email": "team@packandprint.qa",
+  "website": "https://packandprint.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 471,
+  "company": "Print House Printing Press",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 6679 6880",
+  "email": "info@printhouse.qa",
+  "website": "https://printhouse.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 472,
+  "company": "Addon-It Printing",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 7702 1744",
+  "email": "hello@addon-it.net",
+  "website": "https://www.addon-it.net/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 473,
+  "company": "Macaws Qatar",
+  "category": "Printing & Packaging Company",
+  "area": "Old Airport",
+  "phone": "+974 7787 6758",
+  "email": "info@macawsqatar.com",
+  "website": "https://macawsqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 474,
+  "company": "Oryx Printing Plus",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 6657 3859",
+  "email": "factorymanager@oryxprinting.com",
+  "website": "http://oryxprinting.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 475,
+  "company": "Packaging Heights",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 3340 9999",
+  "email": "sales@packagingheights.com",
+  "website": "https://www.packagingheights.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 476,
+  "company": "Pixel Advertising and Printing W.L.L.",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 3131 1427",
+  "email": "info@pixeladvt.com",
+  "website": "https://pixeladvt.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 477,
+  "company": "Print zone digital printing company",
+  "category": "Printing & Packaging Company",
+  "area": "Al Hilal",
+  "phone": "+974 5077 7265",
+  "email": "info@printzoneqa.com",
+  "website": "http://www.printzoneqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 478,
+  "company": "Warq Advertising ورق للدعاية والإعلان",
+  "category": "Printing & Packaging Company",
+  "area": "Al Waab",
+  "phone": "+974 6642 4219",
+  "email": "info@warqqa.com",
+  "website": "http://www.warqqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 479,
+  "company": "Print House | Printing Solutions",
+  "category": "Printing & Packaging Company",
+  "area": "Muntazah",
+  "phone": "+974 3109 1777",
+  "email": "printhouse.qa@gmail.com",
+  "website": "http://www.printhousesolutions.com/",
+  "check": "Not checked yet",
+  "flags": [
+   "free_mail"
+  ]
+ },
+ {
+  "n": 480,
+  "company": "Creative Agency in Qatar - Forward Group",
+  "category": "Marketing Agency",
+  "area": "Onaiza",
+  "phone": "+974 7772 0337",
+  "email": "sales@forwardgroup.qa",
+  "website": "http://www.forwardgroup.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 481,
+  "company": "Fido marketing services",
+  "category": "Marketing Agency",
+  "area": "Mesaimeer",
+  "phone": "+974 5566 8846",
+  "email": "marketing@fido.qa",
+  "website": "http://fido.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 482,
+  "company": "FollowMe Solutions",
+  "category": "Marketing Agency",
+  "area": "Mesaimeer",
+  "phone": "+974 3001 1561",
+  "email": "hello@followme.qa",
+  "website": "https://followme.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 483,
+  "company": "Ginger Technologies",
+  "category": "Marketing Agency",
+  "area": "Najma",
+  "phone": "+974 5568 2188",
+  "email": "info@gingertechnologies.qa",
+  "website": "https://gingertechnologies.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 484,
+  "company": "Impakt Qatar",
+  "category": "Marketing Agency",
+  "area": "Al Sadd",
+  "phone": "+974 7092 7252",
+  "email": "info@impakt.qa",
+  "website": "https://impakt.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 485,
+  "company": "Inline marketing",
+  "category": "Marketing Agency",
+  "area": "Abu Hamour",
+  "phone": "+974 7448 7447",
+  "email": "info@inline.qa",
+  "website": "https://inline.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 486,
+  "company": "Lamlan Digital Solutions, Qatar",
+  "category": "Marketing Agency",
+  "area": "Onaiza",
+  "phone": "+974 3308 0759",
+  "email": "info@lamlan.qa",
+  "website": "https://lamlan.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 487,
+  "company": "Multimedia E-Marketing",
+  "category": "Marketing Agency",
+  "area": "Al Gharrafa",
+  "phone": "+974 5513 1310",
+  "email": "info@multimedia.qa",
+  "website": "https://multimedia.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 488,
+  "company": "Nasher Digital Creative Agency - نشر للإبداع الرقمي",
+  "category": "Marketing Agency",
+  "area": "Bin Mahmoud",
+  "phone": "+974 7010 6644",
+  "email": "info@nasher.qa",
+  "website": "http://www.nasher.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 489,
+  "company": "Speedline Media And Advertising",
+  "category": "Marketing Agency",
+  "area": "Bin Mahmoud",
+  "phone": "+974 5509 9484",
+  "email": "info@speedlinemedia.qa",
+  "website": "https://speedlinemedia.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 490,
+  "company": "Taqnia Creative Agency",
+  "category": "Marketing Agency",
+  "area": "Onaiza",
+  "phone": "+974 3007 5181",
+  "email": "info@taqnia.qa",
+  "website": "https://www.taqnia.qa/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 491,
+  "company": "5d Ads",
+  "category": "Marketing Agency",
+  "area": "Abu Hamour",
+  "phone": "+974 3398 9839",
+  "email": "advertising@5d-ads.com",
+  "website": "https://5d-ads.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 492,
+  "company": "Adonai Solutions",
+  "category": "Marketing Agency",
+  "area": "Al Hilal",
+  "phone": "+974 3304 2400",
+  "email": "info@adonaisolutions.org",
+  "website": "https://www.adonaisolutions.org/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 493,
+  "company": "Ayesha Siddiqui",
+  "category": "Marketing Agency",
+  "area": "Old Airport",
+  "phone": "+974 6672 9039",
+  "email": "info@inhanddesignqatar.com",
+  "website": "http://www.inhanddesignqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 494,
+  "company": "DGtal CYBERKOMS",
+  "category": "Marketing Agency",
+  "area": "Al Sadd",
+  "phone": "+974 7033 5000",
+  "email": "usa@dgtalcyberkoms.com",
+  "website": "http://www.dgtalcyberkoms.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 495,
+  "company": "Dezignix | Digital Marketing Agency",
+  "category": "Marketing Agency",
+  "area": "Onaiza",
+  "phone": "+974 7447 5770",
+  "email": "info@dezignix.com",
+  "website": "https://dezignix.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 496,
+  "company": "Digital Care",
+  "category": "Marketing Agency",
+  "area": "Msheireb Downtown",
+  "phone": "+974 6672 8733",
+  "email": "contact@inboundhype.com",
+  "website": "https://inboundhype.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 497,
+  "company": "Digital Marketing Qatar",
+  "category": "Marketing Agency",
+  "area": "Onaiza",
+  "phone": "+974 5044 6337",
+  "email": "office@semlion.com",
+  "website": "https://www.semlion.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 498,
+  "company": "Doodle Brand",
+  "category": "Marketing Agency",
+  "area": "Mesaimeer",
+  "phone": "+974 6665 6958",
+  "email": "info@doodlebrand.com",
+  "website": "https://www.doodlebrand.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 499,
+  "company": "Eclipse Media",
+  "category": "Marketing Agency",
+  "area": "Najma",
+  "phone": "+974 7737 4646",
+  "email": "info@eclipsemediaqa.com",
+  "website": "http://www.eclipsemediaqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 500,
+  "company": "EverPrint Advertising",
+  "category": "Marketing Agency",
+  "area": "Msheireb Downtown",
+  "phone": "+974 5075 7272",
+  "email": "info@everprintqatar.com",
+  "website": "https://www.everprintqatar.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 501,
+  "company": "FLEX MEDIA",
+  "category": "Marketing Agency",
+  "area": "Al Markhiya",
+  "phone": "+974 3333 9178",
+  "email": "info@flexmediaqa.com",
+  "website": "http://flexmediaqa.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 502,
+  "company": "Forma Creative",
+  "category": "Marketing Agency",
+  "area": "Al Hilal",
+  "phone": "+974 5044 9030",
+  "email": "info@formacreative.co",
+  "website": "http://www.formacreative.co/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 503,
+  "company": "Freelance Web Designer & SEO Expert in Qatar",
+  "category": "Marketing Agency",
+  "area": "Al Dafna",
+  "phone": "+974 5528 4123",
+  "email": "hello@naseebku.com",
+  "website": "https://naseebku.com/",
+  "check": "Not checked yet",
+  "flags": []
+ },
+ {
+  "n": 504,
+  "company": "HUES GRAPHICS L.L.C",
+  "category": "Marketing Agency",
+  "area": "Al Dafna",
+  "phone": "+974 7119 6062",
+  "email": "team@huesgraphics.com",
+  "website": "https://huesgraphics.com/",
+  "check": "Not checked yet",
+  "flags": []
+ }
+]

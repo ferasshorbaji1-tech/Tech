@@ -1,0 +1,7198 @@
+[
+{
+"n": 1,
+"company": "Mama Joy - Ras Abu Aboud | ماما جوي - راس ابو عبود",
+"category": "Restaurant",
+"area": "Ras Abu Aboud",
+"phone": "+974 5128 8830",
+"email": "info@mamajoy.qa",
+"website": "https://mamajoy.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 2,
+"company": "PK (Poori and Karak) - Lusail",
+"category": "Restaurant",
+"area": "Lusail Marina",
+"phone": "+974 5060 9064",
+"email": "info@voguehospitality.com.qa",
+"website": "http://www.voguehospitality.com.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 3,
+"company": "Visit Ceylon Restaurant",
+"category": "Restaurant",
+"area": "Al Aziziya",
+"phone": "+974 5128 8838",
+"email": "info@mamajoy.qa",
+"website": "https://mamajoy.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 4,
+"company": "mogobogo Restaurant",
+"category": "Restaurant",
+"area": "Al Dafna",
+"phone": "+974 3013 4794",
+"email": "hello@mogobogo.qa",
+"website": "https://mogobogo.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 5,
+"company": "Go Crispy Al Duhail Souq Al Baladi",
+"category": "Restaurant",
+"area": "Al Duhail",
+"phone": "+974 3011 5537",
+"email": "marketing@gocrispy.com",
+"website": "https://www.gocrispy.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 6,
+"company": "La Marsa",
+"category": "Restaurant",
+"area": "Katara",
+"phone": "+974 7082 0853",
+"email": "chedikatara@ghmhotels.com",
+"website": "https://www.ghmhotels.com/en/katara/dining/la-marsa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 7,
+"company": "Marmaray Istanbul Turkish Restaurant",
+"category": "Restaurant",
+"area": "Ras Abu Aboud",
+"phone": "+974 6665 4472",
+"email": "info@marmarayistanbulrestaurant.com",
+"website": "https://marmarayistanbulrestaurant.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 8,
+"company": "Sabah W Masa - Dafna",
+"category": "Restaurant",
+"area": "Al Dafna",
+"phone": "+974 3004 7326",
+"email": "c.support@sabahwmasa.com",
+"website": "http://www.sabahwmasa.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 9,
+"company": "Social House Restaurant",
+"category": "Restaurant",
+"area": "Lusail Marina",
+"phone": "+974 5097 8054",
+"email": "clients@nutree.net",
+"website": "https://nutree.net/cafe-market.php",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 10,
+"company": "Al Malqa Restaurant | مطعم الملقى",
+"category": "Restaurant",
+"area": "Al Mirqab",
+"phone": "+974 7107 8400",
+"email": "info@almalqa.qa",
+"website": "https://almalqa.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 11,
+"company": "مطعم هل الدار",
+"category": "Restaurant",
+"area": "Umm Salal",
+"phone": "+974 3336 5553",
+"email": "info@halaldar.qa",
+"website": "http://order.halaldar.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 12,
+"company": "Kusina Metro Alsadd Qatar",
+"category": "Restaurant",
+"area": "Al Sadd",
+"phone": "+974 5101 0234",
+"email": "eben@eyebytes.com",
+"website": "http://www.sushiponto.com/",
+"check": "Confirmed on their own site",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 13,
+"company": "Ninja Ramen Restaurant - Al Doha Al Jadeda Metro Station",
+"category": "Restaurant",
+"area": "Al Mirqab",
+"phone": "+974 7181 2131",
+"email": "example@example.com",
+"website": "http://www.tiktok.com/@almirqab5",
+"check": "Nothing found",
+"flags": [
+"bogus_email",
+"social_or_hosted_site"
+]
+},
+{
+"n": 14,
+"company": "Sushi Ponto The Pearl",
+"category": "Restaurant",
+"area": "The Pearl",
+"phone": "+974 6688 3334",
+"email": "eben@eyebytes.com",
+"website": "https://sushiponto.com/",
+"check": "Confirmed on their own site",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 15,
+"company": "The Chippy",
+"category": "Restaurant",
+"area": "Al Dafna",
+"phone": "+974 5022 0126",
+"email": "user@domain.com",
+"website": "https://www.thechippy.qa/",
+"check": "Nothing found",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 16,
+"company": "The Curry House - Indian cuisine restaurant",
+"category": "Restaurant",
+"area": "Onaiza",
+"phone": "+974 3114 6455",
+"email": "marketing@mfoodqatar.com",
+"website": "https://linktr.ee/thecurryhouseqatar19",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 17,
+"company": "Desi Dhaba Restaurant",
+"category": "Restaurant",
+"area": "Al Duhail",
+"phone": "+974 3122 1119",
+"email": "desidhaba@gmail.com",
+"website": "https://desidhaba.qa/",
+"check": "Read off the site they point to",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 18,
+"company": "Hoi An Pho Authentic Vietnamese Cuisine",
+"category": "Restaurant",
+"area": "Bin Mahmoud",
+"phone": "+974 3347 7700",
+"email": "impallari@gmail.com",
+"website": "https://hoianpho.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 19,
+"company": "100 Coffee Muaither",
+"category": "Cafe",
+"area": "Ras Abu Aboud",
+"phone": "+974 7100 7006",
+"email": "sales@greydoha.qa",
+"website": "http://greydoha.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 20,
+"company": "Basil Cafe Al Hazm Mall",
+"category": "Cafe",
+"area": "Al Kheesa",
+"phone": "+974 7706 6726",
+"email": "info@basilcafe.qa",
+"website": "http://www.basilcafe.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 21,
+"company": "Catering Services by SØCIÉTÉ",
+"category": "Cafe",
+"area": "Al Duhail",
+"phone": "+974 6622 2152",
+"email": "orders@societe.com.qa",
+"website": "https://societe.com.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 22,
+"company": "Chocolate Bash Qatar",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 7472 7244",
+"email": "info@chocolatebash.qa",
+"website": "https://chocolatebash.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 23,
+"company": "Grey specialty coffee غري سبيشالتي كوفي",
+"category": "Cafe",
+"area": "Ras Abu Aboud",
+"phone": "+974 5000 8852",
+"email": "sales@greydoha.qa",
+"website": "https://greydoha.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 24,
+"company": "Little Sailor The Pearl Qatar",
+"category": "Cafe",
+"area": "The Pearl",
+"phone": "+974 3155 5605",
+"email": "info@littlesailor.com.qa",
+"website": "https://www.littlesailor.com.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 25,
+"company": "Mama Joy - Umm Salal | ماما جوي - ام صلال",
+"category": "Cafe",
+"area": "Umm Salal",
+"phone": "+974 5128 8894",
+"email": "info@mamajoy.qa",
+"website": "https://mamajoy.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 26,
+"company": "O2 Cafe - Aspire",
+"category": "Cafe",
+"area": "Katara",
+"phone": "+974 5045 1115",
+"email": "o2@o2cafe.qa",
+"website": "http://o2cafe.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 27,
+"company": "O2 Cafe - Duhail",
+"category": "Cafe",
+"area": "Al Duhail",
+"phone": "+974 3301 1161",
+"email": "o2@o2cafe.qa",
+"website": "https://o2cafe.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 28,
+"company": "O2 Cafe - Lusail Marina",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 3111 1917",
+"email": "o2@o2cafe.qa",
+"website": "https://www.o2cafe.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 29,
+"company": "TeaTime - Lusail Food Areana",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 7132 2622",
+"email": "info@teatime.qa",
+"website": "https://www.teatime.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 30,
+"company": "TeaTime - Lusail Marina",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 6662 3113",
+"email": "info@teatime.qa",
+"website": "https://teatime.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 31,
+"company": "Teak Talk Cafeteria",
+"category": "Cafe",
+"area": "Doha Jadeed",
+"phone": "+974 7780 3205",
+"email": "info@coffeistacatering.qa",
+"website": "https://coffeistacatering.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 32,
+"company": "The Loft Coffee",
+"category": "Cafe",
+"area": "The Pearl",
+"phone": "+974 5109 8777",
+"email": "info@theloft.qa",
+"website": "http://www.theloft.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 33,
+"company": "Twenty Eight Coffee",
+"category": "Cafe",
+"area": "Al Duhail",
+"phone": "+974 5053 2828",
+"email": "%20mail@twentyeight.qa",
+"website": "https://twentyeight.qa/",
+"check": "Nothing found",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 34,
+"company": "Zawya Speciality Coffee House | زاوية بيت القهوة المختصة",
+"category": "Cafe",
+"area": "Ras Abu Aboud",
+"phone": "+974 6005 8819",
+"email": "marketing@zawyacoffee.qa",
+"website": "https://www.zawyacoffee.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 35,
+"company": "1951 Cafe",
+"category": "Cafe",
+"area": "Onaiza",
+"phone": "+974 6661 1951",
+"email": "webmaster@1951cafe.com",
+"website": "http://1951cafe.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 36,
+"company": "Celebrities Cafe | سليبرتيز كافيه",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 3356 6696",
+"email": "care@brookieno.com",
+"website": "http://www.brookieno.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 37,
+"company": "Cherry beans Speciality Coffee",
+"category": "Cafe",
+"area": "Al Duhail",
+"phone": "+974 3376 8080",
+"email": "info@cherrybeans.com",
+"website": "http://cherrybeans.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 38,
+"company": "Coffee Beanery RAMADA",
+"category": "Cafe",
+"area": "Al Sadd",
+"phone": "+974 3386 9124",
+"email": "info@coffeebeanery.com",
+"website": "http://www.coffeebeanery.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 39,
+"company": "D Café - Centroqatar, Rawdat Al Hamama",
+"category": "Cafe",
+"area": "Al Kheesa",
+"phone": "+974 7789 3309",
+"email": "info@danahypermarket.com",
+"website": "https://danahypermarket.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 40,
+"company": "Fouj Cafe Lusail",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 3309 7715",
+"email": "customer.relations@horatiilounge.com",
+"website": "http://horatiilounge.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 41,
+"company": "Grupo Casa DR",
+"category": "Cafe",
+"area": "Al Markhiya",
+"phone": "+974 3322 4254",
+"email": "info@casadr.org",
+"website": "https://www.casadr.org/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 42,
+"company": "Maia Lounge - Lusail Boulevard",
+"category": "Cafe",
+"area": "Lusail Marina",
+"phone": "+974 5106 6633",
+"email": "info@maiachocolates.com",
+"website": "https://www.maiachocolates.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 43,
+"company": "Margherita",
+"category": "Cafe",
+"area": "Al Mirqab",
+"phone": "+974 3344 3922",
+"email": "info@pizzeriamargherita.com",
+"website": "http://www.pizzeriamargherita.com/en",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 44,
+"company": "Noora Cafe",
+"category": "Cafe",
+"area": "Mesaimeer",
+"phone": "+974 7170 1333",
+"email": "info@nooracafe.com",
+"website": "http://www.nooracafe.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 45,
+"company": "Rice & Bread Restaurant",
+"category": "Cafe",
+"area": "Doha Jadeed",
+"phone": "+974 3016 9329",
+"email": "reservations@oyyoplaza.com",
+"website": "http://www.oyyoplaza.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 46,
+"company": "Stormi Cafe",
+"category": "Cafe",
+"area": "Al Kheesa",
+"phone": "+974 5165 7555",
+"email": "info@stormicafe.com",
+"website": "http://www.stormicafe.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 47,
+"company": "كافي لاب LAP coffee",
+"category": "Cafe",
+"area": "Al Aziziya",
+"phone": "+974 5534 8334",
+"email": "info@lapcoffee.com",
+"website": "http://www.lapcoffee.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 48,
+"company": "Diet Cafe",
+"category": "Cafe",
+"area": "Al Waab",
+"phone": "+974 7048 0418",
+"email": "info@dietcafe.com.qa",
+"website": "http://www.tabeebak.qa/clinic-single/diet-cafe",
+"check": "Read off the site they point to",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 49,
+"company": "FRAME Specialty Coffee",
+"category": "Cafe",
+"area": "Legtaifiya",
+"phone": "+974 5088 3838",
+"email": "a@frame.qa",
+"website": "https://linktr.ee/Frameqa",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 50,
+"company": "TeaTime - Sports Club",
+"category": "Cafe",
+"area": "West Bay",
+"phone": "+974 5074 4888",
+"email": "info@teatime.qa",
+"website": "http://teatimeqatar.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 51,
+"company": "Caffé Concerto",
+"category": "Cafe",
+"area": "Al Mirqab",
+"phone": "+974 3356 1177",
+"email": "email@email.com",
+"website": "http://www.caffeconcerto.co.uk/",
+"check": "Confirmed on their own site",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 52,
+"company": "Chezelle",
+"category": "Cafe",
+"area": "Al Dafna",
+"phone": "+974 7151 4126",
+"email": "info.swissoteldoha@swissotel.com",
+"website": "https://www.swissotelcornichedoha.com/restaurants/chezelle/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 53,
+"company": "Delord Cafe",
+"category": "Cafe",
+"area": "Al Mirqab",
+"phone": "+974 6645 5354",
+"email": "orders@delord.com",
+"website": "http://www.delordcafe.com/",
+"check": "Read off the site they point to",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 54,
+"company": "Diet Shop",
+"category": "Cafe",
+"area": "Umm Salal",
+"phone": "+974 5999 4479",
+"email": "info@dietcenterqatar.com",
+"website": "https://www.dietcenter-qa.com/",
+"check": "Read off the site they point to",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 55,
+"company": "El Abd Products Center - Qatar",
+"category": "Cafe",
+"area": "Muntazah",
+"phone": "+974 5567 8222",
+"email": "sales@smartfoxtradingqa.com",
+"website": "https://linktr.ee/ElAbdPatisserieQatar",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 56,
+"company": "Ergon Deli & Café Doha",
+"category": "Cafe",
+"area": "West Bay",
+"phone": "+974 7046 4447",
+"email": "user@domain.com",
+"website": "https://www.ergonfoods.com/ergonstores",
+"check": "Confirmed on their own site",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 57,
+"company": "Graze Cafe - Villaggio Mall",
+"category": "Cafe",
+"area": "Al Waab",
+"phone": "+974 3371 1080",
+"email": "contact@sansoxygen.com",
+"website": "http://www.grazeqatar.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 58,
+"company": "Graze cafe",
+"category": "Cafe",
+"area": "Muntazah",
+"phone": "+974 5057 3650",
+"email": "contact@sansoxygen.com",
+"website": "http://www.grazeqatar.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 59,
+"company": "Shore Time Gharrafa - Ezdan Mall",
+"category": "Cafe",
+"area": "Al Gharrafa",
+"phone": "+974 3337 1116",
+"email": "info@classicdoha.com",
+"website": "https://www.shoretimepinoy.com/",
+"check": "Read off the site they point to",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 60,
+"company": "Shroom Cafe",
+"category": "Cafe",
+"area": "The Pearl",
+"phone": "+974 3056 5888",
+"email": "000000@sftp.dc0.gpaas.net",
+"website": "http://www.shroom.qa/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 61,
+"company": "Tiger Cookies",
+"category": "Cafe",
+"area": "Al Aziziya",
+"phone": "+974 3115 9799",
+"email": "info@tigercookies.com",
+"website": "http://www.tigercookies.com.qa/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 62,
+"company": "Bread N Butter",
+"category": "Cafe",
+"area": "Bin Mahmoud",
+"phone": "+974 6646 3500",
+"email": "breadnbutterdoha@gmail.com",
+"website": "https://www.facebook.com/bNbchristie?mibextid=LQQJ4d",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 63,
+"company": "Brooks Cafe",
+"category": "Cafe",
+"area": "Old Airport",
+"phone": "+974 3146 6733",
+"email": "brookscafeqatar@gmail.com",
+"website": "https://linktr.ee/brookscafeqatar",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 64,
+"company": "Chay Almas",
+"category": "Cafe",
+"area": "Al Aziziya",
+"phone": "+974 6630 9704",
+"email": "helmichouikh2311@gmail.com",
+"website": "https://m.facebook.com/p/100064672783060/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 65,
+"company": "DE L’AMOUR",
+"category": "Cafe",
+"area": "Abu Hamour",
+"phone": "+974 7015 8748",
+"email": "delamour_qa@outlook.com",
+"website": "https://scanned.page/p/WUiPS1",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 66,
+"company": "Dome Cafe",
+"category": "Cafe",
+"area": "Al Gharrafa",
+"phone": "+974 6623 6161",
+"email": "sports.domecafe@gmail.com",
+"website": "http://www.domecafe.shop/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 67,
+"company": "Go Foodie",
+"category": "Cafe",
+"area": "Al Thumama",
+"phone": "+974 3360 8489",
+"email": "foodwaver@gmail.com",
+"website": "https://www.restaurantlogin.com/api/fb/4_q9pn",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 68,
+"company": "House of Bites Cafe",
+"category": "Cafe",
+"area": "Al Kheesa",
+"phone": "+974 5030 8605",
+"email": "house.of.bites@hotmail.com",
+"website": "https://fato.me/s/Hob.com",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 69,
+"company": "Kabayan Brewers Specialty Coffee",
+"category": "Cafe",
+"area": "Bin Mahmoud",
+"phone": "+974 5019 9618",
+"email": "kabayanbrewers@gmail.com",
+"website": "https://www.facebook.com/kabayanbrewers",
+"check": "Site unreachable, held address kept",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 70,
+"company": "Qinwan Premium Dates & Cafe, Gate Mall",
+"category": "Cafe",
+"area": "Onaiza",
+"phone": "+974 7707 7119",
+"email": "mllegeorgesand@gmail.com",
+"website": "http://www.qinwandates.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 71,
+"company": "Tea & Buns Cafe",
+"category": "Cafe",
+"area": "Old Airport",
+"phone": "+974 5188 2425",
+"email": "teaandbun@gmail.com",
+"website": "https://teaandbuns.qa/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 72,
+"company": "Tea Social Cafe",
+"category": "Cafe",
+"area": "Bin Mahmoud",
+"phone": "+974 3030 3467",
+"email": "tech.ecmt@gmail.com",
+"website": "https://www.teasocialcafe-qa.com/",
+"check": "Confirmed on their own site",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 73,
+"company": "Verrocciqa",
+"category": "Cafe",
+"area": "Al Waab",
+"phone": "+974 6008 5133",
+"email": "verrocciqa@gmail.com",
+"website": "https://verrocciqa.com/",
+"check": "Site unreachable, held address kept",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 74,
+"company": "Hamad Dental center",
+"category": "Clinic",
+"area": "Bin Mahmoud",
+"phone": "+974 5070 9110",
+"email": "info@gulfcoast.qa",
+"website": "https://gulfcoast.qa/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 75,
+"company": "PetVet Care Hotel and Clinic",
+"category": "Clinic",
+"area": "Ras Abu Aboud",
+"phone": "+974 5062 8858",
+"email": "webmaster@fluffies.qa",
+"website": "http://www.fluffies.qa/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 76,
+"company": "AMAN MEDICAL & HEALTHCARE",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 7069 6376",
+"email": "info@amannursing.com",
+"website": "http://www.amannursing.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 77,
+"company": "Al Hadi Medical Center",
+"category": "Clinic",
+"area": "Al Gharrafa",
+"phone": "+974 6658 6964",
+"email": "info@alhadimedical.com",
+"website": "https://www.alhadimedical.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 78,
+"company": "Al Salam Medical Center - Muaither",
+"category": "Clinic",
+"area": "Industrial Area",
+"phone": "+974 3311 5330",
+"email": "contact@alsalammedical-qa.com",
+"website": "https://alsalammedical-qa.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 79,
+"company": "Al Salam Medical Polyclinic Center Sayliah",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 3066 0933",
+"email": "contact@alsalammedical-qa.com",
+"website": "http://alsalammedical-qa.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 80,
+"company": "Alkhanji Medical and Nursing Services",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 5000 1421",
+"email": "info@alkhanjimedical.com",
+"website": "http://www.alkhanjimedical.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 81,
+"company": "Alkharashy Dental Center Al Waab",
+"category": "Clinic",
+"area": "Al Waab",
+"phone": "+974 3004 3230",
+"email": "info@kingsdentalcenter.com",
+"website": "https://kingsdentalcenter.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 82,
+"company": "Boston Eye Clinic",
+"category": "Clinic",
+"area": "Al Markhiya",
+"phone": "+974 7711 0224",
+"email": "info@kingsdentalcenter.com",
+"website": "https://kingsdentalcenter.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 83,
+"company": "Family Medical Polyclinic, Al Aziziyah",
+"category": "Clinic",
+"area": "Industrial Area",
+"phone": "+974 3000 4029",
+"email": "info@omcdoha.com",
+"website": "http://www.omcdoha.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 84,
+"company": "Kings - Dental Center Markhiya, Qatar - مركز كينغز للاسنان المرخية",
+"category": "Clinic",
+"area": "Onaiza",
+"phone": "+974 7766 9947",
+"email": "info@kingsdentalcenter.com",
+"website": "https://kingsdentalcenter.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 85,
+"company": "Kings Dental Center Nuaija (Exclusive Ortho) - مركز كينجز لتقويم الأسنان - نعيجة, CR NO : 79505/9",
+"category": "Clinic",
+"area": "Al Thumama",
+"phone": "+974 3032 7137",
+"email": "info@kingsdentalcenter.com",
+"website": "https://kingsdentalcenter.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 86,
+"company": "Life Care Clinic",
+"category": "Clinic",
+"area": "Al Kheesa",
+"phone": "+974 3030 9966",
+"email": "contact@alsalammedical-qa.com",
+"website": "https://alsalammedical-qa.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 87,
+"company": "MBST Centre - Lusail",
+"category": "Clinic",
+"area": "Lusail Marina",
+"phone": "+974 5000 0295",
+"email": "info@mbst-gcc.com",
+"website": "https://mbst-gcc.com/",
+"check": "Site unreachable, held address kept",
+"flags": []
+},
+{
+"n": 88,
+"company": "Novomed Hair Transplant Center - Qatar",
+"category": "Clinic",
+"area": "Ras Abu Aboud",
+"phone": "+974 3322 7664",
+"email": "info@petscare-qa.com",
+"website": "http://www.petscare-qa.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 89,
+"company": "PHCC Doctor's Residence",
+"category": "Clinic",
+"area": "Legtaifiya",
+"phone": "+974 5060 0013",
+"email": "info@avcdoha.com",
+"website": "http://www.avcdoha.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 90,
+"company": "Recovery Lab",
+"category": "Clinic",
+"area": "Al Kheesa",
+"phone": "+974 5000 7045",
+"email": "info@petscare-qa.com",
+"website": "http://petscare-qa.com/",
+"check": "Confirmed on their own site",
+"flags": []
+},
+{
+"n": 91,
+"company": "Zain Dental Center مركز زين للأسنان",
+"category": "Clinic",
+"area": "Onaiza",
+"phone": "+974 5026 1261",
+"email": "info@zaindentalcenter.com",
+"website": "https://zaindentalcenter.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 92,
+"company": "Al Sultan Premier Medical Center",
+"category": "Clinic",
+"area": "Umm Salal",
+"phone": "+974 3000 5925",
+"email": "info@alsultanpmc.com",
+"website": "http://www.sultanpremier.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 93,
+"company": "Brite Medical Centre",
+"category": "Clinic",
+"area": "Al Thumama",
+"phone": "+974 6645 7639",
+"email": "yordomain@gmial.com",
+"website": "https://britemedicalcentre.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 94,
+"company": "Dr. Kutty’s Medical Centre",
+"category": "Clinic",
+"area": "Al Hilal",
+"phone": "+974 3991 3300",
+"email": "info@drkuttys.com",
+"website": "http://www.drkuttysmedicalcentre.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 95,
+"company": "Houston American Medical Center",
+"category": "Clinic",
+"area": "Umm Salal",
+"phone": "+974 3004 8948",
+"email": "info@hamc-qa.com",
+"website": "http://hamc.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 96,
+"company": "International Chinese Body Care Houses",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 6646 6599",
+"email": "user@domain.com",
+"website": "http://icbodycare.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 97,
+"company": "ROYA MEDICAL SERVICES",
+"category": "Clinic",
+"area": "Al Thumama",
+"phone": "+974 3307 6234",
+"email": "micah@micahrich.com",
+"website": "http://www.royamedicalservices.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 98,
+"company": "Aionis Health & Wellness Clinic",
+"category": "Clinic",
+"area": "Onaiza",
+"phone": "+974 7744 1020",
+"email": "%20domainname@gmail.com",
+"website": "https://www.aioniswellness.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 99,
+"company": "Al Aqsa Dental Center",
+"category": "Clinic",
+"area": "Al Kheesa",
+"phone": "+974 5075 0888",
+"email": "hrvetpointqatar@gmail.com",
+"website": "https://vetpointcentre.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 100,
+"company": "Alfa Health Centre",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 3379 8491",
+"email": "niyaz.roy@gmail.com",
+"website": "https://www.ahcunani.com/sexologist-in-doha-qatar",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 101,
+"company": "Avenues Dental Center",
+"category": "Clinic",
+"area": "Muntazah",
+"phone": "+974 3039 0888",
+"email": "avenuesdental@hotmail.com",
+"website": "http://avenuesdental.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 102,
+"company": "Doctor eye optics",
+"category": "Clinic",
+"area": "Al Mirqab",
+"phone": "+974 5029 3489",
+"email": "doctoreyeoptics@gmail.com",
+"website": "https://doctoreyeoptics.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 103,
+"company": "MEDVED PODO Foot Care",
+"category": "Clinic",
+"area": "Lusail Marina",
+"phone": "+974 3011 0320",
+"email": "medved.podo@gmail.com",
+"website": "https://medvedpodo.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 104,
+"company": "Relief Medical and Nursing Services",
+"category": "Clinic",
+"area": "Onaiza",
+"phone": "+974 3378 0173",
+"email": "noreply@gmail.com",
+"website": "https://reliefmedical.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 105,
+"company": "Sidra Hospital - Tower B",
+"category": "Clinic",
+"area": "Onaiza",
+"phone": "+974 3072 7630",
+"email": "alzomorodadc@gmail.com",
+"website": "https://zomorodadental.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 106,
+"company": "Skin Masters Aesthetics Center",
+"category": "Clinic",
+"area": "Lusail Marina",
+"phone": "+974 5010 1188",
+"email": "skinexpertsqatar@gmail.com",
+"website": "http://www.skinmasters.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 107,
+"company": "مركز هلا للتجميل",
+"category": "Beauty & Aesthetic Center",
+"area": "Al Sadd",
+"phone": "+974 7766 6234",
+"email": "sales@divasalon.qa",
+"website": "https://www.divasalon.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 108,
+"company": "On Fleek Beauty",
+"category": "Beauty & Aesthetic Center",
+"area": "Onaiza",
+"phone": "+974 5566 0333",
+"email": "hello@onfleekqatar.com",
+"website": "https://www.onfleekqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 109,
+"company": "Skin and Soul - Place Vendôme Women",
+"category": "Beauty & Aesthetic Center",
+"area": "Umm Salal",
+"phone": "+974 5595 5909",
+"email": "info@marianeayoub.com",
+"website": "http://www.marianeayoub.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 110,
+"company": "I QUEEN BEAUTY CENTER✅🥰 أي كوين بيوتي سنتر",
+"category": "Beauty & Aesthetic Center",
+"area": "Mesaimeer",
+"phone": "+974 7143 4848",
+"email": "sales@wallstreetqa.com",
+"website": "https://iqueenbeautycenter.inmyarea.in/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 111,
+"company": "Air Beauty Salon",
+"category": "Beauty & Aesthetic Center",
+"area": "Old Airport",
+"phone": "+974 3364 7826",
+"email": "namikadoha@gmail.com",
+"website": "https://rabaelizeme.wixsite.com/namika-qatar",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 112,
+"company": "Doha Beauty Center - Abu Sidra",
+"category": "Beauty & Aesthetic Center",
+"area": "Al Mirqab",
+"phone": "+974 5580 6400",
+"email": "dohabeauty06@gmail.com",
+"website": "http://dohabeautycenter.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 113,
+"company": "Rehab Beauty Salon- Abu Hamur Mesaimeer Rd",
+"category": "Beauty & Aesthetic Center",
+"area": "Abu Hamour",
+"phone": "+974 7709 6563",
+"email": "roqia_albag3r@hotmail.com",
+"website": "https://beautyboothqa.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 114,
+"company": "Rosabella Beauty Center",
+"category": "Beauty & Aesthetic Center",
+"area": "Al Aziziya",
+"phone": "+974 5586 0200",
+"email": "rosabellaqatar@gmail.com",
+"website": "https://www.rosabellabc.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 115,
+"company": "Equilibrium",
+"category": "Fitness Center",
+"area": "Lusail Marina",
+"phone": "+974 7777 6826",
+"email": "info@equilibrium.qa",
+"website": "https://www.equilibrium.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 116,
+"company": "EVOLVE",
+"category": "Fitness Center",
+"area": "The Pearl",
+"phone": "+974 5040 3234",
+"email": "info@evolvemindbodysoul.com",
+"website": "https://www.evolvemindbodysoul.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 117,
+"company": "Fyre Fit Doha",
+"category": "Fitness Center",
+"area": "Ras Abu Aboud",
+"phone": "+974 5503 0932",
+"email": "info@fyrefitdoha.com",
+"website": "https://www.fyrefitdoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 118,
+"company": "365ZK FITNESS CLUB",
+"category": "Fitness Center",
+"area": "Al Mirqab",
+"phone": "+974 7040 5455",
+"email": "info@fitkit.com",
+"website": "https://www.365zkfitnessclub.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 119,
+"company": "GRAND GOLD GYM",
+"category": "Fitness Center",
+"area": "Al Mirqab",
+"phone": "+974 5557 2002",
+"email": "boostgym.qa@gmail.com",
+"website": "http://boostgym.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 120,
+"company": "Al-Ramii Sport Clubs",
+"category": "Sports Club",
+"area": "Lusail Marina",
+"phone": "+974 6690 1602",
+"email": "info@alramiisc.qa",
+"website": "https://www.alramiisc.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 121,
+"company": "F45 Training WestBay",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 7068 9175",
+"email": "westbay@f45training.qa",
+"website": "https://f45training.qa/westbay",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 122,
+"company": "Fitzone sports",
+"category": "Sports Club",
+"area": "Abu Hamour",
+"phone": "+974 7737 2359",
+"email": "admin@fitzone.qa",
+"website": "http://www.fitzone.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 123,
+"company": "La Pelota - Lusail",
+"category": "Sports Club",
+"area": "Lusail Marina",
+"phone": "+974 7122 1799",
+"email": "info@lapelota.qa",
+"website": "https://www.lapelota.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 124,
+"company": "Me Time Wellness Center Qatar - Yoga & Thai Massage",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3997 2915",
+"email": "marketing@qashtootablaban.qa",
+"website": "http://www.qashtootablaban.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 125,
+"company": "New Identity",
+"category": "Sports Club",
+"area": "Al Waab",
+"phone": "+974 5992 5562",
+"email": "office@newidentity.qa",
+"website": "http://www.newidentity.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 126,
+"company": "ORX Boxing and Fitness Club",
+"category": "Sports Club",
+"area": "The Pearl",
+"phone": "+974 3338 5710",
+"email": "info@orxsports.qa",
+"website": "http://www.orxsports.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 127,
+"company": "PSG Academy Qatar",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3306 2115",
+"email": "info@psgacademy.qa",
+"website": "https://psgacademy.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 128,
+"company": "Shotokan Sport Center",
+"category": "Sports Club",
+"area": "Industrial Area",
+"phone": "+974 7777 1627",
+"email": "info@shotokansportcenter.qa",
+"website": "https://shotokansportcenter.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 129,
+"company": "20M Fit By I-Motion SPAIN",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3300 2248",
+"email": "contactus@20mfit.com",
+"website": "http://www.20mfit.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 130,
+"company": "Alpha MMA Qatar",
+"category": "Sports Club",
+"area": "Al Mirqab",
+"phone": "+974 6644 5581",
+"email": "info@ascqa.com",
+"website": "https://ascqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 131,
+"company": "Blaster Sports Center",
+"category": "Sports Club",
+"area": "Al Thumama",
+"phone": "+974 3348 1833",
+"email": "contact@blastersqatar.com",
+"website": "https://www.blastersqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 132,
+"company": "Clement sports Al Wajba",
+"category": "Sports Club",
+"area": "Industrial Area",
+"phone": "+974 7751 2469",
+"email": "admin@clementsports.com",
+"website": "https://www.clementsports.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 133,
+"company": "Global Gym",
+"category": "Sports Club",
+"area": "Al Markhiya",
+"phone": "+974 3377 8862",
+"email": "info@globalgymdoha.com",
+"website": "http://www.globalgymdoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 134,
+"company": "Gulf Sports Club Academy",
+"category": "Sports Club",
+"area": "Al Mirqab",
+"phone": "+974 5559 6639",
+"email": "info@gulfsportsclub.com",
+"website": "https://gulfsportsclub.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 135,
+"company": "Gulf Sports Club Dafna",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 7722 9987",
+"email": "info@gulfsportsclub.com",
+"website": "https://www.gulfsportsclub.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 136,
+"company": "ICON Football Academy",
+"category": "Sports Club",
+"area": "Al Thumama",
+"phone": "+974 5070 0999",
+"email": "info@iconsports.club",
+"website": "http://www.iconsports.club/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 137,
+"company": "Ninja Vigor",
+"category": "Sports Club",
+"area": "Abu Hamour",
+"phone": "+974 5098 8229",
+"email": "info@ninjavigor.com",
+"website": "https://www.ninjavigor.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 138,
+"company": "Sparta Sports Academy",
+"category": "Sports Club",
+"area": "Katara",
+"phone": "+974 6603 7475",
+"email": "info@spartasa.com",
+"website": "http://www.spartasa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 139,
+"company": "Squad Five Training",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3303 9106",
+"email": "admin@squad5training.com",
+"website": "https://squad5training.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 140,
+"company": "StrongBox Functional Fitness",
+"category": "Sports Club",
+"area": "Al Kheesa",
+"phone": "+974 3360 0146",
+"email": "info@strongboxqatar.com",
+"website": "http://www.strongboxqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 141,
+"company": "The Backyard",
+"category": "Sports Club",
+"area": "The Pearl",
+"phone": "+974 3300 3839",
+"email": "info@thebackyarddoha.com",
+"website": "http://www.thebackyarddoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 142,
+"company": "XFactor Sports Center",
+"category": "Sports Club",
+"area": "Al Hilal",
+"phone": "+974 3128 2831",
+"email": "info@xfactorqa.com",
+"website": "http://www.xfactorqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 143,
+"company": "Esqalar Sports Climbing Wall",
+"category": "Sports Club",
+"area": "Onaiza",
+"phone": "+974 5553 7177",
+"email": "info@esqalar.qa",
+"website": "https://esqalarsports.wordpress.com/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 144,
+"company": "F45 Training Alsadd",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3113 9961",
+"email": "alsadd.admin@f45training.qa",
+"website": "https://f45training.com/qa/studio/alsadd/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 145,
+"company": "F45 Training Sports City Qatar",
+"category": "Sports Club",
+"area": "Al Mirqab",
+"phone": "+974 3066 6799",
+"email": "sportscityqatar.admin@f45training.qa",
+"website": "https://f45training.com/qa/studio/sportscityqatar/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 146,
+"company": "FS8 West Bay",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 3111 2582",
+"email": "westbay.admin@fs8studio.qa",
+"website": "https://fs8.com/westbay/home",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 147,
+"company": "Fortitude Qatar",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 6699 2327",
+"email": "fortitude@sfqacademy.qa",
+"website": "https://www.fortitude.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 148,
+"company": "Gzal Al shaqab",
+"category": "Sports Club",
+"area": "Ras Abu Aboud",
+"phone": "+974 3077 1715",
+"email": "sportscity@fs8studio.qa",
+"website": "https://fs8.com/sportscity",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 149,
+"company": "Athlete's Universe Calisthenics and Weightlifting Gym",
+"category": "Sports Club",
+"area": "Onaiza",
+"phone": "+974 6630 2002",
+"email": "info@athletesuni.com",
+"website": "http://www.athletes-fit.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 150,
+"company": "Korankye Sports Skating & Roller Academy Doha",
+"category": "Sports Club",
+"area": "Najma",
+"phone": "+974 5077 9969",
+"email": "example@example.com",
+"website": "https://tiktok.com/@hiddenstardream",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"social_or_hosted_site"
+]
+},
+{
+"n": 151,
+"company": "Live Life Qatar",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 6634 9110",
+"email": "hello@rfuenzalida.com",
+"website": "http://www.livelifeqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 152,
+"company": "Oryx Sport Academy",
+"category": "Sports Club",
+"area": "The Pearl",
+"phone": "+974 6681 6295",
+"email": "user@domain.com",
+"website": "https://www.altitude.qa/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 153,
+"company": "PPR GYM",
+"category": "Sports Club",
+"area": "Al Sadd",
+"phone": "+974 7700 5607",
+"email": "doha@pullpushrun.club",
+"website": "https://demopullpuchrun.web.app/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 154,
+"company": "Qatar Karate",
+"category": "Sports Club",
+"area": "Al Aziziya",
+"phone": "+974 7409 9011",
+"email": "info@karateqatar.com",
+"website": "https://www.qatarkarate.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 155,
+"company": "UNITED MARTIAL ARTS ACADEMY INTERNATIONAL",
+"category": "Sports Club",
+"area": "Al Hilal",
+"phone": "+974 3398 4984",
+"email": "info@karateqatar.com",
+"website": "http://www.qatarkarate.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 156,
+"company": "ASA SPORTS QATAR",
+"category": "Sports Club",
+"area": "Al Hilal",
+"phone": "+974 3041 0010",
+"email": "c.moe.asa@gmail.com",
+"website": "https://www.asasportsqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 157,
+"company": "Brazilian Power Team Qatar - BJJ",
+"category": "Sports Club",
+"area": "Al Mirqab",
+"phone": "+974 5575 8964",
+"email": "bptqatar0@gmail.com",
+"website": "https://www.bpt.com.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 158,
+"company": "City Fitness Gym",
+"category": "Sports Club",
+"area": "Al Mirqab",
+"phone": "+974 7133 1599",
+"email": "cityfitnessgym1599@gmail.com",
+"website": "https://cityfitnessgym.fitness/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 159,
+"company": "Masters Martial Arts - Al Mansoura",
+"category": "Sports Club",
+"area": "Al Hilal",
+"phone": "+974 7135 0077",
+"email": "mastersmartialarts.qa@gmail.com",
+"website": "https://mastersmartialartsintl.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 160,
+"company": "QB Hoops Basketball Academy",
+"category": "Sports Club",
+"area": "Al Kheesa",
+"phone": "+974 6651 4400",
+"email": "coachkhaldoun@gmail.com",
+"website": "https://qbhoops.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 161,
+"company": "The Indoorster Cycling Studio",
+"category": "Sports Club",
+"area": "West Bay",
+"phone": "+974 6690 0393",
+"email": "jonpinhorn.typedesign@gmail.com",
+"website": "https://theindoorster.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 162,
+"company": "sportsvision.club",
+"category": "Sports Club",
+"area": "Lusail Marina",
+"phone": "+974 6651 7779",
+"email": "admn.sportsvision@gmail.com",
+"website": "https://sportsvision.club/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 163,
+"company": "ماركت الودان للتجارة Alwadan Market Trading",
+"category": "Supermarket",
+"area": "Bin Mahmoud",
+"phone": "+974 3076 3638",
+"email": "info@alwadan.qa",
+"website": "http://www.alwadan.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 164,
+"company": "Halaw Kakaw West Walk حلاو ككاو ويست ووك",
+"category": "Supermarket",
+"area": "Al Aziziya",
+"phone": "+974 5093 1333",
+"email": "support@onelink.to",
+"website": "http://onelink.to/kxk4ev",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site"
+]
+},
+{
+"n": 165,
+"company": "Regency Hyper Trade Center (Al Gharraffa)",
+"category": "Supermarket",
+"area": "Al Gharrafa",
+"phone": "+974 5115 4472",
+"email": "web@regencyqtr.com",
+"website": "https://regencyxpress.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 166,
+"company": "AL RAHAILI GROCERY بقالة الرحيلي",
+"category": "Supermarket",
+"area": "Legtaifiya",
+"phone": "+974 7402 1576",
+"email": "alrahailigrocery7@gmail.com",
+"website": "https://alrahailigrocery7.wixsite.com/alrahailigrocery-2",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 167,
+"company": "Monop - Porto Arabia",
+"category": "Supermarket",
+"area": "Lusail Marina",
+"phone": "+974 3037 6000",
+"email": "orders.thegrocer@gmail.com",
+"website": "https://thegrocer.com.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 168,
+"company": "Al Malaki Fresh - Fereej Al Kulaib",
+"category": "Hypermarket",
+"area": "Al Markhiya",
+"phone": "+974 7222 2161",
+"email": "info@almalakifresh.com",
+"website": "https://almalakifresh.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 169,
+"company": "ADCON Carpentry Workshop",
+"category": "Furniture Shop",
+"area": "Industrial Area",
+"phone": "+974 5011 9045",
+"email": "info@adconqatar.com",
+"website": "http://www.adconqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 170,
+"company": "Qatar Furniture Market 🇶🇦",
+"category": "Furniture Shop",
+"area": "Al Mirqab",
+"phone": "+974 5000 4612",
+"email": "admin@qatarfurnituremarket.com",
+"website": "https://qatarfurnituremarket.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 171,
+"company": "Selection Furniture",
+"category": "Furniture Shop",
+"area": "Msheireb Downtown",
+"phone": "+974 3338 4503",
+"email": "info@selectionfurnitureqa.com",
+"website": "https://selectionfurnitureqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 172,
+"company": "Symbol Mattress",
+"category": "Furniture Shop",
+"area": "Muntazah",
+"phone": "+974 3383 3328",
+"email": "info@leather-tech.net",
+"website": "http://www.leather-tech.net/M",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 173,
+"company": "بو غنيم لتنجيد السيارات واكسسوارات bu ghunaim car upholstery and accessories",
+"category": "Furniture Shop",
+"area": "Onaiza",
+"phone": "+974 7472 5979",
+"email": "info@bughunaimauto.com",
+"website": "https://bughunaimauto.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 174,
+"company": "VOLEX Kitchens - فولكس للمطابخ",
+"category": "Furniture Shop",
+"area": "Industrial Area",
+"phone": "+974 3100 5977",
+"email": "info@volexco.com",
+"website": "http://volexqa.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 175,
+"company": "Zain Mattress",
+"category": "Furniture Shop",
+"area": "Al Dafna",
+"phone": "+974 3020 6898",
+"email": "info@qatarfurniture.com",
+"website": "https://qatarfurniture.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 176,
+"company": "Al Ruhul Furniture",
+"category": "Furniture Shop",
+"area": "Al Mirqab",
+"phone": "+974 5559 5736",
+"email": "alruhulfurnituredoha@gmail.com",
+"website": "https://alruhulfurniture.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 177,
+"company": "GOOD CHOICE FURNITURE الخيار الجيد للمفروشات",
+"category": "Furniture Shop",
+"area": "Al Gharrafa",
+"phone": "+974 5577 5569",
+"email": "qatarfurnituremart@yahoo.com",
+"website": "http://www.qatarfurnituremart.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 178,
+"company": "OSQ for Pets in Qatar",
+"category": "Home Decor",
+"area": "Ras Abu Aboud",
+"phone": "+974 7003 0211",
+"email": "info@onlineshopping.qa",
+"website": "http://www.onlineshopping.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 179,
+"company": "Dohans Qatar",
+"category": "Home Decor",
+"area": "Abu Hamour",
+"phone": "+974 6604 3078",
+"email": "info@dohansqatar.com",
+"website": "http://www.dohansqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 180,
+"company": "Hempel Paints - Rusiya Trading & Contracting Co WLL - Rayyan Branch",
+"category": "Home Decor",
+"area": "Katara",
+"phone": "+974 7449 6088",
+"email": "hempel@hempel.com",
+"website": "https://www.hempel.com/en-me",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 181,
+"company": "Home Decor",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 3107 0701",
+"email": "sales@executeinteriors.com",
+"website": "http://www.executeinteriors.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 182,
+"company": "Mas Paints",
+"category": "Home Decor",
+"area": "Najma",
+"phone": "+974 5554 4194",
+"email": "sales@maspaints.com",
+"website": "https://maspaints.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 183,
+"company": "New Design Cont. and Transportation W.L.L",
+"category": "Home Decor",
+"area": "West Bay",
+"phone": "+974 6612 2388",
+"email": "info@ndcqatar.com",
+"website": "http://www.ndcqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 184,
+"company": "Party balloon doha",
+"category": "Home Decor",
+"area": "Old Airport",
+"phone": "+974 5534 6023",
+"email": "sales@partyballoondohaqatar.com",
+"website": "https://partyballoondohaqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 185,
+"company": "Wowzer Marble Qatar",
+"category": "Home Decor",
+"area": "Ras Abu Aboud",
+"phone": "+974 6655 5244",
+"email": "khalid@wowzerqatar.com",
+"website": "http://wowzerqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 186,
+"company": "Confident Upholstery Qatar",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 3364 5456",
+"email": "info@confidentupholstery.com",
+"website": "https://confidentupholstery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 187,
+"company": "Qatar Home Studio - Online Store",
+"category": "Home Decor",
+"area": "Onaiza",
+"phone": "+974 3015 6669",
+"email": "info@qatarhomestudio.com",
+"website": "https://qatarhomestudio.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 188,
+"company": "Circuit Store | سيركت ستور - Al Gharrafa",
+"category": "Home Decor",
+"area": "Al Gharrafa",
+"phone": "+974 7772 5674",
+"email": "info@circuitstore.qa",
+"website": "https://reach.link/circuitstore",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 189,
+"company": "AlOthman Fashion Doha",
+"category": "Home Decor",
+"area": "Msheireb Downtown",
+"phone": "+974 3116 8427",
+"email": "design@carpetcellar.com",
+"website": "https://me.carpetcellar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 190,
+"company": "Artland Interior & Trading WLL ( Artland Furniture Factory )",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 7741 7197",
+"email": "info@artland-qa.com",
+"website": "https://artlandinterior-qa.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 191,
+"company": "Poltrona Frau Design Center",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 5551 7138",
+"email": "info@pfdesigncenter-qatar.com",
+"website": "https://www.poltronafrau.com/ww/en/store-locator/poltrona-frau-doha-by-cdc-construction--005596-3.html",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 192,
+"company": "Saving Square - Tawar Mall",
+"category": "Home Decor",
+"area": "Al Markhiya",
+"phone": "+974 5582 7039",
+"email": "contactus@alshaheengroups.com",
+"website": "https://alshaheenest.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 193,
+"company": "Al Abdali curtain furniture",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 6688 7149",
+"email": "alabadelafurniture@gmail.com",
+"website": "https://alabadelafurniture.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 194,
+"company": "Aspire Furniture Curtains & Blinds Qatar WLL -اثاث ,ابواب, ستائر قطر | Wooden Doors & WPC Doors, Window Blind curtains Qatar",
+"category": "Home Decor",
+"area": "Ras Abu Aboud",
+"phone": "+974 5595 3309",
+"email": "aspirefq@gmail.com",
+"website": "https://www.aspireblindsdoha.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 195,
+"company": "Bankok Curtain Store | Curtain & Blind Supplier in Doha",
+"category": "Home Decor",
+"area": "Najma",
+"phone": "+974 3333 7156",
+"email": "bangkokstore56@gmail.com",
+"website": "https://bankokcurtainstore.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 196,
+"company": "Qatar Glass Maintain",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 3068 4064",
+"email": "qatarglassmainten@gmail.com",
+"website": "https://qatarglassmainten.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 197,
+"company": "unique Interior Design Doha, Qatar | Baithana Lilmafrushat",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 5569 5453",
+"email": "uniqueinteriordesigndoha@gmail.com",
+"website": "https://uniqueinteriordesigndoha.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 198,
+"company": "Abdul Sofa Upholstery Doha",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 6650 6956",
+"email": "sofaupholsterydoha@gmail.com",
+"website": "https://sofaupholsteryindoha.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 199,
+"company": "Furniture Mart Qatar",
+"category": "Home Decor",
+"area": "Doha Jadeed",
+"phone": "+974 5535 2383",
+"email": "furnituremart194@gmail.com",
+"website": "https://furnituremartqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 200,
+"company": "Al Thuraya International Kindergarten",
+"category": "Private School",
+"area": "Al Mirqab",
+"phone": "+974 3379 2643",
+"email": "info@althurayakg.com",
+"website": "http://althurayakg.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 201,
+"company": "Alpha Cambridge School in Doha",
+"category": "Private School",
+"area": "Industrial Area",
+"phone": "+974 5030 4220",
+"email": "registrar@acsqatar.net",
+"website": "http://www.acsqatar.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 202,
+"company": "Arkansas State University - Qatar",
+"category": "Private School",
+"area": "Al Mirqab",
+"phone": "+974 7771 5438",
+"email": "info@astateqatar.com",
+"website": "https://astateqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 203,
+"company": "Bright Minds Kindergarten",
+"category": "Private School",
+"area": "Al Markhiya",
+"phone": "+974 5512 4555",
+"email": "info@brightminds-qa.com",
+"website": "http://brightminds-qa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 204,
+"company": "Galileo International School",
+"category": "Private School",
+"area": "Al Mirqab",
+"phone": "+974 3031 3523",
+"email": "enquiry@galileois.com",
+"website": "http://galileois.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 205,
+"company": "Jellyfish Nursery",
+"category": "Private School",
+"area": "Al Mirqab",
+"phone": "+974 7748 4666",
+"email": "info@jellyfishnursery.com",
+"website": "http://jellyfishnursery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 206,
+"company": "Little Cambridge Nursery",
+"category": "Private School",
+"area": "Muntazah",
+"phone": "+974 6647 9479",
+"email": "admissions@littlecambridgenursery.com",
+"website": "http://www.littlecambridgenursery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 207,
+"company": "AYALNA KINDERGARTEN MUAITHER",
+"category": "Private School",
+"area": "Katara",
+"phone": "+974 6619 4333",
+"email": "ayalna@ayalana.com",
+"website": "https://www.ayalna.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 208,
+"company": "Alreyadah International kindergarten",
+"category": "Private School",
+"area": "Katara",
+"phone": "+974 3311 1240",
+"email": "info@eduweb.com",
+"website": "http://alreyadahkindergarten.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 209,
+"company": "Coventry Kindergarten",
+"category": "Private School",
+"area": "Al Thumama",
+"phone": "+974 6003 3221",
+"email": "info@eduweb.com",
+"website": "http://coventrykg.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 210,
+"company": "Oxford English School, Gharafa Doha-Qatar",
+"category": "Private School",
+"area": "Al Gharrafa",
+"phone": "+974 3130 7771",
+"email": "info@oxfordenglishschool1.com",
+"website": "https://oxfordschoolqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 211,
+"company": "Newton British School",
+"category": "Private School",
+"area": "Al Thumama",
+"phone": "+974 3309 9661",
+"email": "schoolsinqatar@gmail.com",
+"website": "https://schoolsinqatar.net/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 212,
+"company": "Private Nisab Kindergarten",
+"category": "Private School",
+"area": "Katara",
+"phone": "+974 6620 3311",
+"email": "naiseb.kg.education@gmail.com",
+"website": "https://naiseb.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 213,
+"company": "Study Care Education Center",
+"category": "Private School",
+"area": "Muntazah",
+"phone": "+974 5031 9624",
+"email": "studycareqatar@gmail.com",
+"website": "https://studycareqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 214,
+"company": "روضة المعرفة الخاصة",
+"category": "Private School",
+"area": "Al Mirqab",
+"phone": "+974 3324 6662",
+"email": "almaerifah2021@gmail.com",
+"website": "https://almaerifahkindergarten.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 215,
+"company": "World Wonders Tours - Qatar",
+"category": "Travel Agency",
+"area": "Lusail Marina",
+"phone": "+974 3030 3077",
+"email": "info@wwt.qa",
+"website": "https://wwt.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 216,
+"company": "Adems Travel",
+"category": "Travel Agency",
+"area": "West Bay",
+"phone": "+974 7727 5676",
+"email": "info@ademstravel.com",
+"website": "http://www.ademstravel.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 217,
+"company": "Alroda travels سفريات الروضة",
+"category": "Travel Agency",
+"area": "Onaiza",
+"phone": "+974 6696 2121",
+"email": "info@rotrav.com",
+"website": "https://www.rotrav.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 218,
+"company": "BLUE ISLAND TRAVELS",
+"category": "Travel Agency",
+"area": "Industrial Area",
+"phone": "+974 5020 6291",
+"email": "info@blueislandholidays.com",
+"website": "http://www.blueislandholidays.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 219,
+"company": "LankaExplorer Holidays",
+"category": "Travel Agency",
+"area": "Onaiza",
+"phone": "+974 6697 0361",
+"email": "tour@lankaexplorer.net",
+"website": "http://www.lankaexplorer.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 220,
+"company": "76Adventure for tourism services",
+"category": "Travel Agency",
+"area": "Onaiza",
+"phone": "+974 5008 9016",
+"email": "info@76adventuretours.com",
+"website": "http://76adventure.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 221,
+"company": "Flywell Holidays",
+"category": "Travel Agency",
+"area": "West Bay",
+"phone": "+974 3144 2255",
+"email": "info@example.com",
+"website": "http://www.flywellholidays.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 222,
+"company": "Elite Escape",
+"category": "Travel Agency",
+"area": "Bin Mahmoud",
+"phone": "+974 5188 2822",
+"email": "ayaatheliteescapeqa@gmail.com",
+"website": "https://www.eliteescape.co/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 223,
+"company": "Torch Desert Safari and Tour",
+"category": "Travel Agency",
+"area": "Abu Hamour",
+"phone": "+974 3007 9996",
+"email": "torchsafari@gmail.com",
+"website": "http://www.torchdesertsafaritour.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 224,
+"company": "Time Travel Mate Tours",
+"category": "Travel Agency",
+"area": "West Bay",
+"phone": "+974 5004 3485",
+"email": "timetravelmate@gmail.com",
+"website": "http://www.timetravelmate.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 225,
+"company": "Al Jadwal",
+"category": "Tour Operator",
+"area": "Al Thumama",
+"phone": "+974 7749 9399",
+"email": "management@jadwal.qa",
+"website": "https://jadwal.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 226,
+"company": "Darwish United Travels",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 7400 0949",
+"email": "info@matrixtravel.qa",
+"website": "http://www.matrixtravel.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 227,
+"company": "Travelous Doha Inbound Tours",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 5000 1349",
+"email": "info@wejhaat.com.qa",
+"website": "https://wejhaat.com.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 228,
+"company": "king travel",
+"category": "Tour Operator",
+"area": "Bin Mahmoud",
+"phone": "+974 3002 0098",
+"email": "ops@kingtravel.qa",
+"website": "http://kingtravel.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 229,
+"company": "365 adventures and excursions in Doha Qatar",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 3028 9802",
+"email": "inbound@desertfoxqatar.com",
+"website": "http://www.desertfoxqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 230,
+"company": "Al Kanz Trading and Services",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 7400 1007",
+"email": "info@travelistapp.app",
+"website": "http://www.travelistapp.app/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 231,
+"company": "DMC DOHA HOLIDAYS & STOPOVER TOURS ( TRANSIT LAYOVER STOPOVER IN DOHA CITY TOUR, DESERT SAFARI IN DOHA, QATAR",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 6633 2260",
+"email": "support@oatqatar.com",
+"website": "https://www.oatqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 232,
+"company": "Desert safari doha qatar",
+"category": "Tour Operator",
+"area": "Umm Salal",
+"phone": "+974 3111 2131",
+"email": "info@qatardeserttour.com",
+"website": "https://www.qatardeserttour.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 233,
+"company": "Dream Route Tourism",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 3053 2666",
+"email": "info@dreamroutetourism.com",
+"website": "https://dreamroutetourism.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 234,
+"company": "Flytic Travel And Tours",
+"category": "Tour Operator",
+"area": "Umm Salal",
+"phone": "+974 5122 9901",
+"email": "info@flytictravelandtours.com",
+"website": "https://flytictravelandtours.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 235,
+"company": "Jnan Tours Qatar",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 3399 1975",
+"email": "info@qadventuretransit.com",
+"website": "https://qadventuretransit.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 236,
+"company": "KD Tourism Qatar (Desert Safari)",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 7700 1541",
+"email": "info@nobletourismqatar.com",
+"website": "https://www.nobletourismqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 237,
+"company": "MK Holidays & Tourism",
+"category": "Tour Operator",
+"area": "Al Sadd",
+"phone": "+974 7734 2974",
+"email": "info@mkholidaystourism.com",
+"website": "http://www.mkholidaystourism.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 238,
+"company": "Qatar Desert Safari Tour",
+"category": "Tour Operator",
+"area": "Ras Abu Aboud",
+"phone": "+974 7774 1900",
+"email": "book@desertsafariqatar.com",
+"website": "https://www.desertsafariqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 239,
+"company": "Qatar Inbound Tours - Doha",
+"category": "Tour Operator",
+"area": "Mesaimeer",
+"phone": "+974 7734 1200",
+"email": "info@inboundtoursqatar.com",
+"website": "http://www.inboundtoursqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 240,
+"company": "Rehlaty Travel and Tourism",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 6600 0258",
+"email": "info@q-explorer.com",
+"website": "http://www.q-explorer.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 241,
+"company": "Safe World Tours & Travels",
+"category": "Tour Operator",
+"area": "Mesaimeer",
+"phone": "+974 7100 0577",
+"email": "info@safeworldtravels.com",
+"website": "https://www.safeworldtravels.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 242,
+"company": "Smart Way Limousine and Tour Transportation Qatar",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 3351 4065",
+"email": "info@smartwaycab.com",
+"website": "https://smartwaycab.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 243,
+"company": "Nomad Trail Tourism",
+"category": "Tour Operator",
+"area": "Al Waab",
+"phone": "+974 5204 4489",
+"email": "info@nomadtourismqatar.com",
+"website": "https://www.nomadtourismqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 244,
+"company": "Pearlsofdoha",
+"category": "Tour Operator",
+"area": "The Pearl",
+"phone": "+974 6692 0442",
+"email": "info@pearlsofdoha.com",
+"website": "http://www.pearlsofdoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 245,
+"company": "Al Ghaya Tours",
+"category": "Tour Operator",
+"area": "Al Mirqab",
+"phone": "+974 6648 3555",
+"email": "user@domain.com",
+"website": "https://www.alghayatours.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 246,
+"company": "Desert Safari & City Tour Qatar",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 3169 0268",
+"email": "info@xtravel.com",
+"website": "https://desertsafariqtr.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 247,
+"company": "Moon Doha Travels & Tourism Doha Al Jedeeda",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 3023 3207",
+"email": "globe@2x.webp",
+"website": "https://discoverarabia.today/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 248,
+"company": "Murex Activities and Tours",
+"category": "Tour Operator",
+"area": "Al Gharrafa",
+"phone": "+974 3358 8899",
+"email": "globe@2x.webp",
+"website": "https://murexqatartours.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 249,
+"company": "Best Of Time Tourism",
+"category": "Tour Operator",
+"area": "Abu Hamour",
+"phone": "+974 3115 7722",
+"email": "bestoftimetourism@gmail.com",
+"website": "https://bestoftimetourism.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 250,
+"company": "Desert Safari Qatar My Guest",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 7028 7663",
+"email": "hallysafety@yahoo.com",
+"website": "https://www.alumaco.com.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 251,
+"company": "HULOOL Tourism",
+"category": "Tour Operator",
+"area": "Najma",
+"phone": "+974 7211 6464",
+"email": "hulooltourism@gmail.com",
+"website": "https://www.hulooltourism.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 252,
+"company": "Qatar Excursions",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 5200 0972",
+"email": "travelousdoha@gmail.com",
+"website": "https://traveloustour.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 253,
+"company": "Sandscape Adventures & Tours",
+"category": "Tour Operator",
+"area": "Msheireb Downtown",
+"phone": "+974 6633 0408",
+"email": "sandscapeadv@gmail.com",
+"website": "https://sandscapeadventures.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 254,
+"company": "Travel & Tourism",
+"category": "Tour Operator",
+"area": "Industrial Area",
+"phone": "+974 7474 0441",
+"email": "dohatoursandholidaysdmc@gmail.com",
+"website": "https://qatarholidaysdmc.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 255,
+"company": "Ocean Rent A Car - Lusail Boulevard",
+"category": "Car Rental Company (Luxury)",
+"area": "Lusail Marina",
+"phone": "+974 3364 0652",
+"email": "info@oceancars.com.qa",
+"website": "http://www.oceancars.com.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 256,
+"company": "A Star Limousine Qatar, Doha - Luxury Limousine Company Qatar, Doha | Bus Rental Qatar | ليموزين & تاجير سيارات",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 3123 4646",
+"email": "operations@astarlimousineqa.com",
+"website": "https://www.astarlimousineqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 257,
+"company": "AL NAAS RENTAL CAR الناس لتأجير السيارات",
+"category": "Car Rental Company (Luxury)",
+"area": "Najma",
+"phone": "+974 3997 7997",
+"email": "admin@al-naas.com",
+"website": "http://www.al-naas.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 258,
+"company": "Alnabigha Chauffeur & Limousine Services in Qatar",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Gharrafa",
+"phone": "+974 3997 8000",
+"email": "booking@alnabigha.com",
+"website": "http://www.alnabigha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 259,
+"company": "Blue Flower Fleets",
+"category": "Car Rental Company (Luxury)",
+"area": "Ras Abu Aboud",
+"phone": "+974 5552 3273",
+"email": "info@blueflowerqatar.com",
+"website": "https://www.blueflowerqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 260,
+"company": "Compass Rent A Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 3114 2282",
+"email": "info@compassqtr.com",
+"website": "https://compassqtr.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 261,
+"company": "Country Rent A Car Services",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 5045 9447",
+"email": "webmaster@countryrentacar.com",
+"website": "http://www.countryrentacar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 262,
+"company": "Doha Cab",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Gharrafa",
+"phone": "+974 5510 6863",
+"email": "info@dohacab.com",
+"website": "http://www.dohacab.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 263,
+"company": "Mannai Auto Rent",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 3130 7183",
+"email": "info@daskarentacar.com",
+"website": "https://www.daskarentacar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 264,
+"company": "Quality Doha Rent a Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 5080 9066",
+"email": "info@qualitydohagroup.com",
+"website": "http://qualitydohagroup.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 265,
+"company": "Queen Cars Rent A Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 7000 8977",
+"email": "sales@queencarsrentacar.com",
+"website": "https://www.queencarsrentacar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 266,
+"company": "Select Rent a Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 3136 6623",
+"email": "info@selectqatar.com",
+"website": "https://www.selectqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 267,
+"company": "Green Motion Qatar",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 7777 2592",
+"email": "reservations@greenmotion.qa",
+"website": "https://greenmotion.com/locations/qatar/doha-downtown",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 268,
+"company": "AL SADEED LUXURY RENTAL",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 7075 0055",
+"email": "you@email.com",
+"website": "http://www.alsadeedluxuryrental.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 269,
+"company": "Belady rent a car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 3388 3881",
+"email": "needhelp@company.com",
+"website": "http://www.beladyqa.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 270,
+"company": "DLE Rentals",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 5588 4241",
+"email": "rentalinfo@vroomo.com",
+"website": "https://www.dohafalcon.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 271,
+"company": "Gulfcar Rent Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 7058 6089",
+"email": "rental@gulfcar.com",
+"website": "https://rent.gulfcar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 272,
+"company": "Infinity Limousine Service انفنتي لخدمات الليموزين",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 7777 9256",
+"email": "promotors@email.com",
+"website": "https://www.infinity-qatar.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 273,
+"company": "J&F Qatar Autolease W.L.L.",
+"category": "Car Rental Company (Luxury)",
+"area": "Industrial Area",
+"phone": "+974 5040 0624",
+"email": "ashley.lindsay@isobar.com",
+"website": "https://www.nationalcar.com/en/car-rental/locations/qa/doha-hamad-international-airport-kqn1.html?mcid=yext:245709&utm_source=yext&utm_medium=local",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 274,
+"company": "PEACE RENT A CAR",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 3037 7888",
+"email": "email@domain.com",
+"website": "https://peacerentacar.qa/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 275,
+"company": "Skyway Limousine",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Thumama",
+"phone": "+974 3000 3546",
+"email": "info@skywayqatar-com.preview-domain.com",
+"website": "http://www.skywayqatar.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 276,
+"company": "Strong Rent A Car - Hamad International Airport Branch",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 5012 3189",
+"email": "info@strongqatar.com",
+"website": "http://www.strongrentacar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 277,
+"company": "Strong Rent A Car - Radisson Blu Hotel Branch",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 3321 0602",
+"email": "info@strongqatar.com",
+"website": "http://www.strongrentacar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 278,
+"company": "Strong Rent A Car - West Bay Branch (Waldorf Astoria Doha)",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 5022 8544",
+"email": "info@strongqatar.com",
+"website": "http://www.strongrentacar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 279,
+"company": "Wellcare Limousines- Car with Driver in Qatar",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 6006 8282",
+"email": "opsqatar@wellcarelimo.com",
+"website": "https://wellcarelimoqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 280,
+"company": "AL AZALY RENT A CAR .QA",
+"category": "Car Rental Company (Luxury)",
+"area": "Lusail Marina",
+"phone": "+974 3077 5000",
+"email": "alazaly.qa@gmail.com",
+"website": "https://635cc6faa9a6c.site123.me/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 281,
+"company": "Dallas rent a car",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Mirqab",
+"phone": "+974 6699 7755",
+"email": "dallas-1979@hotmail.com",
+"website": "http://www.rentwithdallas.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 282,
+"company": "Dream Drive Rent A Car",
+"category": "Car Rental Company (Luxury)",
+"area": "Umm Salal",
+"phone": "+974 5034 1919",
+"email": "sajee16@gmail.com",
+"website": "https://dreamdriveqa.blogspot.com/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 283,
+"company": "ترافيل لتأجير السيارات TRAVEL RENT A CAR",
+"category": "Car Rental Company (Luxury)",
+"area": "Al Sadd",
+"phone": "+974 3000 2154",
+"email": "asxvmprobertest@gmail.com",
+"website": "https://sites.google.com/d/1_L7Hkq7hmcERsmRGfQoL6hIGrn0yemyY/p/1h7_7FiKZHFsbfs04HHqWWDvdqDUtIxQu/edit",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 284,
+"company": "Al Aseel Hotel",
+"category": "Luxury Hotel",
+"area": "Muntazah",
+"phone": "+974 3390 2458",
+"email": "info@alaseelhotel.com",
+"website": "http://www.alaseelhotel.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 285,
+"company": "C - Hotel and Suites Doha",
+"category": "Luxury Hotel",
+"area": "Al Hilal",
+"phone": "+974 7036 4153",
+"email": "info@c-hotelandsuitesdoha.com",
+"website": "http://www.c-hotelandsuitesdoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 286,
+"company": "Regency Sealine Camp",
+"category": "Luxury Hotel",
+"area": "Al Sadd",
+"phone": "+974 5005 9055",
+"email": "booking@regencysealinecamp.com",
+"website": "http://www.regencysealinecamp.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 287,
+"company": "Sponsored",
+"category": "Luxury Hotel",
+"area": "Al Thumama",
+"phone": "+974 7710 6663",
+"email": "detach.roi@gmail.com",
+"website": "https://book.abraj.com.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 288,
+"company": "Al Nour Plaza Luxury Suites",
+"category": "Hotel",
+"area": "The Pearl",
+"phone": "+974 5130 6090",
+"email": "info@alnourplaza.qa",
+"website": "http://alnourplaza.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 289,
+"company": "Sherao Hotel Doha - فندق شراعوه الدوحة",
+"category": "Hotel",
+"area": "Industrial Area",
+"phone": "+974 6600 5552",
+"email": "info@sherao.qa",
+"website": "https://www.sherao.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 290,
+"company": "A M Art Gallery",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5051 7711",
+"email": "info@amgallery.qa",
+"website": "http://www.amgallery.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 291,
+"company": "Arts And Crafts",
+"category": "Art Gallery",
+"area": "Umm Salal",
+"phone": "+974 6686 7993",
+"email": "info@artsandcrafts.qa",
+"website": "https://artsandcrafts.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 292,
+"company": "Meraas Gallery",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5511 0210",
+"email": "info@meraasgallery.com",
+"website": "https://meraasgallery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 293,
+"company": "Nouvo Inizio Art Cafe",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5120 5003",
+"email": "admin@nouvoinizio.com",
+"website": "http://www.nouvoinizio.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 294,
+"company": "One A Art Gallery",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5503 5037",
+"email": "gallery@oneaart.com",
+"website": "https://oneaart.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 295,
+"company": "Prem Art gallery",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5527 3802",
+"email": "info@premartgallery.com",
+"website": "https://www.premartgallery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 296,
+"company": "Stones Luxury - Qatar",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 3018 8805",
+"email": "sales@stones.luxury",
+"website": "https://stones.luxury/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 297,
+"company": "Wusum Gallery - رواق وسوم",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5116 9117",
+"email": "info@wusumgallery.com",
+"website": "http://www.wusumgallery.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 298,
+"company": "International Arts and Music, Messila",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5058 1988",
+"email": "beatrootziamsec@gmail.com",
+"website": "https://connect.spyn.co/b/iamqatar",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 299,
+"company": "Le Cadre Gallery",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5033 8150",
+"email": "lecadre561@gmail.com",
+"website": "http://lcqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 300,
+"company": "Manha avant Garde",
+"category": "Art Gallery",
+"area": "West Bay",
+"phone": "+974 7735 2012",
+"email": "adeenafarzana@gmail.com",
+"website": "https://manha-avant-garde.my.canva.site/manha-avant-garde",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 301,
+"company": "Picture World Studio Umm salal Ali",
+"category": "Art Gallery",
+"area": "Umm Salal",
+"phone": "+974 5582 0192",
+"email": "pwaziziya@gmail.com",
+"website": "http://www.pictureworldqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 302,
+"company": "The Gallery International",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5518 7690",
+"email": "galleryqatar066@gmail.com",
+"website": "http://www.galleryinternationalco.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 303,
+"company": "mj pictorial",
+"category": "Art Gallery",
+"area": "Al Waab",
+"phone": "+974 5560 0635",
+"email": "mjpictorial@gmail.com",
+"website": "http://mjpictorial.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 304,
+"company": "MsSky Tourist & Trading",
+"category": "Yacht Charter Company",
+"area": "Al Thumama",
+"phone": "+974 7023 3255",
+"email": "info@mssky.qa",
+"website": "https://www.mssky.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 305,
+"company": "Sea Plus Qatar",
+"category": "Yacht Charter Company",
+"area": "Al Waab",
+"phone": "+974 7100 1040",
+"email": "info@seaplus.qa",
+"website": "https://www.seaplus.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 306,
+"company": "974 Cruises Lusail",
+"category": "Yacht Charter Company",
+"area": "Lusail Marina",
+"phone": "+974 5506 3974",
+"email": "bookings@974cruises.com",
+"website": "http://www.974cruises.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 307,
+"company": "SAILING PLUS MEGAYACHTS - yachting services since 1982",
+"category": "Yacht Charter Company",
+"area": "Al Waab",
+"phone": "+974 7072 9734",
+"email": "spm@sailingplusmegayachts.com",
+"website": "http://www.sailingplusmegayachts.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 308,
+"company": "Gallivant Luxury Yacht Rental Qatar",
+"category": "Yacht Charter Company",
+"area": "The Pearl",
+"phone": "+974 5999 4422",
+"email": "info@gallivant.qa",
+"website": "https://gallivantchartersqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 309,
+"company": "ABC PROJECT ( Porcelain and Ceramic tile DEPOT )",
+"category": "Auction House",
+"area": "Bin Mahmoud",
+"phone": "+974 3368 4497",
+"email": "info@abcgroupqatar.com",
+"website": "https://www.abcgroupqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 310,
+"company": "Glass N' House Luxury Realty - Real Estate",
+"category": "Auction House",
+"area": "Bin Mahmoud",
+"phone": "+974 6605 5822",
+"email": "admin@glassnhouse.net",
+"website": "https://glassnhouse.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 311,
+"company": "Homey Home",
+"category": "Auction House",
+"area": "Bin Mahmoud",
+"phone": "+974 5081 8502",
+"email": "info@homeyhomerealestate.com",
+"website": "http://homeyhomerealestate.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 312,
+"company": "Bu Hamour Gardens",
+"category": "Real Estate",
+"area": "Abu Hamour",
+"phone": "+974 3092 5911",
+"email": "info@nineoneone.qa",
+"website": "https://www.nineoneone.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 313,
+"company": "Lively Home real estate",
+"category": "Real Estate",
+"area": "Lusail Marina",
+"phone": "+974 3155 0056",
+"email": "info@homelink.qa",
+"website": "https://www.homelink.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 314,
+"company": "Palma Real Estate Qatar",
+"category": "Real Estate",
+"area": "Bin Mahmoud",
+"phone": "+974 7700 0488",
+"email": "info@palmarealestate.qa",
+"website": "https://www.palmarealestate.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 315,
+"company": "Qatar coral",
+"category": "Real Estate",
+"area": "The Pearl",
+"phone": "+974 6614 4744",
+"email": "info@newvision-re.qa",
+"website": "http://www.newvision-re.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 316,
+"company": "Step one real estate",
+"category": "Real Estate",
+"area": "Bin Mahmoud",
+"phone": "+974 6000 5619",
+"email": "webmaster@stepone.com.qa",
+"website": "http://stepone.com.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 317,
+"company": "Unlock Real Estate",
+"category": "Real Estate",
+"area": "Bin Mahmoud",
+"phone": "+974 7170 0701",
+"email": "propertyteam@unlock.com.qa",
+"website": "https://www.unlock.com.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 318,
+"company": "Alford Hughes Lounge",
+"category": "Real Estate",
+"area": "The Pearl",
+"phone": "+974 5533 3901",
+"email": "info@alfordhughes.com",
+"website": "http://alfordhughes.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 319,
+"company": "Kheesa Majlis",
+"category": "Real Estate",
+"area": "Al Kheesa",
+"phone": "+974 5096 3924",
+"email": "info@martrealestate.com",
+"website": "http://www.martrealestate.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 320,
+"company": "PALM CITY GARDEN 2",
+"category": "Real Estate",
+"area": "Al Waab",
+"phone": "+974 6624 1188",
+"email": "contact@tameerqatar.com",
+"website": "http://www.tameerqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 321,
+"company": "PICTURE WORLD STUDIO Aziziyah",
+"category": "Real Estate",
+"area": "Al Aziziya",
+"phone": "+974 5053 6695",
+"email": "info@pictureworldqatar.com",
+"website": "http://www.pictureworldqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 322,
+"company": "Q Bay Real Estate",
+"category": "Real Estate",
+"area": "Lusail Marina",
+"phone": "+974 3377 1311",
+"email": "info@qbayrealestate.com",
+"website": "http://www.qbayrealestate.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 323,
+"company": "R9 Al Bandary Real Estate",
+"category": "Real Estate",
+"area": "Najma",
+"phone": "+974 3029 5000",
+"email": "info@qbhgroup.com",
+"website": "http://www.qbhgroup.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 324,
+"company": "Real Estate Doha",
+"category": "Real Estate",
+"area": "Al Kheesa",
+"phone": "+974 7746 4445",
+"email": "admin@bluemoonluxuryestates.com",
+"website": "https://bluemoonluxuryestates.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 325,
+"company": "Regal Real Estate",
+"category": "Real Estate",
+"area": "Lusail Marina",
+"phone": "+974 7104 1000",
+"email": "info@regal-realestate.com",
+"website": "https://www.regal-realestate.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 326,
+"company": "SAFAS Qatar",
+"category": "Real Estate",
+"area": "Abu Hamour",
+"phone": "+974 3135 3444",
+"email": "info@elite-ventureqa.com",
+"website": "https://www.elite-ventureqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 327,
+"company": "Threefour Real Estate",
+"category": "Real Estate",
+"area": "Al Aziziya",
+"phone": "+974 3343 4666",
+"email": "info@threefourrealestate.com",
+"website": "http://www.threefourrealestate.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 328,
+"company": "Tower 15, Porto Arabia",
+"category": "Real Estate",
+"area": "The Pearl",
+"phone": "+974 5557 6489",
+"email": "info@darwishunited.com",
+"website": "https://darwishunited.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 329,
+"company": "Tower 3, Porto Arabia",
+"category": "Real Estate",
+"area": "The Pearl",
+"phone": "+974 6666 1075",
+"email": "info@hreqatar.com",
+"website": "http://hreqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 330,
+"company": "AL WASAYEF REAL ESTATE QATAR",
+"category": "Real Estate",
+"area": "Al Dafna",
+"phone": "+974 5079 7989",
+"email": "tharish@qatarofficerent.com",
+"website": "http://www.qatarofficesrent.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 331,
+"company": "Signature Homes Real Estate",
+"category": "Real Estate",
+"area": "Najma",
+"phone": "+974 5092 0493",
+"email": "info@houzez.co",
+"website": "https://signaturehomesqa.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 332,
+"company": "مجلس علي اسماعيل الباكر",
+"category": "Real Estate",
+"area": "Onaiza",
+"phone": "+974 3011 3995",
+"email": "user@domain.com",
+"website": "https://www.jarzeem.qa/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 333,
+"company": "Maxam Business Solution Real Estate",
+"category": "Real Estate",
+"area": "Al Sadd",
+"phone": "+974 5588 3239",
+"email": "infomaxambs@gmail.com",
+"website": "http://www.maxam.com.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 334,
+"company": "ORCHID INTERNATIONAL W.L.L - Your Number One Property Advisor in Qatar",
+"category": "Real Estate",
+"area": "Najma",
+"phone": "+974 5562 7846",
+"email": "orchidqatar1@gmail.com",
+"website": "https://orchidqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 335,
+"company": "Al zubarah trading & contracting",
+"category": "Interior Decoration",
+"area": "Al Markhiya",
+"phone": "+974 6697 5522",
+"email": "info@marakkar.qa",
+"website": "https://marakkar.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 336,
+"company": "Archive",
+"category": "Interior Decoration",
+"area": "Lusail Marina",
+"phone": "+974 7754 4044",
+"email": "info@studio4.qa",
+"website": "https://studio4.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 337,
+"company": "Artisans - Website Design Company in Qatar",
+"category": "Interior Decoration",
+"area": "Lusail Marina",
+"phone": "+974 3145 3222",
+"email": "hello@artisans.qa",
+"website": "https://www.artisans.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 338,
+"company": "Casa Dekor Trading",
+"category": "Interior Decoration",
+"area": "Katara",
+"phone": "+974 7000 5925",
+"email": "info@tashkeelinterior.qa",
+"website": "https://www.tashkeelinterior.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 339,
+"company": "Castamo Interior & Furniture (Turkish furniture)",
+"category": "Interior Decoration",
+"area": "The Pearl",
+"phone": "+974 6687 5577",
+"email": "project@castamo.qa",
+"website": "http://www.castamo.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 340,
+"company": "Homesouq Online Shopping",
+"category": "Interior Decoration",
+"area": "Ain Khaled",
+"phone": "+974 5995 9535",
+"email": "info@homesouq.qa",
+"website": "https://homesouq.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 341,
+"company": "MAISON INTERIORS W.L.L.",
+"category": "Interior Decoration",
+"area": "Industrial Area",
+"phone": "+974 5096 7979",
+"email": "info@maisoninteriors.qa",
+"website": "https://www.maisoninteriors.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 342,
+"company": "Reimagine Interior Design",
+"category": "Interior Decoration",
+"area": "Ras Abu Aboud",
+"phone": "+974 5579 3932",
+"email": "hr@details.qa",
+"website": "https://www.details.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 343,
+"company": "SAIF TRADING & DECORATION (Please Visit to Our New Location Near QNB Bank Under Name of Wisdom International) )",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 3358 9994",
+"email": "sales@saiffurniture.qa",
+"website": "https://saiffurniture.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 344,
+"company": "Safco Office Furniture Qatar",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 7080 9922",
+"email": "info@glaze.qa",
+"website": "https://www.glaze.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 345,
+"company": "AAA Trading and Decoration",
+"category": "Interior Decoration",
+"area": "Industrial Area",
+"phone": "+974 5073 5353",
+"email": "info@aaadoha.com",
+"website": "https://www.aaadoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 346,
+"company": "ABC Ceramic WLL ( Porcelain Tiles )",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 5055 9932",
+"email": "info@abcgroupqatar.com",
+"website": "https://www.abcgroupqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 347,
+"company": "Al VINUS UPHOLSTERY",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 5064 5565",
+"email": "info@q3dprints.com",
+"website": "http://www.q3dprints.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 348,
+"company": "Anas Decor Co",
+"category": "Interior Decoration",
+"area": "Bin Mahmoud",
+"phone": "+974 7102 1381",
+"email": "info@omoginteriors.com",
+"website": "https://www.omoginteriors.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 349,
+"company": "Arara Trading & Decor | ارارا للتجارة والديكور",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 6606 6193",
+"email": "info@arara-decor.com",
+"website": "https://www.arara-decor.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 350,
+"company": "Brymax Lighting - Umm Salal Muhammed",
+"category": "Interior Decoration",
+"area": "Umm Salal",
+"phone": "+974 3382 8800",
+"email": "info@brymaxlighting.com",
+"website": "https://www.brymaxlighting.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 351,
+"company": "Chimney World Kitchen Equipment",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 5541 6798",
+"email": "info@romafurnitureqa.com",
+"website": "https://romafurnitureqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 352,
+"company": "Conmarble Design Studio",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 3078 7666",
+"email": "info@iiddqatar.com",
+"website": "https://iiddqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 353,
+"company": "Darwa interiors",
+"category": "Interior Decoration",
+"area": "Al Thumama",
+"phone": "+974 5578 1261",
+"email": "info@luxuryhome-qa.com",
+"website": "http://www.luxuryhome-qa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 354,
+"company": "Dium Design and Consultancy",
+"category": "Interior Decoration",
+"area": "Doha Jadeed",
+"phone": "+974 3133 4416",
+"email": "info@wizardqatar.com",
+"website": "http://www.wizardqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 355,
+"company": "Doha Project Management",
+"category": "Interior Decoration",
+"area": "Lusail Marina",
+"phone": "+974 5047 5888",
+"email": "info@dohapm.com",
+"website": "https://dohapm.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 356,
+"company": "Fosc Studio",
+"category": "Interior Decoration",
+"area": "Al Dafna",
+"phone": "+974 3051 5113",
+"email": "info@foscstudio.com",
+"website": "http://www.foscstudio.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 357,
+"company": "Ghadeer Interior Decorations - Doha, Qatar",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 3357 3856",
+"email": "info@sweethousedesigns.com",
+"website": "https://www.sweethousedesigns.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 358,
+"company": "Heaven stone Trading and contracting",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 3042 0011",
+"email": "info@paramountme.com",
+"website": "https://www.paramountme.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 359,
+"company": "KBRC Design and Developments",
+"category": "Interior Decoration",
+"area": "West Bay",
+"phone": "+974 7786 8490",
+"email": "info@kbrcgulf.com",
+"website": "https://kbrcgulf.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 360,
+"company": "Levante Kitchens - Gharrafa Showroom",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 5007 4400",
+"email": "info@aldaraljameela.com",
+"website": "http://www.aldaraljameela.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 361,
+"company": "M H Trading and Decoration",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 7029 5000",
+"email": "info@leadingupvc.com",
+"website": "http://leadingupvc.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 362,
+"company": "MAVEN CONTRACTING AND SERVICES W.L.L",
+"category": "Interior Decoration",
+"area": "Lusail Marina",
+"phone": "+974 3022 0443",
+"email": "info@mavendesignqa.com",
+"website": "https://mavendesignqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 363,
+"company": "NEW JASSCO DECOR | Curtains-Window Blinds-Sofa Upholstery-Wallpapers-Carpets-Flooring",
+"category": "Interior Decoration",
+"area": "Al Dafna",
+"phone": "+974 5552 3715",
+"email": "info@jascoqatar.com",
+"website": "https://jascoqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 364,
+"company": "Nabco Furniture Centre",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 3399 1414",
+"email": "customer-support@nabcostore.com",
+"website": "https://www.nabcostore.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 365,
+"company": "Paso Studios",
+"category": "Interior Decoration",
+"area": "Lusail Marina",
+"phone": "+974 5524 9837",
+"email": "webmaster@pasostudios.com",
+"website": "http://pasostudios.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 366,
+"company": "REDVELVET INTERIOR DESIGN",
+"category": "Interior Decoration",
+"area": "Katara",
+"phone": "+974 3370 5174",
+"email": "info@redvelvetqa.com",
+"website": "https://redvelvetqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 367,
+"company": "Ready Design",
+"category": "Interior Decoration",
+"area": "West Bay",
+"phone": "+974 5552 5013",
+"email": "tsnym@tsnym.com",
+"website": "http://www.tsnym.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 368,
+"company": "Sendian Paints & Coats - SPC",
+"category": "Interior Decoration",
+"area": "Al Markhiya",
+"phone": "+974 3045 5575",
+"email": "info@sendianpaints.com",
+"website": "http://www.sendianpaints.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 369,
+"company": "Shumookh Qatar",
+"category": "Interior Decoration",
+"area": "Al Markhiya",
+"phone": "+974 5040 9955",
+"email": "info@artfactoryonline.com",
+"website": "http://www.artfactoryonline.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 370,
+"company": "Skape Landscape Design and Build",
+"category": "Interior Decoration",
+"area": "Bin Mahmoud",
+"phone": "+974 5060 2802",
+"email": "projects@auraqatar.com",
+"website": "https://www.auraqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 371,
+"company": "Star Kitchen Equipments WLL",
+"category": "Interior Decoration",
+"area": "Al Thumama",
+"phone": "+974 5015 0162",
+"email": "info@carhouseqatar.com",
+"website": "https://carhouseqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 372,
+"company": "TOP Q TRADING",
+"category": "Interior Decoration",
+"area": "Al Mirqab",
+"phone": "+974 6668 8739",
+"email": "info@topqqatar.com",
+"website": "http://topqqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 373,
+"company": "VEXEL TRADING AND CONTRACTING",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 7080 5056",
+"email": "info@vexel-group.com",
+"website": "https://vexel-group.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 374,
+"company": "Wenge",
+"category": "Interior Decoration",
+"area": "Ain Khaled",
+"phone": "+974 6666 3464",
+"email": "info@bazlamitinteriorqa.com",
+"website": "http://www.bazlamitinteriorqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 375,
+"company": "Polyline Design & Construction",
+"category": "Interior Decoration",
+"area": "Al Dafna",
+"phone": "+974 5012 1414",
+"email": "projects@lyasmin.com",
+"website": "https://www.lyasmin.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 376,
+"company": "Roche Bobois Qatar",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 3141 0931",
+"email": "u002f@qands.qa",
+"website": "https://www.tiktok.com/@qands.qa?_r=1&_t=ZS-91kTThfmA66",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site"
+]
+},
+{
+"n": 377,
+"company": "ALMuftah Furniture And Decoration, Salwa Branch",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 3000 4983",
+"email": "wordpress@yourdomain.com",
+"website": "http://www.wisdomqa.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 378,
+"company": "Al Nijah Al Dayim Decoration",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 3328 5528",
+"email": "customercare@belacasalighting.com",
+"website": "https://gcc.belacasalighting.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 379,
+"company": "DWELL دويل",
+"category": "Interior Decoration",
+"area": "Al Markhiya",
+"phone": "+974 7133 6844",
+"email": "myhome.qatar@landmarkgroup.com",
+"website": "https://www.homecentre.com/qa/en/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 380,
+"company": "Fiorino Art Design",
+"category": "Interior Decoration",
+"area": "Al Markhiya",
+"phone": "+974 6000 2562",
+"email": "info@indiantypefoundry.com",
+"website": "https://www.inlayinteriors.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 381,
+"company": "Glaze Marble and Granite Qatar",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 7085 1988",
+"email": "support@support.com",
+"website": "https://www.rightspeedfurniture.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 382,
+"company": "New Delight Trading",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 5079 1578",
+"email": "weassure.uae@asianpaints.com",
+"website": "http://www.asianpaintsarabia.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 383,
+"company": "Premier Indecor Qatar",
+"category": "Interior Decoration",
+"area": "Bin Mahmoud",
+"phone": "+974 6603 3063",
+"email": "info@renovatioparis.com",
+"website": "https://indecor.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 384,
+"company": "STAR CAR ACCESSORIES OLD AIRPORT",
+"category": "Interior Decoration",
+"area": "Old Airport",
+"phone": "+974 7081 7273",
+"email": "support@starcars.com",
+"website": "http://www.starcarqa.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 385,
+"company": "Solution Decor",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 5520 1107",
+"email": "user@domain.com",
+"website": "https://sdc.qa/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 386,
+"company": "Al Asmaa Furniture W.L.L",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 3116 6554",
+"email": "printstoreqa@gmail.com",
+"website": "https://printstoreqa.onrender.com/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 387,
+"company": "Artikkan Gallery",
+"category": "Interior Decoration",
+"area": "Katara",
+"phone": "+974 5584 5266",
+"email": "sales.casadekor@gmail.com",
+"website": "https://casadekor.online/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 388,
+"company": "Asian paints Berger Decor Lounge -Qatar",
+"category": "Interior Decoration",
+"area": "Al Aziziya",
+"phone": "+974 7000 3546",
+"email": "maidslanka74@gmail.com",
+"website": "https://maidslanka.netlify.app/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 389,
+"company": "B&D BUILD DREAMS FOR CONTRACTING DECOR & TRADING. Cuantic design tm",
+"category": "Interior Decoration",
+"area": "Muntazah",
+"phone": "+974 3313 0184",
+"email": "cuanticdesignandreu@gmail.com",
+"website": "https://www.decorateursmaroc.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 390,
+"company": "Better Home Decor & Contracting",
+"category": "Interior Decoration",
+"area": "Al Thumama",
+"phone": "+974 5577 0083",
+"email": "sohagiphone11@gmail.com",
+"website": "https://www.facebook.com/p/Al-Naimi-Furniture-100066981272355/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 391,
+"company": "Bradran Persian Carpet",
+"category": "Interior Decoration",
+"area": "Old Airport",
+"phone": "+974 7472 6587",
+"email": "razarusdei@gmail.com",
+"website": "http://www.bradran-persian-carpets.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 392,
+"company": "Carpet Home & Artificial Grass Carpet",
+"category": "Interior Decoration",
+"area": "Al Hilal",
+"phone": "+974 3367 8765",
+"email": "aldahamcontractingwll@gmail.com",
+"website": "https://arabiandohacarpets.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 393,
+"company": "Class Interior Decorations",
+"category": "Interior Decoration",
+"area": "Industrial Area",
+"phone": "+974 6683 8014",
+"email": "arabmarketingqa@gmail.com",
+"website": "https://classinteriordecoration.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 394,
+"company": "Good furniture",
+"category": "Interior Decoration",
+"area": "Ain Khaled",
+"phone": "+974 7071 2010",
+"email": "qatarsofaupholstery@gmail.com",
+"website": "https://qatarsofaupholstery.com/testing",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 395,
+"company": "M Engineering Trading Contracting and Interior Design",
+"category": "Interior Decoration",
+"area": "Msheireb Downtown",
+"phone": "+974 6667 5946",
+"email": "rashed.khan.rk143@gmail.com",
+"website": "http://curtaincarpet.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 396,
+"company": "Qatar Decorations",
+"category": "Interior Decoration",
+"area": "Al Waab",
+"phone": "+974 7773 4796",
+"email": "qatardecoratio@gmail.com",
+"website": "https://linktr.ee/qatardecorations",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 397,
+"company": "Qatar Furniture",
+"category": "Interior Decoration",
+"area": "Al Gharrafa",
+"phone": "+974 5581 1294",
+"email": "liwanfurniture@hotmail.com",
+"website": "http://www.liwanfurniture.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 398,
+"company": "Qatar Furniture Making",
+"category": "Interior Decoration",
+"area": "Najma",
+"phone": "+974 6614 7297",
+"email": "sofaupholsteryservice@gmail.com",
+"website": "https://sofaupholsteryqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 399,
+"company": "Gypsum Ceiling & Drywall Qatar",
+"category": "Interior Decoration",
+"area": "Al Hilal",
+"phone": "+974 3114 7432",
+"email": "mehadee1993@gmail.com",
+"website": "https://sites.google.com/view/gypsumceilingqatar/home",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 400,
+"company": "Qatar Curtains,blinds,Sofa upholstery and repair qatar",
+"category": "Interior Decoration",
+"area": "Al Hilal",
+"phone": "+974 3069 7971",
+"email": "impallari@gmail.com",
+"website": "http://www.worldxtremeqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 401,
+"company": "art spaces and design",
+"category": "Interior Decoration",
+"area": "The Pearl",
+"phone": "+974 5584 2441",
+"email": "artspacesanddesign@gmail.com",
+"website": "http://www.artspacesanddesign.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 402,
+"company": "Al Hussaini Aluminium and UPVC",
+"category": "Interior Design",
+"area": "Najma",
+"phone": "+974 3334 9995",
+"email": "mail@alhussainialuminium.qa",
+"website": "http://www.alhussainialuminium.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 403,
+"company": "Gossy Men's Tailoring",
+"category": "Interior Design",
+"area": "Onaiza",
+"phone": "+974 7799 3344",
+"email": "info@gossy.qa",
+"website": "https://gossy.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 404,
+"company": "silvercoast",
+"category": "Interior Design",
+"area": "Al Gharrafa",
+"phone": "+974 5083 3833",
+"email": "info@addesign.qa",
+"website": "http://www.addesign.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 405,
+"company": "Azure Trading & Contracting - Qatar",
+"category": "Interior Design",
+"area": "Al Waab",
+"phone": "+974 6610 1212",
+"email": "info@villaroseco.com",
+"website": "https://www.villaroseco.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 406,
+"company": "Delmon Contruction",
+"category": "Interior Design",
+"area": "Abu Hamour",
+"phone": "+974 3000 6408",
+"email": "info@delmonqa.com",
+"website": "http://delmonqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 407,
+"company": "Espacio Trading and Contracting W L L",
+"category": "Interior Design",
+"area": "Al Thumama",
+"phone": "+974 7055 7447",
+"email": "info@espacioqatar.com",
+"website": "http://www.espacioqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 408,
+"company": "Infinity Marble Design",
+"category": "Interior Design",
+"area": "Al Aziziya",
+"phone": "+974 6682 2427",
+"email": "info@ts-decor.com",
+"website": "http://www.ts-decor.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 409,
+"company": "Options Carpentry Works",
+"category": "Interior Design",
+"area": "Industrial Area",
+"phone": "+974 5044 7454",
+"email": "info@canoverqatar.com",
+"website": "http://www.canoverqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 410,
+"company": "RIMKATURK DESIGN AND SERVICES AND TRADING",
+"category": "Interior Design",
+"area": "Bin Mahmoud",
+"phone": "+974 3336 9991",
+"email": "info@rimka-group.com",
+"website": "https://www.rimka-group.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 411,
+"company": "Riviera Gardens 101 Apartments and Club House",
+"category": "Interior Design",
+"area": "Al Duhail",
+"phone": "+974 7796 9975",
+"email": "info@rivieragardens-qa.com",
+"website": "https://rivieragardens-qa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 412,
+"company": "South West Architecture",
+"category": "Interior Design",
+"area": "Al Dafna",
+"phone": "+974 5123 3000",
+"email": "info@blanc-interior.com",
+"website": "http://www.blanc-interior.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 413,
+"company": "The interior lounge",
+"category": "Interior Design",
+"area": "Al Gharrafa",
+"phone": "+974 7771 6211",
+"email": "info@the-graphitees.com",
+"website": "http://www.the-graphitees.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 414,
+"company": "UNITED ARCHITECTS CONSULTANT",
+"category": "Interior Design",
+"area": "Al Thumama",
+"phone": "+974 5000 3224",
+"email": "webmaster@uarc.net",
+"website": "http://uarc.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 415,
+"company": "VIVIDUS",
+"category": "Interior Design",
+"area": "Najma",
+"phone": "+974 7770 5969",
+"email": "%20info@vividusinterior.com",
+"website": "http://vividusinterior.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 416,
+"company": "Colors Design Decor",
+"category": "Interior Design",
+"area": "Ain Khaled",
+"phone": "+974 5087 1759",
+"email": "elcon@domain.com",
+"website": "https://www.colorsqatar.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 417,
+"company": "Four Zone Design",
+"category": "Interior Design",
+"area": "Al Aziziya",
+"phone": "+974 3381 7166",
+"email": "info@mysite.com",
+"website": "https://fourzonedesign.wixsite.com/four-zone-design",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site"
+]
+},
+{
+"n": 418,
+"company": "Levante Kitchens | مطابخ ليفانتي كيتشنز",
+"category": "Interior Design",
+"area": "Old Airport",
+"phone": "+974 3024 1700",
+"email": "name@email.com",
+"website": "https://levantekitchens.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 419,
+"company": "Oppein Qatar",
+"category": "Interior Design",
+"area": "Abu Hamour",
+"phone": "+974 3022 5091",
+"email": "info@mocozy.com",
+"website": "https://oppeinqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 420,
+"company": "Design Valley (Gypsum Works)",
+"category": "Interior Design",
+"area": "Al Hilal",
+"phone": "+974 5039 7254",
+"email": "fk5113832@gmail.com",
+"website": "https://www.facebook.com/DesignValley.qatar/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 421,
+"company": "Aurex Group – Facility Maintenance & Fit-Out Qatar",
+"category": "Fit Out Company",
+"area": "Doha Jadeed",
+"phone": "+974 3039 1595",
+"email": "info@aurexgroup.qa",
+"website": "https://www.aurexgroup.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 422,
+"company": "Decolite Contracting",
+"category": "Fit Out Company",
+"area": "Al Aziziya",
+"phone": "+974 6003 5007",
+"email": "info@alantie.qa",
+"website": "https://alantie.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 423,
+"company": "Interprogetti Contract",
+"category": "Fit Out Company",
+"area": "Lusail Marina",
+"phone": "+974 5548 5754",
+"email": "info@interprogetti.qa",
+"website": "http://interprogetti.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 424,
+"company": "Nabni contracting and services",
+"category": "Fit Out Company",
+"area": "Bin Mahmoud",
+"phone": "+974 6690 0600",
+"email": "contact@nabni.qa",
+"website": "https://nabni.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 425,
+"company": "AZF Mekdam Site Office",
+"category": "Fit Out Company",
+"area": "Katara",
+"phone": "+974 5547 3016",
+"email": "info@mtc-qtr.com",
+"website": "https://www.mtc-qtr.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 426,
+"company": "Al Mannai Plumbing & Electrical Gharaffa",
+"category": "Fit Out Company",
+"area": "Al Gharrafa",
+"phone": "+974 7703 6988",
+"email": "info@dohafitout.com",
+"website": "https://dohafitout.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 427,
+"company": "Basis TIme Co",
+"category": "Fit Out Company",
+"area": "Al Gharrafa",
+"phone": "+974 5064 3629",
+"email": "att@attqatar.com",
+"website": "http://www.attqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 428,
+"company": "Brandscape Fit out & Contracting",
+"category": "Fit Out Company",
+"area": "Msheireb Downtown",
+"phone": "+974 5030 3300",
+"email": "info@moonlight-fitout.com",
+"website": "https://moonlight-fitout.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 429,
+"company": "Carbon Blue Global",
+"category": "Fit Out Company",
+"area": "Abu Hamour",
+"phone": "+974 5538 7973",
+"email": "sales@aarotech-qatar.com",
+"website": "http://www.aarotech-qatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 430,
+"company": "DORCE QATAR Project Site",
+"category": "Fit Out Company",
+"area": "Umm Salal",
+"phone": "+974 7095 3679",
+"email": "dorce@dorce.com.tr",
+"website": "http://www.dorce.com.tr/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 431,
+"company": "Jadeed Afzal Taj Contracting (JATCON)",
+"category": "Fit Out Company",
+"area": "Al Hilal",
+"phone": "+974 3129 3994",
+"email": "info@hilltopqatar.com",
+"website": "http://www.hilltopqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 432,
+"company": "LIBRA TRADING COMPANY",
+"category": "Fit Out Company",
+"area": "Al Sadd",
+"phone": "+974 3354 4141",
+"email": "info@ictqa.com",
+"website": "http://www.ictqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 433,
+"company": "Moon Decoration | Interior and Exterior Gypsum Work",
+"category": "Fit Out Company",
+"area": "Ain Khaled",
+"phone": "+974 5544 7647",
+"email": "info@shamct.com",
+"website": "http://www.shamct.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 434,
+"company": "Qatar office",
+"category": "Fit Out Company",
+"area": "Old Airport",
+"phone": "+974 5593 8338",
+"email": "sales@cityelevators.com",
+"website": "http://www.cityelevators.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 435,
+"company": "SECTION TRADING",
+"category": "Fit Out Company",
+"area": "Bin Mahmoud",
+"phone": "+974 3382 8401",
+"email": "webmaster@sectiontrading.com",
+"website": "http://www.sectiontrading.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 436,
+"company": "UTCC Qatar –URBAN TRADING CONTACTING SERVICES AND CLEANING W.L.L Since-2019",
+"category": "Fit Out Company",
+"area": "Doha Jadeed",
+"phone": "+974 5538 8092",
+"email": "info@utccqatar.com",
+"website": "https://utccqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 437,
+"company": "Vertex Hygiene Services - فيرتكس لخدمات النظافة",
+"category": "Fit Out Company",
+"area": "Msheireb Downtown",
+"phone": "+974 3355 0995",
+"email": "care@vertexhygiene.com",
+"website": "https://vertexhygiene.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 438,
+"company": "Volar Trading Company",
+"category": "Fit Out Company",
+"area": "Ain Khaled",
+"phone": "+974 3331 6566",
+"email": "info@ambertradingwll.com",
+"website": "https://www.ambertradingwll.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 439,
+"company": "3D Construction and maintenance and General",
+"category": "Fit Out Company",
+"area": "Al Aziziya",
+"phone": "+974 5200 0042",
+"email": "maintenance@3d-qa.com",
+"website": "http://brand.site/3DFORMAINTENANCE",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site"
+]
+},
+{
+"n": 440,
+"company": "Jupiter Construction",
+"category": "Fit Out Company",
+"area": "Umm Salal",
+"phone": "+974 6696 8512",
+"email": "azme@mzk-projct.com",
+"website": "http://www.mzk-project.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 441,
+"company": "NBCC (New Badar For Contracting And cleaning) Qatar",
+"category": "Fit Out Company",
+"area": "Abu Hamour",
+"phone": "+974 7782 1823",
+"email": "example@domain.com",
+"website": "https://nbccqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 442,
+"company": "SHAREEFA CONSTRUCTION AND TRADING",
+"category": "Fit Out Company",
+"area": "Al Aziziya",
+"phone": "+974 6649 1110",
+"email": "mail@example.com",
+"website": "http://www.shareefaconstruction.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 443,
+"company": "WalkingPad Qatar",
+"category": "Fit Out Company",
+"area": "Al Waab",
+"phone": "+974 7705 5080",
+"email": "shop@walkingpadqatar.com",
+"website": "http://walkingpad.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 444,
+"company": "aLL Design",
+"category": "Fit Out Company",
+"area": "Lusail Marina",
+"phone": "+974 6674 2426",
+"email": "user@domain.com",
+"website": "http://www.all.design/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 445,
+"company": "JR Villa Renovation Qatar",
+"category": "Fit Out Company",
+"area": "Al Thumama",
+"phone": "+974 5188 7814",
+"email": "info@qatarvillarennovation.com",
+"website": "https://www.qatarvillarenovation.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 446,
+"company": "Interior and Carpentry services",
+"category": "Fit Out Company",
+"area": "Umm Salal",
+"phone": "+974 7738 5426",
+"email": "interiorcarpentryqa@gmail.com",
+"website": "https://interiorcarpentryqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 447,
+"company": "Qatar FLM Aluminium, Glass, UPVC, Gypsum, Painting, Parking Shades & Welding",
+"category": "Fit Out Company",
+"area": "Najma",
+"phone": "+974 3160 2956",
+"email": "mobarakhossain23456@gmail.com",
+"website": "https://qatarflmservices.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 448,
+"company": "Creative Innovative Group wll",
+"category": "Fit Out Company",
+"area": "Al Mirqab",
+"phone": "+974 6661 8812",
+"email": "malikrukhsar110@gmail.com",
+"website": "https://malikfitout.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 449,
+"company": "Quick Maintenance HVAC Solutions",
+"category": "Fit Out Company",
+"area": "Al Thumama",
+"phone": "+974 7092 3533",
+"email": "quickmaintenance54@gmail.com",
+"website": "https://quickmaintenance.tech/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 450,
+"company": "Le Cadeau",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 5123 2220",
+"email": "info@lecadeau.qa",
+"website": "https://lecadeau.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 451,
+"company": "Momentum Media Qatar",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 3365 8111",
+"email": "sales@momentummedia.qa",
+"website": "https://momentummedia.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 452,
+"company": "MultiFlow",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 3157 6103",
+"email": "sales@multiflow.qa",
+"website": "http://www.multiflow.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 453,
+"company": "Addwells",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 7762 2742",
+"email": "webmaster@add-wells.com",
+"website": "http://www.add-wells.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 454,
+"company": "Digital Twin Advertising Qatar",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 5005 7452",
+"email": "hello@digitaltwinqatar.com",
+"website": "https://www.digitaltwinqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 455,
+"company": "Excellent Graphics Printing Solutions",
+"category": "Corporate Gift Supplier",
+"area": "Al Thumama",
+"phone": "+974 6684 2637",
+"email": "webmaster@exelgraphics.com",
+"website": "http://www.exelgraphics.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 456,
+"company": "Genesis Art",
+"category": "Corporate Gift Supplier",
+"area": "Al Mirqab",
+"phone": "+974 7772 3250",
+"email": "info@genesis-qatar.com",
+"website": "https://www.genesis-qatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 457,
+"company": "HappeToys",
+"category": "Corporate Gift Supplier",
+"area": "Old Airport",
+"phone": "+974 3344 1173",
+"email": "support@happetoys.com",
+"website": "https://happetoys.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 458,
+"company": "Imprimo Trading and Services",
+"category": "Corporate Gift Supplier",
+"area": "Lusail Marina",
+"phone": "+974 3336 7169",
+"email": "creation@imprimotrading.com",
+"website": "https://www.imprimotrading.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 459,
+"company": "MOODHAMPER",
+"category": "Corporate Gift Supplier",
+"area": "Bin Mahmoud",
+"phone": "+974 5529 9199",
+"email": "info@moodhamper.com",
+"website": "http://www.moodhamper.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 460,
+"company": "Premadasa Printing Solutions",
+"category": "Corporate Gift Supplier",
+"area": "The Pearl",
+"phone": "+974 7028 3355",
+"email": "ali@premadasaprintsolutions.com",
+"website": "http://www.premadasaprintsolutions.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 461,
+"company": "Duplex Packs For Trading دوبلكس باكس",
+"category": "Corporate Gift Supplier",
+"area": "Al Waab",
+"phone": "+974 3073 6394",
+"email": "info@duplexpacks.com",
+"website": "https://duplexpack.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 462,
+"company": "ForAll Electric Scooters",
+"category": "Corporate Gift Supplier",
+"area": "Al Thumama",
+"phone": "+974 7448 3778",
+"email": "username@example.com",
+"website": "https://forall.qa/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 463,
+"company": "GIFT CITY QATAR",
+"category": "Corporate Gift Supplier",
+"area": "Al Waab",
+"phone": "+974 3371 8277",
+"email": "pd@uaepd.net",
+"website": "http://www.giftcityqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 464,
+"company": "Lineart Printing & Advertising",
+"category": "Corporate Gift Supplier",
+"area": "The Pearl",
+"phone": "+974 3153 3383",
+"email": "contact@example.com",
+"website": "https://lineartprinting.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 465,
+"company": "MYOFFICE Trading Office Supplies and Stationery",
+"category": "Corporate Gift Supplier",
+"area": "Old Airport",
+"phone": "+974 3154 2454",
+"email": "info@stagheaddesigns.com",
+"website": "https://www.myoffice.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 466,
+"company": "SHINE Gold & Diamonds - Gold Souq (Branch 11)",
+"category": "Corporate Gift Supplier",
+"area": "Ras Abu Aboud",
+"phone": "+974 7799 7983",
+"email": "john@example.com",
+"website": "https://www.shinegd.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 467,
+"company": "Decarlo",
+"category": "Corporate Gift Supplier",
+"area": "Al Markhiya",
+"phone": "+974 5573 7476",
+"email": "decarlo.doha@gmail.com",
+"website": "https://www.decarloqatar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 468,
+"company": "FITWELL Ladies Accessories",
+"category": "Corporate Gift Supplier",
+"area": "Al Gharrafa",
+"phone": "+974 3308 0581",
+"email": "fitwell82@gmail.com",
+"website": "https://www.fitwell.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 469,
+"company": "SKETCH Advertising W.L.L.",
+"category": "Corporate Gift Supplier",
+"area": "Al Waab",
+"phone": "+974 7043 9633",
+"email": "sketchqtr@gmail.com",
+"website": "http://sketchdoha.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 470,
+"company": "Pack and Print",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 3310 3323",
+"email": "team@packandprint.qa",
+"website": "https://packandprint.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 471,
+"company": "Print House Printing Press",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 6679 6880",
+"email": "info@printhouse.qa",
+"website": "https://printhouse.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 472,
+"company": "Addon-It Printing",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 7702 1744",
+"email": "hello@addon-it.net",
+"website": "https://www.addon-it.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 473,
+"company": "Macaws Qatar",
+"category": "Printing & Packaging Company",
+"area": "Old Airport",
+"phone": "+974 7787 6758",
+"email": "info@macawsqatar.com",
+"website": "https://macawsqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 474,
+"company": "Oryx Printing Plus",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 6657 3859",
+"email": "factorymanager@oryxprinting.com",
+"website": "http://oryxprinting.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 475,
+"company": "Packaging Heights",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 3340 9999",
+"email": "sales@packagingheights.com",
+"website": "https://www.packagingheights.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 476,
+"company": "Pixel Advertising and Printing W.L.L.",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 3131 1427",
+"email": "info@pixeladvt.com",
+"website": "https://pixeladvt.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 477,
+"company": "Print zone digital printing company",
+"category": "Printing & Packaging Company",
+"area": "Al Hilal",
+"phone": "+974 5077 7265",
+"email": "info@printzoneqa.com",
+"website": "http://www.printzoneqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 478,
+"company": "Warq Advertising ورق للدعاية والإعلان",
+"category": "Printing & Packaging Company",
+"area": "Al Waab",
+"phone": "+974 6642 4219",
+"email": "info@warqqa.com",
+"website": "http://www.warqqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 479,
+"company": "Print House | Printing Solutions",
+"category": "Printing & Packaging Company",
+"area": "Muntazah",
+"phone": "+974 3109 1777",
+"email": "printhouse.qa@gmail.com",
+"website": "http://www.printhousesolutions.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 480,
+"company": "Creative Agency in Qatar - Forward Group",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 7772 0337",
+"email": "sales@forwardgroup.qa",
+"website": "http://www.forwardgroup.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 481,
+"company": "Fido marketing services",
+"category": "Marketing Agency",
+"area": "Mesaimeer",
+"phone": "+974 5566 8846",
+"email": "marketing@fido.qa",
+"website": "http://fido.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 482,
+"company": "FollowMe Solutions",
+"category": "Marketing Agency",
+"area": "Mesaimeer",
+"phone": "+974 3001 1561",
+"email": "hello@followme.qa",
+"website": "https://followme.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 483,
+"company": "Ginger Technologies",
+"category": "Marketing Agency",
+"area": "Najma",
+"phone": "+974 5568 2188",
+"email": "info@gingertechnologies.qa",
+"website": "https://gingertechnologies.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 484,
+"company": "Impakt Qatar",
+"category": "Marketing Agency",
+"area": "Al Sadd",
+"phone": "+974 7092 7252",
+"email": "info@impakt.qa",
+"website": "https://impakt.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 485,
+"company": "Inline marketing",
+"category": "Marketing Agency",
+"area": "Abu Hamour",
+"phone": "+974 7448 7447",
+"email": "info@inline.qa",
+"website": "https://inline.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 486,
+"company": "Lamlan Digital Solutions, Qatar",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 3308 0759",
+"email": "info@lamlan.qa",
+"website": "https://lamlan.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 487,
+"company": "Multimedia E-Marketing",
+"category": "Marketing Agency",
+"area": "Al Gharrafa",
+"phone": "+974 5513 1310",
+"email": "info@multimedia.qa",
+"website": "https://multimedia.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 488,
+"company": "Nasher Digital Creative Agency - نشر للإبداع الرقمي",
+"category": "Marketing Agency",
+"area": "Bin Mahmoud",
+"phone": "+974 7010 6644",
+"email": "info@nasher.qa",
+"website": "http://www.nasher.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 489,
+"company": "Speedline Media And Advertising",
+"category": "Marketing Agency",
+"area": "Bin Mahmoud",
+"phone": "+974 5509 9484",
+"email": "info@speedlinemedia.qa",
+"website": "https://speedlinemedia.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 490,
+"company": "Taqnia Creative Agency",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 3007 5181",
+"email": "info@taqnia.qa",
+"website": "https://www.taqnia.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 491,
+"company": "5d Ads",
+"category": "Marketing Agency",
+"area": "Abu Hamour",
+"phone": "+974 3398 9839",
+"email": "advertising@5d-ads.com",
+"website": "https://5d-ads.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 492,
+"company": "Adonai Solutions",
+"category": "Marketing Agency",
+"area": "Al Hilal",
+"phone": "+974 3304 2400",
+"email": "info@adonaisolutions.org",
+"website": "https://www.adonaisolutions.org/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 493,
+"company": "Ayesha Siddiqui",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 6672 9039",
+"email": "info@inhanddesignqatar.com",
+"website": "http://www.inhanddesignqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 494,
+"company": "DGtal CYBERKOMS",
+"category": "Marketing Agency",
+"area": "Al Sadd",
+"phone": "+974 7033 5000",
+"email": "usa@dgtalcyberkoms.com",
+"website": "http://www.dgtalcyberkoms.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 495,
+"company": "Dezignix | Digital Marketing Agency",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 7447 5770",
+"email": "info@dezignix.com",
+"website": "https://dezignix.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 496,
+"company": "Digital Care",
+"category": "Marketing Agency",
+"area": "Msheireb Downtown",
+"phone": "+974 6672 8733",
+"email": "contact@inboundhype.com",
+"website": "https://inboundhype.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 497,
+"company": "Digital Marketing Qatar",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 5044 6337",
+"email": "office@semlion.com",
+"website": "https://www.semlion.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 498,
+"company": "Doodle Brand",
+"category": "Marketing Agency",
+"area": "Mesaimeer",
+"phone": "+974 6665 6958",
+"email": "info@doodlebrand.com",
+"website": "https://www.doodlebrand.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 499,
+"company": "Eclipse Media",
+"category": "Marketing Agency",
+"area": "Najma",
+"phone": "+974 7737 4646",
+"email": "info@eclipsemediaqa.com",
+"website": "http://www.eclipsemediaqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 500,
+"company": "EverPrint Advertising",
+"category": "Marketing Agency",
+"area": "Msheireb Downtown",
+"phone": "+974 5075 7272",
+"email": "info@everprintqatar.com",
+"website": "https://www.everprintqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 501,
+"company": "FLEX MEDIA",
+"category": "Marketing Agency",
+"area": "Al Markhiya",
+"phone": "+974 3333 9178",
+"email": "info@flexmediaqa.com",
+"website": "http://flexmediaqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 502,
+"company": "Forma Creative",
+"category": "Marketing Agency",
+"area": "Al Hilal",
+"phone": "+974 5044 9030",
+"email": "info@formacreative.co",
+"website": "http://www.formacreative.co/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 503,
+"company": "Freelance Web Designer & SEO Expert in Qatar",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 5528 4123",
+"email": "hello@naseebku.com",
+"website": "https://naseebku.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 504,
+"company": "HUES GRAPHICS L.L.C",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 7119 6062",
+"email": "team@huesgraphics.com",
+"website": "https://huesgraphics.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 505,
+"company": "Inhand Design & Web",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 3025 2868",
+"email": "info@inhanddesignqatar.com",
+"website": "https://inhanddesignqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 506,
+"company": "King Advertising",
+"category": "Marketing Agency",
+"area": "Mesaimeer",
+"phone": "+974 3110 3660",
+"email": "webmaster@kingadqatar.com",
+"website": "http://www.kingadqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 507,
+"company": "Line Agency",
+"category": "Marketing Agency",
+"area": "The Pearl",
+"phone": "+974 5010 0652",
+"email": "info@lineagency.me",
+"website": "https://lineagency.me/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 508,
+"company": "Local Business Growth | SEO Services & Digital Marketing Agency Doha Qatar",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 5104 6862",
+"email": "fahad@lbgdigitalmarketingcompanyqatar.com",
+"website": "https://lbgdigitalmarketingcompanyqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 509,
+"company": "Lumiere Advertising and Social Media Management",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 7780 1604",
+"email": "info@lumiere-qa.com",
+"website": "https://www.lumiere-qa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 510,
+"company": "Media Craft Advertise W.L.L",
+"category": "Marketing Agency",
+"area": "Al Aziziya",
+"phone": "+974 3337 5539",
+"email": "sales@mediacraftqatar.com",
+"website": "http://www.mediacraftqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 511,
+"company": "NAH4media",
+"category": "Marketing Agency",
+"area": "Lusail Marina",
+"phone": "+974 6646 9884",
+"email": "contact@nah4media.net",
+"website": "https://www.nah4media.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 512,
+"company": "PSAS Tech",
+"category": "Marketing Agency",
+"area": "Al Hilal",
+"phone": "+974 3343 0074",
+"email": "info@psastech.com",
+"website": "https://psastech.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 513,
+"company": "PTC Media",
+"category": "Marketing Agency",
+"area": "Al Waab",
+"phone": "+974 6688 9514",
+"email": "admin@ptcmediaqatar.com",
+"website": "http://ptcmediaqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 514,
+"company": "ProSigns Global",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 3002 7200",
+"email": "sales@qa.prosignsglobal.com",
+"website": "https://qa.prosignsglobal.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business&utm_content=website",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 515,
+"company": "ProSigns Media Advertising WLL",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 7712 1119",
+"email": "sales@qa.prosignsglobal.com",
+"website": "http://qa.prosignsglobal.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 516,
+"company": "Professional Digi Solutions",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 3999 3211",
+"email": "info@digisolutionsqa.com",
+"website": "https://digisolutionsqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 517,
+"company": "QDISCOUNTS QATAR",
+"category": "Marketing Agency",
+"area": "Al Sadd",
+"phone": "+974 6674 5599",
+"email": "mail@q-discounts.com",
+"website": "http://q-discounts.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 518,
+"company": "QSB Technologies | Marketing Agency in Qatar",
+"category": "Marketing Agency",
+"area": "Al Markhiya",
+"phone": "+974 7706 7786",
+"email": "info@qsbtechnologies.com",
+"website": "https://www.qsbtechnologies.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 519,
+"company": "Qatar Click",
+"category": "Marketing Agency",
+"area": "Bin Mahmoud",
+"phone": "+974 3030 2226",
+"email": "contact@qatarclick.com",
+"website": "https://qatarclick.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 520,
+"company": "Qatar Digitals by MunchMedia - Digital Marketing Agency",
+"category": "Marketing Agency",
+"area": "Muntazah",
+"phone": "+974 5547 1147",
+"email": "info@qatardigitals.com",
+"website": "https://www.qatardigitals.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 521,
+"company": "RAMI PRODUCTIONS INTERNATIONAL W.L.L",
+"category": "Marketing Agency",
+"area": "Ain Khaled",
+"phone": "+974 6000 4369",
+"email": "info@ramiproductions.com",
+"website": "http://www.ramiproductions.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 522,
+"company": "REVA Solutions",
+"category": "Marketing Agency",
+"area": "Al Mirqab",
+"phone": "+974 5999 4388",
+"email": "info@reva.solutions",
+"website": "https://www.reva.solutions/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 523,
+"company": "SIGNATURE Advertising & Branding",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 7774 6396",
+"email": "hello@signatureadvertisers.com",
+"website": "http://www.signatureadvertisers.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 524,
+"company": "Sky Orange Advertising",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 3000 5148",
+"email": "info@skywayqatar.com",
+"website": "https://www.skywayqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 525,
+"company": "Spark House Digital Marketing Agency",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 5080 8921",
+"email": "%20hello@spark-house.com",
+"website": "http://spark-house.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 526,
+"company": "Specra Marketing",
+"category": "Marketing Agency",
+"area": "Ain Khaled",
+"phone": "+974 5100 1234",
+"email": "info@specra.co",
+"website": "http://specra.co/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 527,
+"company": "The Sketch",
+"category": "Marketing Agency",
+"area": "Lusail Marina",
+"phone": "+974 6668 7003",
+"email": "info@thesketch.agency",
+"website": "https://www.thesketch.agency/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 528,
+"company": "The Spectrum Marketing Agency",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 6617 7500",
+"email": "info@spectrumagency.co",
+"website": "http://www.spectrumagency.co/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 529,
+"company": "Vision Marketing Services",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 7478 4641",
+"email": "admin@vmsqa23.com",
+"website": "https://www.vmsqa23.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 530,
+"company": "Vraxa Qatar",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 3003 0389",
+"email": "vr@vraxa.com",
+"website": "http://www.vraxa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 531,
+"company": "Walker & Davies",
+"category": "Marketing Agency",
+"area": "Al Waab",
+"phone": "+974 6605 5008",
+"email": "social@walkeranddavies.com",
+"website": "http://www.walkeranddavies.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 532,
+"company": "Zenoids",
+"category": "Marketing Agency",
+"area": "Muntazah",
+"phone": "+974 7440 5895",
+"email": "info@zenoids.com",
+"website": "http://www.zenoids.com/qatar",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 533,
+"company": "Afsal Design Qatar – Freelance Graphic Designer",
+"category": "Marketing Agency",
+"area": "Al Thumama",
+"phone": "+974 5028 3102",
+"email": "hello@afsaldesignqatar.com",
+"website": "https://www.afsaldesignqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 534,
+"company": "Marketing Design Agency",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 5540 5969",
+"email": "info@mda.qa",
+"website": "https://marketingdesign.agency/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 535,
+"company": "Qatar Advertising",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 6691 5846",
+"email": "info@qataradvertising.qa",
+"website": "https://qadvertising.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 536,
+"company": "ADS Promotions Trading WLL",
+"category": "Marketing Agency",
+"area": "Ain Khaled",
+"phone": "+974 6642 4129",
+"email": "adsadver@emirates.net.ae",
+"website": "http://www.adsmarketplace.store/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 537,
+"company": "AL-Teach Digital Marketing Agency",
+"category": "Marketing Agency",
+"area": "Muntazah",
+"phone": "+974 7041 1751",
+"email": "wordpress@yourdomain.com",
+"website": "http://al-teach.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 538,
+"company": "Brill Creations",
+"category": "Marketing Agency",
+"area": "Msheireb Downtown",
+"phone": "+974 6000 7544",
+"email": "hello@brillcrew.com",
+"website": "https://brillcreations.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 539,
+"company": "Designers Cafe",
+"category": "Marketing Agency",
+"area": "Ras Abu Aboud",
+"phone": "+974 7741 2828",
+"email": "wordpress@yourdomain.com",
+"website": "https://designers-cafe.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 540,
+"company": "Digital i - A Social Media Marketing Agency",
+"category": "Marketing Agency",
+"area": "Industrial Area",
+"phone": "+974 3310 7487",
+"email": "yourteam@email.com",
+"website": "https://digitalimarketing.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 541,
+"company": "EyeBee Digital Agency WLL",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 3999 7762",
+"email": "info@eyebeemarketing.com",
+"website": "https://eyebeedigital.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 542,
+"company": "Fioreva Studio",
+"category": "Marketing Agency",
+"area": "West Bay",
+"phone": "+974 5111 1520",
+"email": "info@example.com",
+"website": "https://fiorevastudio.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 543,
+"company": "Five Designer Technologies & WebsiteDesign company qatar",
+"category": "Marketing Agency",
+"area": "Al Sadd",
+"phone": "+974 3332 2060",
+"email": "john@company.com",
+"website": "http://www.fivedesigner.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 544,
+"company": "KOSAWADA AGENCY QATAR",
+"category": "Marketing Agency",
+"area": "Al Kheesa",
+"phone": "+974 6699 3887",
+"email": "info@indiantypefoundry.com",
+"website": "http://www.kosawadapanel.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 545,
+"company": "Media Track Advertising",
+"category": "Marketing Agency",
+"area": "Ain Khaled",
+"phone": "+974 7472 2522",
+"email": "mtrackads@gmil.com",
+"website": "http://www.mediatrackads.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 546,
+"company": "Silverfox Digital",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 6688 1044",
+"email": "marketing@silverfoxdigital.com",
+"website": "https://silverfox.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 547,
+"company": "The Agency",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 6004 0991",
+"email": "info@example.com",
+"website": "https://arabmarketingqa.com/",
+"check": "Not checked, no email held",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 548,
+"company": "Trionix Global",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 3018 2874",
+"email": "sales@trionixit.com",
+"website": "https://trionix.qa/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 549,
+"company": "spirex marketing agency",
+"category": "Marketing Agency",
+"area": "Abu Hamour",
+"phone": "+974 7752 9379",
+"email": "info@aynagency.com",
+"website": "http://spirexagency.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 550,
+"company": "Digital Marketing Expert in Qatar | Swafa Unais",
+"category": "Marketing Agency",
+"area": "Onaiza",
+"phone": "+974 5062 3889",
+"email": "unaisswafa@gmail.com",
+"website": "https://swafaunais.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 551,
+"company": "Digital Marketing Freelancer in Qatar | Aadil Majeed",
+"category": "Marketing Agency",
+"area": "Al Dafna",
+"phone": "+974 7171 7226",
+"email": "aadil73564@gmail.com",
+"website": "https://aadilmajeed.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 552,
+"company": "Gulf Neon Advertising",
+"category": "Marketing Agency",
+"area": "Najma",
+"phone": "+974 5584 5031",
+"email": "gulf.neon@gmail.com",
+"website": "http://www.gulfneon.net/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 553,
+"company": "MIND OMEGA",
+"category": "Marketing Agency",
+"area": "Al Thumama",
+"phone": "+974 7773 9858",
+"email": "arifmeh41@gmail.com",
+"website": "https://www.mindomega.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"free_mail"
+]
+},
+{
+"n": 554,
+"company": "xzmeeraj",
+"category": "Marketing Agency",
+"area": "Al Gharrafa",
+"phone": "+974 7404 3438",
+"email": "xzmeeraj@gmail.com",
+"website": "https://xzmeeraj.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 555,
+"company": "AWUS Digital Marketing Services Qatar",
+"category": "Marketing Agency",
+"area": "Mesaimeer",
+"phone": "+974 3120 3253",
+"email": "awusdigital@gmail.com",
+"website": "https://awusdigital.wuaze.com/",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 556,
+"company": "Top One Ranker",
+"category": "Marketing Agency",
+"area": "Old Airport",
+"phone": "+974 7026 5370",
+"email": "rizttechsolution@gmail.com",
+"website": "https://rizttechsoltuion.online/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 557,
+"company": "PRIMESHOP TRADING",
+"category": "Advertising Agency",
+"area": "Al Thumama",
+"phone": "+974 7475 9041",
+"email": "info@primeshop.qa",
+"website": "https://www.primeshop.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 558,
+"company": "Vortex Web",
+"category": "Advertising Agency",
+"area": "Ain Khaled",
+"phone": "+974 3008 8798",
+"email": "info@vortex.qa",
+"website": "https://www.vortex.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 559,
+"company": "Akins Events & Advertising W.L.L",
+"category": "Advertising Agency",
+"area": "Al Sadd",
+"phone": "+974 7071 4455",
+"email": "contact@akinsadvertising.com",
+"website": "https://www.akinsadvertising.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 560,
+"company": "Akins Global Trading & Services",
+"category": "Advertising Agency",
+"area": "Ain Khaled",
+"phone": "+974 5091 3211",
+"email": "hello@akinsglobal.com",
+"website": "https://www.akinsglobal.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 561,
+"company": "Fantazya Land ADV",
+"category": "Advertising Agency",
+"area": "Muntazah",
+"phone": "+974 7711 6508",
+"email": "info@fantazyaland.com",
+"website": "https://www.fantazyaland.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 562,
+"company": "JBA Agency for Events Design and Videography",
+"category": "Advertising Agency",
+"area": "Muntazah",
+"phone": "+974 3391 1265",
+"email": "info@jbaagency.net",
+"website": "http://www.jbaagency.net/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 563,
+"company": "JBL Advertising Solutions",
+"category": "Advertising Agency",
+"area": "Ain Khaled",
+"phone": "+974 7105 4331",
+"email": "hello@jblads.com",
+"website": "https://www.jblads.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 564,
+"company": "Just Justice",
+"category": "Advertising Agency",
+"area": "Al Mirqab",
+"phone": "+974 5151 1163",
+"email": "info@justjusticeqa.com",
+"website": "https://www.justjusticeqa.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 565,
+"company": "New Smart Solutions W.L.L",
+"category": "Advertising Agency",
+"area": "Muntazah",
+"phone": "+974 7797 8100",
+"email": "info@newsmartsolution.com",
+"website": "http://www.newsmartsolution.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 566,
+"company": "PICAWA",
+"category": "Advertising Agency",
+"area": "Ain Khaled",
+"phone": "+974 7024 9333",
+"email": "sales@picawagroup.com",
+"website": "http://www.picawagroup.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 567,
+"company": "Rebrand Design",
+"category": "Advertising Agency",
+"area": "Ras Abu Aboud",
+"phone": "+974 3133 1234",
+"email": "sales@rebrandsign.com",
+"website": "https://www.rebrandsign.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 568,
+"company": "Texas Global Events & Marketing",
+"category": "Advertising Agency",
+"area": "Ain Khaled",
+"phone": "+974 7050 8558",
+"email": "info@tgemqatar.com",
+"website": "https://tgemqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 569,
+"company": "Yara Trading & Services",
+"category": "Advertising Agency",
+"area": "The Pearl",
+"phone": "+974 3070 3999",
+"email": "contact@yaracompany.com",
+"website": "https://www.yaracompany.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email"
+]
+},
+{
+"n": 570,
+"company": "Folaim Media and Advertising",
+"category": "Advertising Agency",
+"area": "Lusail Marina",
+"phone": "+974 3133 4433",
+"email": "marketing@aljaberqatar.com",
+"website": "https://folaim.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 571,
+"company": "Motive Designs",
+"category": "Advertising Agency",
+"area": "Umm Salal",
+"phone": "+974 3133 3668",
+"email": "info@motivedesigns.com",
+"website": "https://motivedesigns.net/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 572,
+"company": "FingerPrint Media Advertising",
+"category": "Advertising Agency",
+"area": "Doha Jadeed",
+"phone": "+974 3121 2010",
+"email": "care.fingerprint@gmail.com",
+"website": "http://www.facebook.com/fingerprint.qa",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 573,
+"company": "Marsam Advertising",
+"category": "Advertising Agency",
+"area": "Al Aziziya",
+"phone": "+974 3101 6647",
+"email": "marsam.advertisement@gmail.com",
+"website": "https://www.marsamadv.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 574,
+"company": "Moon Sign Advertising & Service",
+"category": "Advertising Agency",
+"area": "Al Gharrafa",
+"phone": "+974 3168 9059",
+"email": "moonsign2025@gmail.com",
+"website": "https://www.facebook.com/moonsignadvertisingandservice",
+"check": "Not checked yet",
+"flags": [
+"social_or_hosted_site",
+"free_mail"
+]
+},
+{
+"n": 575,
+"company": "ميديا سنتر للدعاية والإعلان Media Center Advertising",
+"category": "Advertising Agency",
+"area": "Msheireb Downtown",
+"phone": "+974 5599 2123",
+"email": "mediacenter.qa22@gmail.com",
+"website": "https://mediacenter.qa/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+},
+{
+"n": 576,
+"company": "Photo Shop Advertising Trading",
+"category": "Media Production Company",
+"area": "Al Markhiya",
+"phone": "+974 3330 0319",
+"email": "hello@qonnect.qa",
+"website": "http://www.qonnect.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 577,
+"company": "Shine Production Studio",
+"category": "Media Production Company",
+"area": "Al Kheesa",
+"phone": "+974 3361 5884",
+"email": "webmaster@shinegroup.qa",
+"website": "http://shinegroup.qa/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 578,
+"company": "King Videos Factory",
+"category": "Media Production Company",
+"area": "Industrial Area",
+"phone": "+974 3352 6824",
+"email": "webmaster@kingadqatar.com",
+"website": "http://www.kingadqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 579,
+"company": "Lexa Films Production",
+"category": "Media Production Company",
+"area": "Doha Jadeed",
+"phone": "+974 7717 7193",
+"email": "info@lexafilms.com",
+"website": "http://www.lexafilms.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 580,
+"company": "Media Square Studios - Doha",
+"category": "Media Production Company",
+"area": "Ain Khaled",
+"phone": "+974 5039 9223",
+"email": "info@mediasquare.tv",
+"website": "https://www.mediasquare.tv/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 581,
+"company": "Media Stream Production",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 7777 8617",
+"email": "infor@mediastreamproduction.com",
+"website": "https://mediastreamproduction.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 582,
+"company": "OLIMPIA ARABIA STUDIO (ستوديو النصر) (Al Nasr Studio )",
+"category": "Media Production Company",
+"area": "Al Sadd",
+"phone": "+974 7708 1314",
+"email": "info@olympiaarabia.com",
+"website": "https://olympiaarabia.com/photography-services/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 583,
+"company": "Picture World Studio Al Sadd",
+"category": "Media Production Company",
+"area": "Al Sadd",
+"phone": "+974 3109 3144",
+"email": "info@pictureworldqatar.com",
+"website": "http://www.pictureworldqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 584,
+"company": "Picture World Studio New Salwa",
+"category": "Media Production Company",
+"area": "Ain Khaled",
+"phone": "+974 3116 9056",
+"email": "info@pictureworldqatar.com",
+"website": "http://www.pictureworldqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 585,
+"company": "Picture World Studio Rayyan",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 7012 6018",
+"email": "info@pictureworldqatar.com",
+"website": "https://www.pictureworldqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 586,
+"company": "Qatar Smart Glass & Smart Film",
+"category": "Media Production Company",
+"area": "Old Airport",
+"phone": "+974 7791 6424",
+"email": "info@qsgqatar.com",
+"website": "https://www.qsgqatar.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 587,
+"company": "Recordon Studio Doha",
+"category": "Media Production Company",
+"area": "Doha Jadeed",
+"phone": "+974 5507 3490",
+"email": "info@recordonstudio.com",
+"website": "http://www.recordonstudio.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 588,
+"company": "TFS Creative House",
+"category": "Media Production Company",
+"area": "Doha Jadeed",
+"phone": "+974 7011 1302",
+"email": "info@tfsch.com",
+"website": "http://tfsch.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 589,
+"company": "Talent Hub Doha",
+"category": "Media Production Company",
+"area": "Al Sadd",
+"phone": "+974 7747 4469",
+"email": "info@talenthubdoha.com",
+"website": "https://www.talenthubdoha.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 590,
+"company": "UnLtd Device Trading WLL (LED and Digital Display Solution, Smart Retail and Smart Home Solution)",
+"category": "Media Production Company",
+"area": "Mesaimeer",
+"phone": "+974 3398 9268",
+"email": "info@unltddevice.com",
+"website": "https://unltddevice.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 591,
+"company": "Zen Productions",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 3304 0747",
+"email": "info@zen-production.com",
+"website": "http://zen-production.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 592,
+"company": "hostx",
+"category": "Media Production Company",
+"area": "Mesaimeer",
+"phone": "+974 5515 8866",
+"email": "hello@wehostx.com",
+"website": "https://wehostx.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 593,
+"company": "Rehaab Media Events",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 3301 3273",
+"email": "contact@rehaabmedia.com",
+"website": "http://www.rehaabmedia.com/",
+"check": "Not checked yet",
+"flags": []
+},
+{
+"n": 594,
+"company": "Alaa Production",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 7080 9440",
+"email": "info@alaa.qa",
+"website": "http://www.alaaproduction.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 595,
+"company": "974production",
+"category": "Media Production Company",
+"area": "Al Dafna",
+"phone": "+974 6600 4042",
+"email": "team@latofonts.com",
+"website": "https://www.974production.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 596,
+"company": "Almana Film Studios استوديوهات المانع",
+"category": "Media Production Company",
+"area": "Onaiza",
+"phone": "+974 3373 7342",
+"email": "info@almanastudios.com",
+"website": "https://almanastudio.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 597,
+"company": "OLYMPIA ARABIA Typing center مركز النصر للطباعة (Al Nasr Typing center )",
+"category": "Media Production Company",
+"area": "Al Sadd",
+"phone": "+974 7798 7763",
+"email": "ep-m1sblack_3_1024x1024@2x-150x150.webp",
+"website": "https://olympiaarabia.com/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 598,
+"company": "Run Design for Advertising and Promotion",
+"category": "Media Production Company",
+"area": "Al Aziziya",
+"phone": "+974 7722 4642",
+"email": "example@deep.com",
+"website": "https://www.rmmedia.qa/",
+"check": "Not checked yet",
+"flags": [
+"bogus_email",
+"email_domain_ne_site"
+]
+},
+{
+"n": 599,
+"company": "Weddings Artist - Photography / Videography",
+"category": "Media Production Company",
+"area": "Al Kheesa",
+"phone": "+974 5057 7652",
+"email": "info@weddingsartist.com",
+"website": "https://weddingsartists.com/",
+"check": "Not checked yet",
+"flags": [
+"email_domain_ne_site"
+]
+},
+{
+"n": 600,
+"company": "Bagerhat Car Accessories & Services",
+"category": "Media Production Company",
+"area": "Umm Salal",
+"phone": "+974 3338 4757",
+"email": "bagerhatcar@gmail.com",
+"website": "https://www.bagerhatcar.com/",
+"check": "Not checked yet",
+"flags": [
+"free_mail"
+]
+}
+]
