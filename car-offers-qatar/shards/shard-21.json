@@ -1,0 +1,182 @@
+{
+ "shard": "shard-21",
+ "search_budget_total": 125,
+ "items": [
+  {
+   "key": "brand-rivian",
+   "kind": "new_car_brand",
+   "name": "Rivian",
+   "brands": [
+    "Rivian"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not searched (search budget exhausted). No evidence of official Qatar presence; Buick not marketed in GCC, Rivian has no ME retail.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-seat",
+   "kind": "new_car_brand",
+   "name": "SEAT",
+   "brands": [
+    "SEAT"
+   ],
+   "dealer": "unknown",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No evidence in any sibling lens or seed list beyond the brand name; Qatar presence of Cupra/SEAT in 2026 unverified. Needs a direct search.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-skoda",
+   "kind": "new_car_brand",
+   "name": "Skoda",
+   "brands": [
+    "Skoda"
+   ],
+   "dealer": "unknown (verify; skoda-qatar.com domain from seed list)",
+   "website": "https://www.skoda-qatar.com",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Seed list gives skoda-qatar.com but no dealer; no search result reached this lens (budget exhausted). Dealer, lineup and offers unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-smart",
+   "kind": "new_car_brand",
+   "name": "Smart",
+   "brands": [
+    "Smart"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No Qatar dealer or listing in any sibling result; not searchable in this lens. || alt dealer: unknown || Seed list has Smart with no dealer/website; no sibling evidence. Unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-wuling",
+   "kind": "new_car_brand",
+   "name": "Wuling",
+   "brands": [
+    "Wuling"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brandgroup-exotic-longtail",
+   "kind": "new_car_brand",
+   "name": "brandgroup-exotic-longtail",
+   "brands": [
+    "Brabus",
+    "Mansory",
+    "Pagani",
+    "Koenigsegg",
+    "Rimac",
+    "Alpina",
+    "Morgan",
+    "Caterham",
+    "Peugeot",
+    "Geely",
+    "Soueast",
+    "Isuzu",
+    "Foton",
+    "Tata",
+    "KGM/SsangYong",
+    "Ineos Grenadier",
+    "Lotus",
+    "Renault (probable SAHAM)"
+   ],
+   "dealer": "no official Qatar dealer; Mansory Middle East LLC (Dubai) covers region; grey-market via AutoTellus and Knightsbridge Automotive (Doha)",
+   "website": "mansory.com/dealers/mansory-middle-east-llc",
+   "offer_page_urls": [
+    "https://www.mansory.com/dealers/mansory-middle-east-llc",
+    "https://kb-qatar.com/car-details/perfect-condition-brabus-g800-4x4-green-automatic-petrol-10347",
+    "https://soueastqatar.com/offers/",
+    "https://www.renault.qa/current-offers/current-offers.html",
+    "https://www.icartea.com/en/news/geely-coolray-qatar-exclusive-suv-deals-special-offers-2026-2"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Brabus / Mansory (tuner brands); Pagani / Koenigsegg / Rimac / Alpina / Morgan / Caterham; Unattributed brands present in Qatar (dealer not identified in session) || Only used/grey-market Brabus listings on Knightsbridge Automotive (kb-qatar.com), carsemsar, qatarsale, mzadqatar; Mansory official dealer is in Dubai. No offers. || alt dealer: none identified in Qatar || One combined query returned no Qatar dealer for any of these; only drivearabia price pages (Koenigsegg) and JamesEdition listings. Alpina is absorbed into BMW (Alfardan Automobiles/bmw-qatar.com would || These brands have Qatar pricing/offer pages (soueastqatar.com/offers, renault.qa current-offers) but no sibling lens could confirm the distributor company; Al Mana Leasing's fleet (Nissan/Renault/Infi",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "dg-aab",
+   "kind": "dealer_group",
+   "name": "Abdullah Abdulghani & Bros Co. (AAB) / Al Abdulghani Motors",
+   "brands": [
+    "Toyota",
+    "Lexus",
+    "KINTO (rental)"
+   ],
+   "dealer": "Abdullah Abdulghani & Bros Co. W.L.L. (AAB); retail arm Al Abdulghani Motors",
+   "website": "https://www.toyotaqatar.com",
+   "offer_page_urls": [
+    "https://www.toyotaqatar.com/special-offer",
+    "https://www.lexusqatar.com/special-offers",
+    "https://www.toyotaqatar.com/aab/news-line-up",
+    "https://www.toyotaqatar.com/rent",
+    "https://www.aamotors.com/en-qa"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Abdullah Abdulghani & Bros Co. (AAB) / Al Abdulghani Motors || Sole Toyota/Lexus distributor (sibling lenses: toyotaqatar.com, lexusqatar.com, aamotors.com). lexusqatar.com/special-offers live with MY2026 LX (QAR 150,000 down + 3-yr in-house instalments) and RX K",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-al-attiya-amtc",
+   "kind": "dealer_group",
+   "name": "Al-Attiya Motors & Trading Co. (AMTC) / Elaf Auto",
+   "brands": [
+    "Kia",
+    "AVATR (via affiliated Elaf Auto per avatrqa.com)",
+    "Changan (listed on AMTC passenger-vehicle page; sole distributor is Elaf Motors - relationship unclear)",
+    "Al Attiya Rent a Car"
+   ],
+   "dealer": "Al-Attiya Motors & Trading Co.",
+   "website": "https://www.kiaqatar.com",
+   "offer_page_urls": [
+    "https://www.kiaqatar.com/promotion/",
+    "https://www.kiaqatar.com/news/kia-qatar-helps-families-gear-up-for-the-back-to-school-season-with-its-latest-offer/",
+    "https://www.avatrqa.com/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al-Attiya Motors & Trading Co. (AMTC) / Elaf Auto || Japanese/Korean lens: AMTC is the official Kia distributor; kiaqatar.com/promotion/ reportedly shows 'currently no promotion'; Ramadan 2026 and back-to-school 2025 campaigns expired. Gulf Times search",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-al-boraq-porsche",
+   "kind": "dealer_group",
+   "name": "Al Boraq Automobiles (Porsche Centre Doha)",
+   "brands": [
+    "Porsche"
+   ],
+   "dealer": "Al Boraq Automobiles",
+   "website": "https://dealer.porsche.com/qa/doha",
+   "offer_page_urls": [
+    "https://dealer.porsche.com/qa/doha/en-GB/Experential",
+    "https://finder.porsche.com/qa/en-QA/search"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Boraq Automobiles (Porsche Centre Doha) || Official Porsche dealer site + Porsche Newsroom confirm Al Boraq Automobiles. 2026 activity is events (911 Turbo S launch 21 Apr 2026, GT3 RS Rennsport Ramadan display) not price promotions; no offers",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  }
+ ]
+}

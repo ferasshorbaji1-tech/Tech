@@ -1,0 +1,110 @@
+{
+ "shard": "shard-07",
+ "search_budget_total": 183,
+ "items": [
+  {
+   "key": "brand-gac",
+   "kind": "new_car_brand",
+   "name": "GAC",
+   "brands": [
+    "GAC",
+    "Aion"
+   ],
+   "dealer": "Domasco (Doha Marketing Services Company)",
+   "website": "https://www.gac-motor.qa/en/offers/",
+   "offer_page_urls": [
+    "https://www.gac-motor.qa/en/offers/",
+    "https://www.gac-motor.qa/ar/offers/"
+   ],
+   "models_in_qatar": [
+    "Emzoom",
+    "Empow",
+    "Empow R",
+    "Emkoo",
+    "GS4 Max",
+    "GS8",
+    "GS8 Traveller",
+    "M8",
+    "Aion V",
+    "GA8",
+    "Aion V (QAR 104,900)",
+    "Empow R 2026",
+    "M8 2026",
+    "GS4 Max 2026"
+   ],
+   "hints": "Also covers: GAC Qatar Pre-Owned (Domasco) || Offers page surfaced; details not shown. || gac-motor.qa/en/offers is the official 'Get Offers for New and Pre-owned GAC in Qatar' page (Domasco GAC). 2026 prices: Emzoom from QAR 65,900, Empow 69,900, Emkoo 76,900, GS4 Max 94,900, Empow R 99,9 || Official 'Get Offers for New and Pre-owned GAC in Qatar' page exists; contents not visible in summaries. Domasco finance tie-up with Al Jazeera Finance ongoing. || alt dealer: Doha Marketing Services Co. (Domasco) || alt dealer: GAC Motor Qatar (distributor not confirmed) || Official Arabic offers page: Empow R 2026 from QAR 99,900, M8 2026 from QAR 134,999, GS4 Max 2026 from QAR 94,900; validity not shown. || glimpsed: GAC range (new and pre-owned) | GAC Qatar official offers page (Domasco) | https://www.gac-motor.qa/en/offers/ | Not stated | unknown || glimpsed: Empow R, M8, GS4 Max | GAC 2026 offers: Empow R from 99,900, M8 from 134,999, GS4 Max from 94,900 | https://www.gac-motor.qa/ar/offers/ | not shown | unknown || glimpsed: Empow R 2026, M8 2026, GS4 Max 2026 | GAC 2026 offers: Empow R from 99,900, M8 from 134,999, GS4 Max from 94,900 | https://www.gac-motor.qa/ar/offers/ | not shown | unknown || glimpsed: New and pre-owned GAC range | GAC Qatar offers page for new and pre-owned vehicles | https://www.gac-motor.qa/en/offers/ | Not stated | unknown || alt dealer: Domasco || Official page titled 'Get Offers for New and Pre-owned GAC in Qatar' seen by sibling lens; offer content not visible. No WebSearch could run for this lens (session budget 200/200 was exhausted by earl",
+   "has_current_offers": "unknown",
+   "search_budget": 62
+  },
+  {
+   "key": "brand-hyundai",
+   "kind": "new_car_brand",
+   "name": "Hyundai",
+   "brands": [
+    "Hyundai"
+   ],
+   "dealer": "Skyline Automotive",
+   "website": "https://hyundai.com.qa",
+   "offer_page_urls": [
+    "https://hyundai.com.qa/offers/vehicle-offers/",
+    "https://marhaba.qa/skyline-automotive-launches-hyundai-ramadan-offers/",
+    "https://www.gulf-times.com/story/641705/skyline-automotive-woos-patrons-with-new-offer"
+   ],
+   "models_in_qatar": [
+    "Staria",
+    "Grand i10",
+    "Accent",
+    "Elantra",
+    "Sonata",
+    "Azera",
+    "Venue",
+    "Creta",
+    "Tucson",
+    "Santa Fe",
+    "Palisade",
+    "Stargazer",
+    "Kona",
+    "IONIQ 5"
+   ],
+   "hints": "Also covers: Hyundai Qatar Certified Pre-Owned (Skyline Automotive) || Official vehicle-offers page exists and mentions limited-time benefits across SUVs, sedans and EVs; no Staria or Oct-2026 text visible in summaries. || Offers page advertises benefits across SUVs, sedans and EVs; no IONIQ-specific Oct 2026 terms visible. || alt dealer: Skyline Automotive (Hyundai / Genesis Qatar) || Recurring packages: 5yr/100,000km free service, 1yr free insurance, 4yr unlimited warranty (older campaigns). No Q4 2026 campaign indexed. || Official offers page hyundai.com.qa/offers/vehicle-offers/ exists and advertises financing and limited-time benefits across SUVs, sedans and EVs, but no specific October 2026 offer text surfaced. Aggr || glimpsed: Tucson 1.6T 2025 | Hyundai Tucson 1.6 Turbo 2025 at QAR 89,900 | https://www.carsemsar.com/en/qatar/search?condition=new | not shown | unknown || glimpsed:  | Latest Hyundai offers: flexible financing and limited-time benefits across SUVs, sedans, EVs | https://hyundai.com.qa/offers/vehicle-offers/ | not stated | unknown || glimpsed: Hyundai range | Skyline Automotive new offer | https://www.gulf-times.com/story/641705/skyline-automotive-woos-patrons-with-new-offer | Undated, older article | expired || glimpsed: SUVs, sedans, EVs | Latest Hyundai Offers page: attractive pricing, flexible financing, limited-time benefits | https://hyundai.com.qa/offers/vehicle-offers/ | Not stated | unknown || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Official site/offers page known from sibling lens; no CPO programme page",
+   "has_current_offers": "unknown",
+   "search_budget": 62
+  },
+  {
+   "key": "brand-mitsubishi",
+   "kind": "new_car_brand",
+   "name": "Mitsubishi",
+   "brands": [
+    "Mitsubishi",
+    "Mitsubishi Motors"
+   ],
+   "dealer": "Qatar Automobiles Company (QAC)",
+   "website": "https://www.mitsubishi-motors.qa/en/buy/offers",
+   "offer_page_urls": [
+    "https://www.mitsubishi-motors.qa/en/buy/offers",
+    "https://www.mitsubishi-motors.qa/en/company/articles/QAC_Achievement_Awards11111",
+    "https://thepeninsulaqatar.com/article/29/12/2024/qatar-automobiles-company-announces-year-end-offer-on-mitsubishi-cars",
+    "https://www.mitsubishi-motors.qa/en/company/articles/QAC_Achievement_Awards111",
+    "https://marhaba.qa/qatar-automobiles-company-launches-special-offers-on-mitsubishi-suvs/"
+   ],
+   "models_in_qatar": [
+    "L200/Triton",
+    "Pajero",
+    "Montero Sport",
+    "Outlander",
+    "ASX",
+    "Eclipse Cross",
+    "Xpander",
+    "Xpander Cross",
+    "XForce",
+    "Attrage",
+    "Mirage",
+    "Destinator",
+    "L200"
+   ],
+   "hints": "Also covers: Mitsubishi Motors || Last campaign seen: Destinator/Outlander/Montero Sport with free 1st-yr registration, 1-yr insurance, tinting, 5-yr unlimited-km warranty, valid 14 May-31 Jul 2026 (expired). || QAC ran an exclusive corporate fleet offer on Mirage/Attrage/Montero Sport/L200 valid to 31 Aug 2025 (expired) and recurring end-of-year campaigns (Dec 2024 precedent). No 2026 Q4 fleet/L200 campaign  || QAC routinely runs End-of-Year offers (Dec 2024 precedent) and a fleet/corporate offer (valid to 31 Aug 2025, expired). 2026 Q4 campaign not yet indexed. || alt dealer: Qatar Automobiles Company || QAC confirmed authorised distributor. Seen campaigns: end-of-year 2024 (expired), Ramadan 2025 until 15 Apr 2025 (expired), undated back-to-school offer (menafn). No 2026-dated campaign surfaced befor || glimpsed: Destinator / Outlander / Montero Sport | Free 1st-yr registration, 1-yr insurance, tinting, 5-yr unlimited-km warranty | https://www.mitsubishi-motors.qa/en/buy/offers | 14 May - 31 Jul 2026 | expired || glimpsed: Mirage / Attrage / Montero Sport / L200 | Exclusive fleet offer for corporate businesses | https://www.mitsubishi-motors.qa/en/company/articles/QAC_Achievement_Awards11111 | Until 31 August 2025 | expired || glimpsed:  | Mitsubishi Qatar offers page | https://www.mitsubishi-motors.qa/en/buy/offers | unknown | unknown || glimpsed:  | Exclusive fleet offer for corporate businesses | https://www.mitsubishi-motors.qa/en/company/articles/QAC_Achievement_Awards11111 | until 31 Aug 2025 | expir || alt dealer: Qatar Automobiles Company (QAC) - Mitsubishi",
+   "has_current_offers": "unknown",
+   "search_budget": 59
+  }
+ ]
+}

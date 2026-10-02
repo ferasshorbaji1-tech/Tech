@@ -1,0 +1,149 @@
+{
+ "shard": "shard-01",
+ "search_budget_total": 178,
+ "items": [
+  {
+   "key": "brand-lexus",
+   "kind": "new_car_brand",
+   "name": "Lexus",
+   "brands": [
+    "Lexus"
+   ],
+   "dealer": "Abdullah Abdulghani & Bros Co. (AAB) / Al Abdulghani Motors",
+   "website": "https://www.toyotaqatar.com",
+   "offer_page_urls": [
+    "https://www.lexusqatar.com/special-offers",
+    "https://www.lexusqatar.com/aab/news-line-up/detail/26",
+    "https://www.toyotaqatar.com/aab/news-line-up",
+    "https://www.lexusqatar.com/aab/news-line-up/detail/20",
+    "https://www.lexusqatar.com/aab/news-line-up/detail/32"
+   ],
+   "models_in_qatar": [
+    "LX 600 / LX 700h",
+    "LM",
+    "GX",
+    "RX",
+    "NX",
+    "ES",
+    "LS",
+    "TX",
+    "Yaris",
+    "Corolla Hybrid",
+    "Corolla Cross",
+    "Veloz",
+    "RAV4 Hybrid",
+    "Camry",
+    "Highlander",
+    "Land Cruiser",
+    "Fortuner",
+    "LiteAce",
+    "Lexus LX",
+    "LX",
+    "IS",
+    "UX",
+    "LC",
+    "RZ"
+   ],
+   "hints": "Also covers: Lexus Qatar Certified Pre-Owned (AAB) || alt dealer: Abdullah Abdulghani & Bros Co. (AAB) || lexusqatar.com/special-offers is the official offers page. Search summary cites an LX offer (QAR 150,000 down, 3-year in-house instalments, QAR 10,950/month, no bank procedures) and KEYPLAN (25% down, || Official site shows 2026 model-year pricing (Yaris from QAR 58,400, Camry 103,300, Corolla Hybrid 78,700, Land Cruiser 228,700) but no seasonal campaign was visible in search summaries; AAB historical || alt dealer: Al Abdulghani Motors (AAB) || lexusqatar.com/special-offers shows 2026 LX: QAR 150,000 down payment + 3 years in-house installments with no bank procedures; 2026 RX KEYPLAN 25% now / 50% over 3 years / 25% at end. Model-year 2026  || alt dealer: Abdullah Abdulghani & Bros (AAB) || glimpsed: ES / NX / RX | 25% down, 50% over 3 years, 25% balloon at 0% profit rate | https://www.iloveqatar.net/news/business/special-offers-promotions-cars-vehicles-ramadan-doha-qatar | Ramadan 2026 | expired || glimpsed: LX | LX 2026: QAR 150,000 down + 3 years in-house instalments, no bank procedures | https://www.lexusqatar.com/special-offers | not stated (MY2026 on live page) | likely_active || glimpsed: RX | RX 2026 KEYPLAN: 25% now / 50% over 3 years / 25% at end, 0% profit | https://www.lexusqatar.com/special-offers | not stated | likely_active || glimpsed: LX | Lexus LX: QAR 150,000 down payment, 3-year in-house instalments, QAR 10,950/month | https://www.lexusqatar.com/special-offers | not stated (date of offer unclear) | unkn || alt dealer: Abdullah Abdulghani & Bros Co. (AAB) || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). lexusqatar.com/special-offers is the official offers page (new",
+   "has_current_offers": "yes",
+   "search_budget": 80
+  },
+  {
+   "key": "brand-toyota",
+   "kind": "new_car_brand",
+   "name": "Toyota",
+   "brands": [
+    "Toyota",
+    "Lexus"
+   ],
+   "dealer": "Abdullah Abdulghani & Bros Co. (Al Abdulghani Motors)",
+   "website": "https://www.toyotaqatar.com/special-offer",
+   "offer_page_urls": [
+    "https://www.toyotaqatar.com/special-offer",
+    "https://www.toyotaqatar.com/aab/news-line-up",
+    "https://www.toyotaqatar.com/aab/news-line-up/detail/al-abdulghani-motors-unveils-exclusive-offer-on-toyota-land-cruiser",
+    "https://www.toyotaqatar.com/rent",
+    "https://www.lexusqatar.com/aab/news-line-up/detail/20",
+    "https://www.aamotors.com/en-qa"
+   ],
+   "models_in_qatar": [
+    "Hilux",
+    "Hiace",
+    "Coaster",
+    "Land Cruiser Pick Up",
+    "Innova",
+    "Land Cruiser",
+    "Fortuner",
+    "Corolla",
+    "Camry",
+    "RAV4",
+    "Yaris",
+    "Raize",
+    "Rush",
+    "Avanza",
+    "Veloz",
+    "Urban Cruiser",
+    "Sequoia",
+    "Corolla Hybrid",
+    "Corolla Cross",
+    "RAV4 Hybrid",
+    "Highlander",
+    "LiteAce",
+    "Lexus LX",
+    "Land Cruiser Prado"
+   ],
+   "hints": "Also covers: Toyota Certified Used Cars Qatar (AAB Pre-Owned) || Special-offer page URL surfaced; contents not visible in summary. || Dealer confirmed by sibling lens (toyotaqatar.com news line-up). Only Land Cruiser 50/50 (undated) and expired Ramadan campaigns seen; no Hilux/Hiace/Coaster-specific fleet offer surfaced. AAB Lease-t || alt dealer: Abdullah Abdulghani & Bros Co. (AAB) / Al Abdulghani Motors || alt dealer: Abdullah Abdulghani & Bros Co. (AAB) || Official site shows 2026 model-year pricing (Yaris from QAR 58,400, Camry 103,300, Corolla Hybrid 78,700, Land Cruiser 228,700) but no seasonal campaign was visible in search summaries; AAB historical || alt dealer: Al Abdulghani Motors (AAB) || toyotaqatar.com news line-up lists an 'exclusive offer on Toyota Land Cruiser' (50/50 payment plan, 5-5-5 package, 0% profit rate) with no date visible; Ramadan 2025 offer (gold bar on Veloz/Urban Cru || alt dealer: Abdullah Abdulghani & Bros (AAB) || glimpsed: Avanza 2026 1.5L SE | Toyota Avanza 2026 from QAR 71,400 | https://qatar.yallamotor.com/new-cars/toyota | not shown | unknown || glimpsed: Yaris 2026 | Toyota Yaris 2026 listed at QAR 50,000 | https://www.dubizzle.qa/en/vehicles/cars-for-sale/?filter=new_used_eq_new | not shown | unknown || glimpsed: Land Cruiser GXR 2026 | Land Cruiser GXR 2026 QAR 257,000 (QIC) / GXR Twin Turbo 279,000 (QatarSale) | https://qic.online/en/market/cars/new | not shown | unknown || glimpsed: Veloz / Urban Cruiser / Corolla / Fortuner / RAV4 / Camry | 10g or 20g 24k gold bar gift + 5-yr warranty, 1-yr ins || alt dealer: Abdullah Abdulghani & Bros Co. (AAB) || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Sibling lenses confirmed toyotaqatar.com (AAB) as o",
+   "has_current_offers": "unknown",
+   "search_budget": 70
+  },
+  {
+   "key": "brand-hyptec",
+   "kind": "new_car_brand",
+   "name": "Hyptec",
+   "brands": [
+    "Hyptec (unconfirmed)",
+    "Hyptec"
+   ],
+   "dealer": "Domasco (Doha Marketing Services Company)",
+   "website": "https://www.gac-motor.qa/en/",
+   "offer_page_urls": [
+    "https://www.gac-motor.qa/en/offers/"
+   ],
+   "models_in_qatar": [
+    "Emzoom",
+    "Empow",
+    "Empow R",
+    "Emkoo",
+    "GS4 Max",
+    "GS8",
+    "GS8 Traveller",
+    "M8",
+    "Aion V",
+    "GA8"
+   ],
+   "hints": "Also covers: Hyptec (unconfirmed) || gac-motor.qa/en/offers is the official 'Get Offers for New and Pre-owned GAC in Qatar' page (Domasco GAC). 2026 prices: Emzoom from QAR 65,900, Empow 69,900, Emkoo 76,900, GS4 Max 94,900, Empow R 99,9",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "brand-ineos",
+   "kind": "new_car_brand",
+   "name": "Ineos",
+   "brands": [
+    "Ineos"
+   ],
+   "dealer": "Not identified",
+   "website": "unknown",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Grenadier Station Wagon (2026 from QAR 267,000)",
+    "Grenadier Quartermaster pickup (QAR 270,000-391,600)",
+    "Grenadier Station Wagon (2026 from QAR 267,000; Trialmaster / Fieldmaster editions)",
+    "Grenadier Quartermaster (QAR 270,000-391,600)"
+   ],
+   "hints": "Aggregator pricing implies a local distributor (Quartermaster is a pickup); official dealer and entry date not surfaced. || alt dealer: unknown (not identified in results) || Aggregators (drivearabia, yallamotor Qatar) list 2026 Grenadier pricing in Qatar, which implies a local distributor, but the search did not surface the official Qatar dealer or an offers page. US-only",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "shard": "shard-12",
+ "search_budget_total": 183,
+ "items": [
+  {
+   "key": "brand-volkswagen",
+   "kind": "new_car_brand",
+   "name": "Volkswagen",
+   "brands": [
+    "Volkswagen"
+   ],
+   "dealer": "Q-Auto",
+   "website": "https://www.volkswagen-qatar.com/en/offers.html",
+   "offer_page_urls": [
+    "https://www.volkswagen-qatar.com/en/offers.html",
+    "https://www.cbq.qa/en/about-us/campaigns/list/smarter-drives-start-here---easier-loans-with-volkswagen-and-commercial-bank",
+    "https://www.volkswagen-qatar.com/ar/offers.html"
+   ],
+   "models_in_qatar": [
+    "Q5 2026 (listing)",
+    "Q8 2026 (listing)",
+    "e-tron (not seen)",
+    "T-Roc",
+    "Tiguan",
+    "Passat",
+    "Teramont",
+    "Touareg",
+    "Golf GTI"
+   ],
+   "hints": "Also covers: Das WeltAuto Qatar (Q-Auto Volkswagen pre-owned) || Page titled 'Explore Latest 2026 VW Offers': Passat from QAR 99,900; Tiguan from QAR 109,900. Validity not visible. || VW x Commercial Bank 0% campaign (24 Sep-31 Dec 2025) expired; sibling notes mention a VW Qatar evergreen offer page. No Audi e-tron Qatar offer surfaced; Audi query refused by budget. || alt dealer: Q-Auto (Volkswagen / Audi Qatar) || Official EN/AR offers pages titled 'Explore Latest 2026 VW Offers' seen in sibling-lens search summaries: Passat from QAR 99,900, Tiguan from QAR 109,900, T-Roc from QAR 79,900 (validity not visible). || Arabic offers page summary: T-Roc from QAR 79,900, Tiguan from QAR 109,900 'special offers' - validity not shown. Q-Auto also sells pre-owned VW (Teramont 2024 QAR 149,900, Golf GTI 2025 QAR 144,900). || glimpsed: Passat | 2026 VW offers - Passat from QAR 99,900 | https://www.volkswagen-qatar.com/en/offers.html | not shown | likely_active || glimpsed: Tiguan | 2026 VW offers - Tiguan from QAR 109,900 | https://www.volkswagen-qatar.com/en/offers.html | not shown | likely_active || glimpsed: VW range | 0% interest, up to 3-month grace, 30% min down, max 36 months | https://www.cbq.qa/en/about-us/campaigns/list/smarter-drives-start-here---easier-loans-with-volkswagen-and-commercial-bank | 24 Sep - 31 Dec 2025 | expired || glimpsed: Passat, Tiguan, T-Roc | 2026 VW offers: Passat from QAR 99,900, Tiguan from 109,900, T-Roc from 79,900 | https://www.volkswagen-qatar.com/en/offers.html | not shown | likely_active || glimpsed: T-Roc |  || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Sibling lens saw Q-Auto selling pre-owned VW (Teramont 2024 QAR 149,900;",
+   "has_current_offers": "yes",
+   "search_budget": 57
+  },
+  {
+   "key": "brand-porsche",
+   "kind": "new_car_brand",
+   "name": "Porsche",
+   "brands": [
+    "Porsche"
+   ],
+   "dealer": "Al Boraq Automobiles",
+   "website": "https://dealer.porsche.com/qa/doha",
+   "offer_page_urls": [
+    "https://dealer.porsche.com/qa/doha/en-GB/Experential",
+    "https://finder.porsche.com/qa/en-QA/search"
+   ],
+   "models_in_qatar": [
+    "Taycan",
+    "Macan",
+    "Cayenne",
+    "Panamera",
+    "911",
+    "718",
+    "911 (incl. new 911 Turbo S T-Hybrid launched 21 Apr 2026)",
+    "911 GT3 RS Rennsport (display)"
+   ],
+   "hints": "Also covers: Porsche Approved Qatar (Porsche Centre Doha / Porsche Finder); Porsche Finder Qatar (Porsche Approved pre-owned) || 2026 activity is launches/events only; no Taycan price promotion seen. || alt dealer: Al Boraq Automobiles (Porsche Centre Doha) || Official Porsche dealer site dealer.porsche.com/qa/doha and Porsche Newsroom confirm Al Boraq Automobiles operates Porsche Centre Doha; 2026 activity is events (World Road Show Jan 5-12 2026, Open Tra || glimpsed: 911 GT3 RS Rennsport | Ramadan 2026 private viewings and Suhoor gatherings for 1-of-77 GT3 RS Rennsport | https://newsroom.porsche.com/en_PME/2026/company/porsche-centre-doha-qatar-911-gt3-rs-rennsport-41794.html | Ramadan 2026 | expired || glimpsed: 911 Turbo S (T-Hybrid, 711 hp) | New 911 Turbo S public launch event 21 April 2026 | https://newsroom.porsche.com/en_AE/2026/products/porsche-centre-doha-911-turbo-s-42256.html | 21 April 2026 | expired || alt dealer: Al Boraq Automobiles (Porsche Centre Doha) || Carried over: official Porsche Finder Qatar lists new and Porsche Approved pre-owned stock; no campaign text seen. No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier || alt dealer: Al Boraq Automobiles / Porsche Centre Doha || Official Porsche Finder for Qatar listing new and Porsche Approved used stock; no campaign text visible in summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 44
+  },
+  {
+   "key": "brand-suzuki",
+   "kind": "new_car_brand",
+   "name": "Suzuki",
+   "brands": [
+    "Suzuki"
+   ],
+   "dealer": "Teyseer Motors W.L.L. (Suzuki / GWM Qatar)",
+   "website": "https://teymotor.com",
+   "offer_page_urls": [
+    "https://suzukiqatar.com/en/pages/225",
+    "https://teymotor.com/en/locations"
+   ],
+   "models_in_qatar": [
+    "Dzire",
+    "Swift",
+    "Baleno",
+    "Fronx",
+    "Ertiga",
+    "Grand Vitara",
+    "Jimny",
+    "Ciaz"
+   ],
+   "hints": "alt dealer: Teyseer Motors W.L.L. || Teyseer Motors described as exclusive distributor of Suzuki motorcycles, ATVs and cars (Suzuki Car Showroom, Airport St; tel 4490 0865, suzuki@teymotor.com). No 2026 car promotion seen; aggregator 202 || glimpsed: Ertiga 2025 | Suzuki Ertiga from QAR 49,000 with discount up to QAR 9,900 | https://qatar.hatla2ee.com/en/new-car | not shown | likely_active || glimpsed: Ciaz | Suzuki Ciaz from QAR 43,000 on installment | https://qatar.hatla2ee.com/en/new-car | not shown | likely_active || glimpsed: Ertiga 2025 | Ertiga 2025 from QAR 49,000, discount up to QAR 9,900 | https://qatar.hatla2ee.com/ar/new-car | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 44
+  },
+  {
+   "key": "brand-baic",
+   "kind": "new_car_brand",
+   "name": "BAIC",
+   "brands": [
+    "BAIC",
+    "Beijing"
+   ],
+   "dealer": "Future Motors",
+   "website": "https://www.baic.qa/en",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "BJ80",
+    "BJ60",
+    "BJ40C",
+    "X7",
+    "X55 II",
+    "U5 Plus"
+   ],
+   "hints": "Also covers: Beijing || Future Motors launched BAIC showroom (Building 63, Zone 56, Street 46, Doha; +974 6601 2999). No offers page seen; check baic.qa. || Future Motors launched BAIC showroom (Building 63, Zone 56, Street 46, Doha; +974 6601 2999). No offers page seen. || alt dealer: Future Motors (BAIC Qatar) || Future Motors launched BAIC showroom (Building 63, Zone 56, Street 46, Doha; +974 6601 2999). No offers page seen; check baic.qa. || alt dealer: Future Motors (BAIC Qatar)",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  }
+ ]
+}

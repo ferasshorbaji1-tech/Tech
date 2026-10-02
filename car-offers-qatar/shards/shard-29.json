@@ -1,0 +1,224 @@
+{
+ "shard": "shard-29",
+ "search_budget_total": 140,
+ "items": [
+  {
+   "key": "ins-others",
+   "kind": "insurance",
+   "name": "Qatar motor insurers (non-QIC): Al Koot Insurance & Reinsurance, Beema (Damaan Islamic Insurance Company), Doha Insurance Group (DIG), Qatar General Insurance & Reinsurance (QGIRCO), Seib Insurance & Reinsurance",
+   "brands": [],
+   "dealer": "Al Koot",
+   "website": "https://www.alkoot.com.qa/",
+   "offer_page_urls": [
+    "https://www.alkoot.com.qa/motor-insurance",
+    "https://beema.com.qa/motor-insurance/",
+    "https://www.dig.qa/insurance/10",
+    "https://dig.com.qa/FAQ/Index",
+    "https://www.qgirco.com/personal-insurance/motor-insurance/",
+    "https://ir.qgirco.com/private-motor-insurance/",
+    "https://www.seibinsurance.com/motor-insurance/",
+    "https://www.seibinsurance.com/comprehensive-motor/",
+    "https://www.ooredoo.qa/web/en/nojoom/partners/seib/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Koot Insurance & Reinsurance; Beema (Damaan Islamic Insurance Company); Doha Insurance Group (DIG); Qatar General Insurance & Reinsurance (QGIRCO); Seib Insurance & Reinsurance || Motor comprehensive with replacement car during repair and wide workshop network; no promotional pricing seen. || alt dealer: Beema || Beema and Damaan Islamic Insurance are the same company (one entry). Fully digital takaful insurer; TPL + comprehensive with off-road, replacement car (up to 14 days at QR100/day), agency repair, 24/7 || alt dealer: Doha Insurance Group || DIG App: instant quotes/renewals online with 'instant discounts'; FAQ says prior 10% online renewal discount no longer available but premiums reduced with 0 deductible; online TPL purchase gets free r || alt dealer: QGIRCO || Car insurance from QAR 400 with promo code QGI26 (2026 code -> active). Comprehensive includes agency repair on new vehicles, free PA benefit, free 3-day replacement car, free 24h roadside assistance. || alt dealer: Seib || Ooredoo Nojoom partner: 1 point per QR 1.5 spent on Seib motor policies (ongoing); earlier double-Nojoom-points promo with motor insurance rate as low as 2.25% (date unknown, likely expired).",
+   "has_current_offers": "yes",
+   "search_budget": 15
+  },
+  {
+   "key": "ins-qic",
+   "kind": "insurance",
+   "name": "ins-qic",
+   "brands": [
+    "Mercedes-Benz",
+    "BYD",
+    "Jetour",
+    "Nissan",
+    "Toyota",
+    "Audi"
+   ],
+   "dealer": "QIC",
+   "website": "https://qic.online/en/market/cars/new",
+   "offer_page_urls": [
+    "https://qic.online/en/market/cars/new",
+    "https://qic.online/en/market",
+    "https://qic.online/en/blog/cars-bikes/used-new-cars",
+    "https://qic.online/en/car-insurance",
+    "https://qic.online/en/car-insurance/comprehensive",
+    "https://qic-group.com/qic-offers-new-customers-3-months-of-comprehensive-car-insurance-for-free/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: QIC Market (qic.online); QIC Online car marketplace; QIC - Qatar Insurance Company (qic.online / qic.car) || Insurer-run marketplace with listings updated Aug-Sep 2026: Mercedes GLC 200 2026 QAR 289,000; BYD Leopard 5 2026 189,000-195,000; Jetour G700 2026 214,000; Land Cruiser GXR 2026 257,000; Audi Q5 2026 || Insurer-run new/used marketplace with Aug-Sep 2026 listings (GLC 200 2026 289,000; Leopard 5 189-195k; G700 214k; LC GXR 257k; Q5 2026 95k; Q8 2026 200k). Listing prices, not campaigns. || Insurer-run new-car marketplace; may carry bundled insurance offers. || Evergreen: 10% off buying online 24/7; safe-driver 10% discount on comprehensive renewal (no claims); comprehensive from QAR 1,000; policy in 2 minutes. Past '3 months free comprehensive' promo (Dec 2",
+   "has_current_offers": "yes",
+   "search_budget": 15
+  },
+  {
+   "key": "used-independent",
+   "kind": "used_cpo",
+   "name": "Independent used-car dealers/auctions in Qatar: Al Attiya Motors used cars, Al Mutamad for Cars / Al Majd Mawater City / Deals on Wheels (independent showrooms on QatarSale), Autozone Qatar, Emirates Auction (Qatar), Hamad used cars, Knightsbridge Automotive (Doha), Knightsbridge Automotive Doha (prestige used), Mawater (Mawater City showrooms / mawatershow.com), Q Motor Auction / Qatar car auctions, Rotana Car Showroom",
+   "brands": [
+    "Kia",
+    "Changan",
+    "Avatr",
+    "multi-brand used",
+    "Denza",
+    "GWM Tank",
+    "Haval",
+    "Toyota",
+    "Jetour",
+    "Aston Martin",
+    "Brabus",
+    "Porsche",
+    "Lamborghini",
+    "Ferrari",
+    "Rolls-Royce",
+    "Bentley",
+    "Mercedes-Benz",
+    "Range Rover"
+   ],
+   "dealer": "Al-Attiya Motors & Trading Co.",
+   "website": "https://qatarsale.com/en/showroom-list/cars_for_sale",
+   "offer_page_urls": [
+    "https://qatarsale.com/en/showroom/al_mutamad_for_cars_13/cars_for_sale",
+    "https://qatarsale.com/en/showroom/al_majd_mawater_city/cars_for_sale",
+    "https://qatarsale.com/en/showroom/deals_on_wheels/cars_for_sale",
+    "https://kb-qatar.com/car-details/perfect-condition-brabus-g800-4x4-green-automatic-petrol-10347",
+    "https://mawatershow.com/en/cars?company%3AUnited_Cars_Almana_WLL%2Cbrand%3AJEEP=",
+    "https://www.rotanacarshowroom.com/offers/81"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Attiya Motors used cars; Al Mutamad for Cars / Al Majd Mawater City / Deals on Wheels (independent showrooms on QatarSale); Autozone Qatar; Emirates Auction (Qatar); Hamad used cars; Knightsbridge Automotive (Doha); Knightsbridge Automotive Doha (prestige used); Mawater (Mawater City showrooms / mawatershow.com); Q Motor Auction / Qatar car auctions; Rotana Car Showroom || Capture showroom-level PROMOTIONS (finance deals, warranty bundles, discount events, auction events), not private ads. || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). No used-car page surfaced; only Kia distributorship, Avatr/Changan assoc || alt dealer: Independent showrooms || Grey-market/independent showrooms listing 2026 models with prices (Denza B8 249,000; Tank 500 169,000; Haval H9 Comfort 119,000; LC GXR TT 279,000). Some advertise free delivery/registration/tint (Al  || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). No evidence gathered; Qatar presence and website unverified. || alt dealer: Emirates Auction (UAE) || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). No Qatar operation evidenced; sibling search for Marhaba returned UAE 'M || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Entity in lens brief could not be verified (no evidence on disk). Possib || alt dealer: Knightsbridge Automotive || Independent prestige used-car dealer; inventory listings rather than campaigns. || Independent supercar/prestige used dealer in Doha repeatedly surfaced (Aston Mar",
+   "has_current_offers": "unknown",
+   "search_budget": 30
+  },
+  {
+   "key": "rent-al-attiya",
+   "kind": "rental_lease",
+   "name": "Al Attiya Rent a Car",
+   "brands": [],
+   "dealer": "Al Attiya Motors & Trading",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Attiya Rent a Car || Only Al Attiya Motors service-centre listings found (Salwa Road / Valvoline); no rental offers page.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-al-mana-leasing",
+   "kind": "rental_lease",
+   "name": "Al Mana Leasing",
+   "brands": [
+    "Nissan",
+    "Renault",
+    "Infiniti",
+    "Soueast"
+   ],
+   "dealer": "Al Mana Leasing (+974 800 6262)",
+   "website": "https://almanaleasing.com/",
+   "offer_page_urls": [
+    "https://almanaleasing.com/",
+    "https://almanaleasing.com/services/",
+    "https://almanaleasing.com/car/soueast-s06/",
+    "https://almanaleasing.com/al-mana-leasing/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Mana Leasing || Daily rates listed: Altima 180, Duster 160, Q50 300, Soueast S06 190 QAR/day; monthly and long-term lease plans with fixed payments, free maintenance, replacement vehicle, insurance.",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-al-muftah",
+   "kind": "rental_lease",
+   "name": "Al Muftah Rent a Car",
+   "brands": [
+    "Al Muftah"
+   ],
+   "dealer": "Al Muftah Rent A Car (+974 70634433)",
+   "website": "https://www.rentacardoha.com/",
+   "offer_page_urls": [
+    "https://www.rentacardoha.com/",
+    "https://qatarsale.com/en/showroom/al_muftah_rent_a_car/cars_for_rent"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Muftah Rent a Car || Rates from QAR 70/day; claims cheapest monthly rental in Qatar; 5 branches; chauffeur, airport, bus services. No dated promotion seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-autorent",
+   "kind": "rental_lease",
+   "name": "Autorent Qatar",
+   "brands": [],
+   "dealer": "",
+   "website": "https://autorentqatar.com/about",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Autorent Qatar || autorentqatar.com domain surfaced but page title reads 'Car Rental In Bahrain'; Autorent Car Rental LLC (Dubai) states presence in UAE/KSA/Oman only. Qatar operation doubtful.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-avis",
+   "kind": "rental_lease",
+   "name": "Avis Qatar",
+   "brands": [
+    "Avis"
+   ],
+   "dealer": "Avis Qatar (avisqatar.com)",
+   "website": "https://www.avisqatar.com/",
+   "offer_page_urls": [
+    "https://www.avisqatar.com/",
+    "https://www.qatarairways.com/en-rs/Privilege-Club/car-rental-offers/AVIS.html",
+    "https://www.avis.com/en/business-programs/miles-points-partners/airlines/qatar-airways"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Avis Qatar || Branches in Doha, Mesaieed, Al Khor, 24h airport counter; long-term leasing and free delivery. Qatar Airways Privilege Club partner offer: up to 5 Avios/USD, one free day on 3+ day rentals (intermedia",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-budget",
+   "kind": "rental_lease",
+   "name": "Budget Qatar",
+   "brands": [
+    "Budget"
+   ],
+   "dealer": "Budget Qatar (budgetqatar.com)",
+   "website": "https://www.budgetqatar.com/",
+   "offer_page_urls": [
+    "https://www.budgetqatar.com/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Budget Qatar || Official site found; counters at HIA and city branches; monthly and long-term leasing advertised. No specific promotion text in summaries.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-udrive",
+   "kind": "rental_lease",
+   "name": "Udrive",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Udrive || Operates in UAE and KSA only; no Qatar launch found.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-yelo",
+   "kind": "rental_lease",
+   "name": "Yelo Rent a Car",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Yelo Rent a Car || Saudi/UAE/Egypt operator; only a SAR 80 cross-border fee to Qatar; no Qatar branches.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  }
+ ]
+}

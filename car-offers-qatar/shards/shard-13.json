@@ -1,0 +1,122 @@
+{
+ "shard": "shard-13",
+ "search_budget_total": 184,
+ "items": [
+  {
+   "key": "brand-geely",
+   "kind": "new_car_brand",
+   "name": "Geely",
+   "brands": [
+    "Geely"
+   ],
+   "dealer": "Not confirmed in results (icartea refers only to 'authorised dealers')",
+   "website": "geelyqatar.com (seed list, unverified)",
+   "offer_page_urls": [
+    "https://www.icartea.com/en/news/geely-coolray-qatar-exclusive-suv-deals-special-offers-2026-2",
+    "https://www.icartea.com/en/news/geely-emgrand-qatar-exclusive-premium-sedan-deals-special-offers-2026"
+   ],
+   "models_in_qatar": [
+    "Coolray",
+    "Monjaro",
+    "GX3 Pro",
+    "Starray",
+    "Emgrand",
+    "Preface",
+    "EX5"
+   ],
+   "hints": "Gulf Times: Geely eyes tech-driven mobility shift in Qatar. Aggregators (drivearabia, yallamotor, icartea) list 2025/2026 Geely pricing in Qatar. icartea 'Spring 2026' articles describe 0% interest, 1 || alt dealer: Not confirmed || icartea 'Spring 2026' templated articles (expired, not dealer-confirmed). Official dealer not identified. || glimpsed: Coolray | icartea: Geely Coolray Qatar Spring 2026 package - 0% interest, 10% down, 60 months | https://www.icartea.com/en/news/geely-coolray-qatar-exclusive-suv-deals-special-offers-2026-2 | Spring 2026 | expired || glimpsed: Emgrand | icartea: Geely Emgrand Qatar Spring 2026 package | https://www.icartea.com/en/news/geely-emgrand-qatar-exclusive-premium-sedan-deals-special-offers-2026 | Spring 2026 | expired",
+   "has_current_offers": "unknown",
+   "search_budget": 41
+  },
+  {
+   "key": "brand-exeed",
+   "kind": "new_car_brand",
+   "name": "Exeed",
+   "brands": [
+    "Exeed"
+   ],
+   "dealer": "Silver Lake Motors (Al Mana Holding)",
+   "website": "https://exeedqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "ES",
+    "ET",
+    "LX",
+    "RX",
+    "TXL",
+    "VX"
+   ],
+   "hints": "Peninsula 2023: Silver Lake Motors launched EXEED; showroom at West Walk Al Waab (+974 800 1115). Aggregator prices 2026: LX from QAR 81,000, TXL 105,000, RX 128,570, VX 144,000-159,150. Check exeedqa || alt dealer: Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors)",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  },
+  {
+   "key": "brand-ferrari",
+   "kind": "new_car_brand",
+   "name": "Ferrari",
+   "brands": [
+    "Ferrari"
+   ],
+   "dealer": "Alfardan Sports Motors",
+   "website": "https://www.alfardan.com.qa/sportsmotors",
+   "offer_page_urls": [
+    "https://doha.ferraridealers.com/en-GB",
+    "https://www.alfardan.com.qa/sportsmotors"
+   ],
+   "models_in_qatar": [
+    "Amalfi (launched 2026)",
+    "Purosangue",
+    "296",
+    "SF90",
+    "12Cilindri",
+    "Roma"
+   ],
+   "hints": "Official Ferrari dealer locator page doha.ferraridealers.com; Gulf Times reports Alfardan Sports Motors launched the Ferrari Amalfi in Qatar in 2026. Ferrari does not run retail discount offers; nothi",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  },
+  {
+   "key": "brand-foton",
+   "kind": "new_car_brand",
+   "name": "Foton",
+   "brands": [
+    "Foton"
+   ],
+   "dealer": "Not identified",
+   "website": "",
+   "offer_page_urls": [
+    "https://mannaiautos.com/autorent"
+   ],
+   "models_in_qatar": [
+    "View van",
+    "Tunland pickup",
+    "Mars 7",
+    "Mars 9",
+    "Scenery G5",
+    "S1 M4 light truck"
+   ],
+   "hints": "Aggregator pricing: Foton View from QAR 54,000, Tunland 2.4L 4WD QAR 64,000. Dealer not surfaced. JMC: nothing found. || alt dealer: Not identified (Mannai Auto Rent rents Foton pickups) || Aggregator pricing only: View from QAR 54,000, Tunland 2.4L 4WD QAR 64,000. Sales dealer not surfaced.",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  },
+  {
+   "key": "brand-denza",
+   "kind": "new_car_brand",
+   "name": "Denza",
+   "brands": [
+    "Denza"
+   ],
+   "dealer": "Mannai Automotive Group (Mannai Trading)",
+   "website": "https://denzaqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Denza B5",
+    "Denza B8",
+    "Yangwang U8"
+   ],
+   "hints": "BYD formalised agreement with Mannai Trading Automotive Group for Denza and Yangwang (MarkLines, ILoveQatar, qatar-happening). Showroom at Dune Plaza Building, Tornado Tower; test drives of B5/B8 book || BYD-Mannai agreement for Denza and Yangwang; showroom at Dune Plaza/Tornado Tower; test drives bookable. Newcomer brand. Denza B8 listed at QAR 249,000 by a showroom; no offer page. || alt dealer: Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group) || glimpsed: B8 2026 | Denza B8 from QAR 249,000 | https://qatarsale.com/en/showroom/al_mutamad_for_cars_13/cars_for_sale | not shown | unknown || glimpsed: B8 2026 | Denza B8 2026 from QAR 249,000 | https://qatarsale.com/en/showroom/al_mutamad_for_cars_13/cars_for_sale | Not stated | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  }
+ ]
+}

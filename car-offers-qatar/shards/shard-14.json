@@ -1,0 +1,120 @@
+{
+ "shard": "shard-14",
+ "search_budget_total": 185,
+ "items": [
+  {
+   "key": "brand-jetour",
+   "kind": "new_car_brand",
+   "name": "Jetour",
+   "brands": [
+    "Jetour"
+   ],
+   "dealer": "Al Waha Jetour showroom, Doha (Al Waha Automobiles)",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "T1",
+    "T2",
+    "X50",
+    "X70",
+    "X70 Plus",
+    "G700"
+   ],
+   "hints": "jetourqatar.com official; aggregators show 6 models, X50 from QAR 57,000 to G700 QAR 219,000; yallamotor flags a 'Jetour T2 special offer' without details. || alt dealer: Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025) || alt dealer: Al Waha Automobiles / Al Waha For Cars || glimpsed: X50 2026 | Jetour X50 2026 from QAR 58,000 | https://qatar.yallamotor.com/new-cars/jetour | not shown | unknown || glimpsed: T2 2025 | Jetour T2 2025 at QAR 99,000 | https://www.carsemsar.com/en/qatar/search?condition=new | not shown | unknown || glimpsed: G700 2026 | Jetour G700 2026 at QAR 214,000 | https://qic.online/en/market/cars/new | not shown | unknown || glimpsed: T2 2026 | Jetour T2 special offer flagged on YallaMotor Qatar | https://qatar.yallamotor.com/new-cars/jetour/t2 | Not stated | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  },
+  {
+   "key": "brand-ram",
+   "kind": "new_car_brand",
+   "name": "RAM",
+   "brands": [
+    "RAM"
+   ],
+   "dealer": "United Cars Almana WLL",
+   "website": "https://www.ram.com/qa/ar/index.html",
+   "offer_page_urls": [
+    "https://www.ram.com/qa/ar/campaign.html",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://www.dodge.com/qa/en/campaign.html",
+    "https://www.ram.com/qa/en/index.html",
+    "https://www.wakalatqatar.com/en/cars?brand%3AJEEP="
+   ],
+   "models_in_qatar": [
+    "1500 Classic",
+    "1500 Rebel",
+    "1500 Tungsten",
+    "1500 TRX",
+    "2500",
+    "RAM 1500 (model list not surfaced)"
+   ],
+   "hints": "ram.com/qa campaign page summary lists RAM 1500 Rebel at QAR 285,000 and 1500 Tungsten at QAR 339,000. Terms/validity not visible. Aggregator: cheapest RAM 1500 Classic ST Crew Cab 4x4 QAR 139,000. || alt dealer: United Cars Almana (UCA) || Sibling American lens notes a ram.com/qa campaign page and UCA offer listings on twffer, plus ILoveQatar Ramadan 2026 roundup mentioning 'Al Mana Motors Bestune/RAM' (expired). No RAM-specific current || Dodge Qatar has a /campaign.html page (content not visible in summary). No dated Q4 2026 campaign found. || glimpsed: 1500 Rebel / 1500 Tungsten | RAM 1500 Rebel QAR 285,000; RAM 1500 Tungsten QAR 339,000 | https://www.ram.com/qa/ar/campaign.html | not shown | likely_active || glimpsed: 1500 Rebel, 1500 Tungsten | RAM 1500 Rebel QAR 285,000 / 1500 Tungsten QAR 339,000 (campaign page) | https://www.ram.com/qa/ar/campaign.html | not visible | unknown",
+   "has_current_offers": "yes",
+   "search_budget": 48
+  },
+  {
+   "key": "brand-forthing",
+   "kind": "new_car_brand",
+   "name": "Forthing",
+   "brands": [
+    "Forthing",
+    "Forthing (unclear)"
+   ],
+   "dealer": "Al Waha Automobiles",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Voyah Free (EREV)",
+    "Voyah Dream (PHEV MPV)",
+    "Dongfeng models (new store per dongfeng-global.com)",
+    "Forthing T5 Evo (aggregator listing)",
+    "Forthing T5 Evo (listing)"
+   ],
+   "hints": "Also covers: Forthing (unclear) || Peninsula May 2025: VOYAH entered Qatar at Kempinski Doha with partner Al Waha Automobiles. dongfeng-global.com: 'DFM Opens New Store, Releases New Products in Qatar'. Forthing appears only on icartea || VOYAH entered Qatar May 2025 (Peninsula) with Al Waha Automobiles; DFM opened a new store in Qatar. No launch offer surfaced. || alt dealer: Al Waha Automobiles / Al Waha For Cars",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  },
+  {
+   "key": "brand-hongqi",
+   "kind": "new_car_brand",
+   "name": "Hongqi",
+   "brands": [
+    "Hongqi"
+   ],
+   "dealer": "Pioneer Motors Company (Almana Group)",
+   "website": "https://www.hongqi-qatar.com/en",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "HS3",
+    "HS5",
+    "HS7",
+    "H9",
+    "E-HS9"
+   ],
+   "hints": "Gulf Times: Pioneer Motors (Almana) official distributor, showroom Salwa Road / Old Airport (+974 800 7553). Prices 2026: HS3 from QAR 97,000, HS5 109,900, HS7 155,000, H9 295,000 (wakalatqatar, drive || Official distributor; showroom Salwa Road / Old Airport (+974 800 7553). Prices 2026 HS3 from 97,000 to H9 295,000. No offers surfaced.",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  },
+  {
+   "key": "brand-lynk-co",
+   "kind": "new_car_brand",
+   "name": "Lynk & Co",
+   "brands": [
+    "Lynk & Co"
+   ],
+   "dealer": "Auto Class Cars (NBK Group)",
+   "website": "https://www.lynkcoqatar.com/",
+   "offer_page_urls": [
+    "https://www.qatar-tribune.com/article/179266/business/auto-class-cars-presents-a-special-summer-offer-on-lynk-co-cars"
+   ],
+   "models_in_qatar": [
+    "Lynk & Co 05",
+    "Lynk & Co 06",
+    "Lynk & Co 900 (listings)"
+   ],
+   "hints": "Launched Oct 2023 at GIMS Qatar with Auto Class Cars/NBK (PRNewswire, marhaba.qa). Summer offer (undated article; likely 2024/2025): 05 from QR 99,000, 06 from QR 75,000, 1yr free registration + insur || alt dealer: Auto Class Cars (NBK Holding) || glimpsed: 05 / 06 | Auto Class Cars summer offer on Lynk & Co: 05 from QR 99,000, 06 from QR 75,000 | https://www.qatar-tribune.com/article/179266/business/auto-class-cars-presents-a-special-summer-offer-on-lynk-co-cars | Summer (year not stated in summary; likely 2024/2025) | expired || glimpsed: 05, 06 | Summer offer: 05 from QR 99,000, 06 from QR 75,000, 1-yr free registration + insurance, free tint, 5yr/150k warranty | https://www.qatar-tribune.com/article/179266/business/auto-class-cars-presents-a-special-summer-offer-on-lynk-co-cars | undated summer article (2024/2025) | expired",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  }
+ ]
+}

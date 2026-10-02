@@ -1,0 +1,147 @@
+{
+ "shard": "shard-02",
+ "search_budget_total": 184,
+ "items": [
+  {
+   "key": "brand-gmc",
+   "kind": "new_car_brand",
+   "name": "GMC",
+   "brands": [
+    "GMC"
+   ],
+   "dealer": "Mannai Autos (Mannai Automotive)",
+   "website": "https://gmc.mannaiautos.com/",
+   "offer_page_urls": [
+    "https://gmc.mannaiautos.com/offers/2026-terrain/",
+    "https://gmc.mannaiautos.com/offers/yukon-2026/",
+    "https://gmc.mannaiautos.com/offers/canyon-ramadan-2026/",
+    "https://www.iloveqatar.net/news/business/mannai-automotive-gmc-truckmania-qatar-30-days-exclusive-offers",
+    "https://gmc.mannaiautos.com/offers/",
+    "https://gmc.mannaiautos.com/new-vehicles/",
+    "https://cadillac.mannaiautos.com/new-vehicles/"
+   ],
+   "models_in_qatar": [
+    "Terrain",
+    "Acadia",
+    "Yukon",
+    "Yukon AT4",
+    "Sierra",
+    "Canyon",
+    "Hummer EV Pickup",
+    "Canyon AT4X",
+    "Yukon XL",
+    "GMC Terrain",
+    "GMC Acadia",
+    "GMC Yukon",
+    "GMC Yukon XL",
+    "GMC Sierra",
+    "GMC Canyon AT4X",
+    "Cadillac Escalade",
+    "Cadillac Escalade IQ",
+    "Cadillac Vistiq",
+    "Cadillac Optiq",
+    "Cadillac CT5"
+   ],
+   "hints": "Live offer pages indexed for 2026 Terrain (QAR 1,666/month) and 2026 Yukon (0% down, free insurance/registration/tint, centenary campaign). Canyon Ramadan 2026 page is expired. TruckMania (Sierra/Cany || alt dealer: Mannai Autos (Mannai Automotive Group) || Offers hub live (2026 Terrain QAR 1,666/mo and 2026 Yukon 0% down pages indexed). Truck-specific campaigns seen (TruckMania Aug 2025; Canyon Ramadan 2026) are expired; current Sierra/Canyon offer unkn || alt dealer: Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group) || alt dealer: Mannai Automotive Group || Only lineup pages surfaced; no promotional campaign text found in summaries. || alt dealer: Mannai Autos || glimpsed: Terrain 2026 | GMC Terrain QAR 1,666/month - More reasons to drive | https://gmc.mannaiautos.com/offers/2026-terrain/ | not shown | likely_active || glimpsed: Yukon 2026 | GMC Yukon: 0% down payment - Celebrate a century with exclusive offers | https://gmc.mannaiautos.com/offers/yukon-2026/ | not shown | likely_active || glimpsed: Canyon 2026 | GMC Canyon - Inspired by the generosity of Ramadan | https://gmc.mannaiautos.com/offers/canyon-ramadan-2026/ | Ramadan 2026 | expired || glimpsed: Sierra / Canyon | GMC TruckMania - 30 days of exclusive offers | https://www.iloveqatar.net/news/business/mannai-automotive-gmc-truckmania-qatar-30-days-exclusive-offers | 30 days from launch (X post Aug 2025) | expired || glimpsed: Sierra / Canyon | GMC TruckMania - 30 days of exclusive offers | ht",
+   "has_current_offers": "yes",
+   "search_budget": 80
+  },
+  {
+   "key": "brand-cadillac",
+   "kind": "new_car_brand",
+   "name": "Cadillac",
+   "brands": [
+    "Cadillac"
+   ],
+   "dealer": "Mannai Autos",
+   "website": "https://cadillac.mannaiautos.com/",
+   "offer_page_urls": [
+    "https://cadillac.mannaiautos.com/new-vehicle-offers/escalade/",
+    "https://cadillac.mannaiautos.com/new-vehicles/",
+    "https://gmc.mannaiautos.com/new-vehicles/"
+   ],
+   "models_in_qatar": [
+    "Escalade",
+    "Escalade V",
+    "Escalade IQ",
+    "Escalade IQL",
+    "Vistiq",
+    "Optiq",
+    "CT5",
+    "CT5-V",
+    "GMC Terrain",
+    "GMC Acadia",
+    "GMC Yukon",
+    "GMC Yukon XL",
+    "GMC Sierra",
+    "GMC Canyon AT4X",
+    "Cadillac Escalade",
+    "Cadillac Escalade IQ",
+    "Cadillac Vistiq",
+    "Cadillac Optiq",
+    "Cadillac CT5"
+   ],
+   "hints": "Offer page 'Make your Escalade dream a reality': 0% interest, 50% down, 25% after 2 yrs, 25% after 4 yrs. Validity not shown in summary. Escalade 2026 priced QAR 341,900-564,300 on aggregators. || Lineup pages only; sibling notes mention cadillac.mannaiautos.com/new-vehicle-offers/escalade/ as a page to crawl. || alt dealer: Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group) || alt dealer: Mannai Automotive Group || Only lineup pages surfaced; no promotional campaign text found in summaries. || glimpsed: Escalade | Make your Escalade dream a reality - 0% interest | https://cadillac.mannaiautos.com/new-vehicle-offers/escalade/ | not shown | unknown || glimpsed: Escalade | Escalade: 0% interest, 50% down, 25% after 2 yrs, 25% after 4 yrs | https://cadillac.mannaiautos.com/new-vehicle-offers/escalade/ | not shown | unknown || glimpsed: XT6 | Cadillac XT6 4,500 QAR/month lease | https://mannaiautos.com/autorent | Not stated | likely_active || glimpsed: XT4 | Cadillac XT4 4,000 QAR/month lease | https://mannaiautos.com/autorent | Not stated | likely_active || glimpsed: Escalade | Cadillac Escalade 13,500 QAR/month lease | https://mannaiautos.com/autorent | Not stated | likely_active",
+   "has_current_offers": "yes",
+   "search_budget": 80
+  },
+  {
+   "key": "brand-lotus",
+   "kind": "new_car_brand",
+   "name": "Lotus",
+   "brands": [
+    "Lotus"
+   ],
+   "dealer": "No official dealer evidenced",
+   "website": "unknown",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Emira",
+    "Eletre",
+    "Emeya (aggregator listings)"
+   ],
+   "hints": "'Lotus Car Showroom' in Abu Hamour is an unrelated used-car showroom; aggregators list 6 Lotus models from QAR 375,000. || alt dealer: unknown - no official dealer evidenced || No official Lotus Cars dealer found for Qatar. 'Lotus Car Showroom' in Abu Hamour (+974 5553 7003) found on qmotor/carsemsar/qatarsale is a generic used-car showroom that merely shares the name, not a",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-lucid",
+   "kind": "new_car_brand",
+   "name": "Lucid",
+   "brands": [
+    "Lucid"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [
+    "https://www.drivearabia.com/carprices/qatar/lucid/lucid-air/2026/",
+    "https://qatar.yallamotor.com/new-cars/lucid/prices"
+   ],
+   "models_in_qatar": [
+    "Air (Pure, Touring, Grand Touring, Sapphire) - aggregator listings only",
+    "Air (aggregator listings only)"
+   ],
+   "hints": "Only aggregator price listings (Air Pure 2026 ~QAR 263,536). No Qatar dealer or showroom surfaced. || Only aggregator price listings (Air Pure 2026 ~QAR 263,536); no Qatar showroom. || glimpsed: Air Pure 2026 | Lucid Air Pure 2026 ~QAR 263,536 (aggregator) | https://www.drivearabia.com/carprices/qatar/lucid/lucid-air/2026/ | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-tata",
+   "kind": "new_car_brand",
+   "name": "Tata",
+   "brands": [
+    "Tata"
+   ],
+   "dealer": "Not identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Xenon pickup",
+    "Xenon 4x2 / 4x4"
+   ],
+   "hints": "yallamotor: Tata Xenon 2026 from QAR 42,000 (4x2) / 53,000 (4x4). Dealer not surfaced. || yallamotor lists Xenon 2026 from QAR 42,000 (4x2) / 53,000 (4x4). Dealer not surfaced.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

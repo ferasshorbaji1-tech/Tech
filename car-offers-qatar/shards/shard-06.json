@@ -1,0 +1,105 @@
+{
+ "shard": "shard-06",
+ "search_budget_total": 183,
+ "items": [
+  {
+   "key": "brand-mg",
+   "kind": "new_car_brand",
+   "name": "MG",
+   "brands": [
+    "MG"
+   ],
+   "dealer": "Auto Class Cars (NBK Holding)",
+   "website": "https://www.mg-qa.com/",
+   "offer_page_urls": [
+    "https://www.mg-qa.com/offers/",
+    "https://www.mg-qa.com/offers/ramadan-exclusive-offer-2026/",
+    "https://marhaba.qa/auto-class-cars-launches-special-offers-on-selected-mg-models-until-31-july-2026/",
+    "https://factqatar.com/auto-class-cars-unmissable-deals-on-mg-models-in-qatar/"
+   ],
+   "models_in_qatar": [
+    "MG ZS",
+    "MG ONE",
+    "MG HS",
+    "MG RX9",
+    "MG 5",
+    "MG GT",
+    "MG 7",
+    "MG4 EV",
+    "MG Cyberster (unconfirmed)",
+    "ZS",
+    "ONE",
+    "HS",
+    "RX9",
+    "5",
+    "GT",
+    "7"
+   ],
+   "hints": "Auto Class Cars is authorised general distributor (showrooms Salwa Road and Lusail). Offers page mg-qa.com/offers exists. Offer 'until 31 July 2026': MG ONE from QAR 69,000, HS from 71,000, ZS from 49 || Offers page live; last campaign (until 31 Jul 2026: ONE 69,000, HS 71,000, ZS 49,000, RX9 89,000 + free registration/insurance) expired. Auto Class runs rolling campaigns incl. back-to-school (to 31 O || glimpsed: ZS 2025 | MG ZS 1.5 2025 at QAR 53,000 | https://www.carsemsar.com/en/qatar/search?condition=new | not shown | unknown || glimpsed: MG ONE / HS / ZS / RX9 | Auto Class Cars special prices on selected MG models until 31 July 2026 | https://marhaba.qa/auto-class-cars-launches-special-offers-on-selected-mg-models-until-31-july-2026/ | Until 31 July 2026 | expired || glimpsed: MG range | MG Qatar Ramadan Exclusive Offer 2026 | https://www.mg-qa.com/offers/ramadan-exclusive-offer-2026/ | Ramadan 2026 | expired || glimpsed: MG range | MG Qatar offers hub (Auto Class Cars) | https://www.mg-qa.com/offers/ | Not stated | unknown || glimpsed: ONE / HS / ZS / RX9 | Special prices on selected MG models until 31 July 2026 | https://marhaba.qa/auto-class-cars-launches-special-offers-on-selected-mg-models-until-31-july-2026/ | Until 31 July 2026 | expired || glimpsed:  | MG ONE from 69,000, HS from 71,000, ZS from 49,000, RX9 from 89,000 + 1-yr registration, insurance, 6yr/200k warranty | https://marhaba.qa/auto-class-cars-launches-special-offers-on-selected-mg-models-until-31-jul",
+   "has_current_offers": "unknown",
+   "search_budget": 68
+  },
+  {
+   "key": "brand-byd",
+   "kind": "new_car_brand",
+   "name": "BYD",
+   "brands": [
+    "BYD",
+    "BYD premium"
+   ],
+   "dealer": "BYD Qatar (official distributor name not surfaced in results)",
+   "website": "https://www.bydqatar.com.qa/",
+   "offer_page_urls": [
+    "https://www.bydqatar.com.qa/2026/02/23/ramadan-car-offers-qatar-byd/"
+   ],
+   "models_in_qatar": [
+    "Qin Plus",
+    "Seal",
+    "Shark 6",
+    "Song Plus",
+    "Han",
+    "Sealion (unconfirmed)",
+    "Shark 6 pickup",
+    "Atto 3",
+    "Sealion",
+    "Leopard 5 (listing)",
+    "Ti 7",
+    "Denza B5",
+    "Denza B8",
+    "Yangwang U8"
+   ],
+   "hints": "Also covers: BYD premium || Ramadan 2026 post (5 yrs free service, 1 yr insurance & registration, home charger, tinting) - expired; site has dated blog posts, recheck for Q4 2026. || Official site bydqatar.com.qa has a dated offers blog (Ramadan 2026: 5 years free service, free home charger for PHEV, free tinting - expired). drivearabia: 8 new BYD models on sale in Qatar; Qin Plus || alt dealer: BYD Qatar (distributor entity not surfaced) || Official site has dated offer blog posts; Ramadan 2026 EV bundle (5 yrs free service, 1 yr insurance & registration, free home charger, tinting, 8-yr battery warranty) expired. Shark 6 pickup is an EV || alt dealer: BYD Qatar (distributor company not identified) || alt dealer: BYD Qatar (bydqatar.com.qa) || Ramadan 2026 campaign (1yr free insurance and registration) expired; no Q4 campaign indexed. 2026 Seal priced QAR 142,700-195,600. || glimpsed: Leopard 5 2026 | BYD Leopard 5 2026 QAR 189,000-195,000 | https://qic.online/en/market/cars/new | not shown | unknown || glimpsed: selected models | Ramadan: 5 yrs free service, 1 yr insurance & registration, free home charger, free tinting, 8-yr battery warranty | https://www.bydqatar.com.qa/2026/02/23/ramadan-car-offers-qatar-byd/ | Ramadan 2026 | expired || glimpsed: All models (PHEV focus) | BYD Qatar Ramadan 2026 offer: 5 years free service, free home charger (PHEV), free tinting | https://www.bydqatar.com.qa/2026/02/23/ramadan-car-offers-qatar-byd/ | Ramadan 2026 (Feb-Mar 2026) | expired || glimpsed: SUVs (lease) |  || alt dealer: Mannai Automotive Group (Mannai Trading) || BYD formalised agreement with Mannai Trading Automotive Group for Denza and Yangwang (MarkLines, ILoveQatar, qatar-happening). Showroom at Dune Plaza Building, Tornado Tower; test drives of B5/B8 book",
+   "has_current_offers": "unknown",
+   "search_budget": 62
+  },
+  {
+   "key": "brand-aion",
+   "kind": "new_car_brand",
+   "name": "Aion",
+   "brands": [
+    "Aion"
+   ],
+   "dealer": "Domasco (Doha Marketing Services Company)",
+   "website": "https://www.gac-motor.qa/en/",
+   "offer_page_urls": [
+    "https://www.gac-motor.qa/en/offers/"
+   ],
+   "models_in_qatar": [
+    "Emzoom",
+    "Empow",
+    "Empow R",
+    "Emkoo",
+    "GS4 Max",
+    "GS8",
+    "GS8 Traveller",
+    "M8",
+    "Aion V",
+    "GA8",
+    "Aion V (QAR 104,900)"
+   ],
+   "hints": "gac-motor.qa/en/offers is the official 'Get Offers for New and Pre-owned GAC in Qatar' page (Domasco GAC). 2026 prices: Emzoom from QAR 65,900, Empow 69,900, Emkoo 76,900, GS4 Max 94,900, Empow R 99,9 || Official 'Get Offers for New and Pre-owned GAC in Qatar' page exists; contents not visible in summaries. Domasco finance tie-up with Al Jazeera Finance ongoing. || alt dealer: Doha Marketing Services Co. (Domasco)",
+   "has_current_offers": "unknown",
+   "search_budget": 53
+  }
+ ]
+}

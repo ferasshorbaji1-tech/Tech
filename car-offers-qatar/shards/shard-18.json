@@ -1,0 +1,132 @@
+{
+ "shard": "shard-18",
+ "search_budget_total": 181,
+ "items": [
+  {
+   "key": "brand-dodge",
+   "kind": "new_car_brand",
+   "name": "Dodge",
+   "brands": [
+    "Dodge"
+   ],
+   "dealer": "United Cars Almana WLL",
+   "website": "https://www.dodge.com/qa/en/",
+   "offer_page_urls": [
+    "https://www.dodge.com/qa/en/campaign.html",
+    "https://www.dodge.com/qa/ar/shopping-tools/campaign.html",
+    "https://dodge-qatar.com/en/united-cars-almana/library/offers-list/charger-gt/",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://www.ram.com/qa/en/index.html",
+    "https://www.wakalatqatar.com/en/cars?brand%3AJEEP="
+   ],
+   "models_in_qatar": [
+    "Charger (GT, R/T)",
+    "Durango",
+    "RAM 1500 (model list not surfaced)"
+   ],
+   "hints": "Charger GT offer page: from QR 149,000 with 5yr/100k warranty, 3yr/60k free service, 1-yr insurance, free registration, free tint. Validity not visible. Charger R/T from QAR 189,000; Durango from QAR  || alt dealer: United Cars Almana (UCA) || Sibling American lens notes a ram.com/qa campaign page and UCA offer listings on twffer, plus ILoveQatar Ramadan 2026 roundup mentioning 'Al Mana Motors Bestune/RAM' (expired). No RAM-specific current || Dodge Qatar has a /campaign.html page (content not visible in summary). No dated Q4 2026 campaign found. || glimpsed: Charger GT | Charger GT offer - from QR 149,000 | https://dodge-qatar.com/en/united-cars-almana/library/offers-list/charger-gt/ | not shown | unknown || glimpsed: Charger R/T / Durango | Charger R/T from QAR 189,000; Durango from QAR 224,999 | https://www.dodge.com/qa/en/campaign.html | not shown | unknown || glimpsed: Charger GT | Charger GT from QR 149,000 with 5yr/100k warranty, 3yr/60k service, 1-yr insurance, free registration and tint | https://dodge-qatar.com/en/united-cars-almana/library/offers-list/charger-gt/ | not visible | unknown",
+   "has_current_offers": "yes",
+   "search_budget": 39
+  },
+  {
+   "key": "brand-renault",
+   "kind": "new_car_brand",
+   "name": "Renault",
+   "brands": [
+    "Renault"
+   ],
+   "dealer": "unknown (Al Mana group is suggested by Al Mana Leasing fleet - verify)",
+   "website": "https://www.renault.qa/current-offers/current-offers.html",
+   "offer_page_urls": [
+    "https://www.renault.qa/current-offers/current-offers.html"
+   ],
+   "models_in_qatar": [
+    "Duster",
+    "Koleos (unverified)",
+    "Megane (unverified)"
+   ],
+   "hints": "Current-offers page surfaced; details not shown. || Official 'current offers' page https://www.renault.qa/current-offers/current-offers.html surfaced in the aggregator lens (details not shown). Al Mana Leasing lists Renault Duster at QAR 160/day alongs || glimpsed: range | Renault Qatar current offers page | https://www.renault.qa/current-offers/current-offers.html | unknown | unknown || glimpsed: Duster (rental) | Renault Duster QAR 160/day | https://almanaleasing.com/ | not stated | likely_active || glimpsed: Duster | Renault Duster 160 QAR/day | https://almanaleasing.com/ | Not stated | likely_active",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  },
+  {
+   "key": "brand-soueast",
+   "kind": "new_car_brand",
+   "name": "Soueast",
+   "brands": [
+    "Soueast"
+   ],
+   "dealer": "Not confirmed (Al Mana Leasing rents S06, suggesting Al Mana group)",
+   "website": "https://soueastqatar.com/offers/",
+   "offer_page_urls": [
+    "https://soueastqatar.com/offers/",
+    "https://iamqatar.qa/pages/feed-post/a-new-chapter-begins-with-soueast-vehicles-in-qatar/"
+   ],
+   "models_in_qatar": [
+    "S06",
+    "S07",
+    "S09"
+   ],
+   "hints": "Last campaign seen: S06 from 59,900 / S07 71,900 / S09 87,900, 0% down, 6-month grace, 2 yrs service, 10-yr warranty, valid 1 Jun-31 Jul 2026 (expired). Prior year had a back-to-school campaign to 31  || Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary. || Entered Qatar 2025 ('A new chapter begins' PR); back-to-school 2025 offer to 31 Oct 2025 and 1 Jun-31 Jul 2026 offer (S06 59,900 / S07 71,900 / S09 87,900, 0% down, 6-month grace, 10-yr warranty) expi || glimpsed: S06 / S07 / S09 | S06 59,900 / S07 71,900 / S09 87,900; 0% down, 6-month grace, 2 yrs service, 10-yr warranty | https://soueastqatar.com/offers/ | 1 Jun - 31 Jul 2026 | expired || glimpsed: S06 (rental) | Soueast S06 rental QAR 190/day | https://almanaleasing.com/car/soueast-s06/ | not stated | likely_active || glimpsed: S06 | Soueast S06 190 QAR/day | https://almanaleasing.com/car/soueast-s06/ | Not stated | likely_active",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  },
+  {
+   "key": "brand-xpeng",
+   "kind": "new_car_brand",
+   "name": "Xpeng",
+   "brands": [
+    "Xpeng"
+   ],
+   "dealer": "Pioneer Motors (Almana Group)",
+   "website": "https://www.hongqi-qatar.com/en",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "G9",
+    "G6",
+    "P7+ (coming)"
+   ],
+   "hints": "CnEVPost Sept 2024 dealer deal; official launch in Doha Dec 2025 (Yahoo Finance / Benzinga / He Xiaopeng on X). No Qatar website or offers surfaced. || Dealer agreement Sept 2024; official Doha launch Dec 2025 (Yahoo Finance/Benzinga). Qualifies as a 2025 newcomer. No Qatar website or launch offer surfaced. || alt dealer: Pioneer Motors Company (Almana Group)",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  },
+  {
+   "key": "brand-yangwang",
+   "kind": "new_car_brand",
+   "name": "Yangwang",
+   "brands": [
+    "Yangwang"
+   ],
+   "dealer": "Mannai Automotive Group (Mannai Trading)",
+   "website": "https://denzaqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Denza B5",
+    "Denza B8",
+    "Yangwang U8"
+   ],
+   "hints": "BYD formalised agreement with Mannai Trading Automotive Group for Denza and Yangwang (MarkLines, ILoveQatar, qatar-happening). Showroom at Dune Plaza Building, Tornado Tower; test drives of B5/B8 book || BYD-Mannai agreement for Denza and Yangwang; showroom at Dune Plaza/Tornado Tower; test drives bookable. Newcomer brand. Denza B8 listed at QAR 249,000 by a showroom; no offer page. || alt dealer: Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group)",
+   "has_current_offers": "unknown",
+   "search_budget": 29
+  },
+  {
+   "key": "brand-avatr",
+   "kind": "new_car_brand",
+   "name": "Avatr",
+   "brands": [
+    "Avatr",
+    "AVATR (via affiliated Elaf Auto per avatrqa.com)"
+   ],
+   "dealer": "Al Attiya Motors / Elaf Auto (avatrqa.com says 'AVATR Qatar - Elaf Auto' and 'About AVATR Qatar - Al Attiya Motors')",
+   "website": "https://www.avatrqa.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Avatr 11",
+    "Avatr 12"
+   ],
+   "hints": "Also covers: AVATR (via affiliated Elaf Auto per avatrqa.com) || CnEVPost: Avatr 11 and 12 launched in Qatar 24 Feb 2025; Avatr signed Al Attiya Motors Aug 2024. Deepal: no Qatar presence found (Changan reportedly consolidating Avatr and Deepal, Sept 2026). || alt dealer: Al Attiya Motors / Elaf Auto || Avatr 11 and 12 launched in Qatar 24 Feb 2025 (CnEVPost); counts as 2025 newcomer. No launch offer surfaced. || alt dealer: Al-Attiya Motors & Trading Co. (AMTC) / Elaf Auto",
+   "has_current_offers": "unknown",
+   "search_budget": 26
+  }
+ ]
+}

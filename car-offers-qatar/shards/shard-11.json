@@ -1,0 +1,118 @@
+{
+ "shard": "shard-11",
+ "search_budget_total": 183,
+ "items": [
+  {
+   "key": "brand-land-rover",
+   "kind": "new_car_brand",
+   "name": "Land Rover",
+   "brands": [
+    "Defender",
+    "Discovery",
+    "Land Rover",
+    "Range Rover",
+    "Jaguar"
+   ],
+   "dealer": "Alfardan Premier Motors (Jaguar Land Rover Qatar)",
+   "website": "https://www.landrover-qatar.com/",
+   "offer_page_urls": [
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/new-vehicles",
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/approved-used",
+    "https://www.rangerover.com/en-qa/offers-and-finance/approved-used?suboffer=buyback-cefm",
+    "https://www.landrover-qatar.com/en/range-rover/offers-and-finance/finance-calculator",
+    "https://www.alfardan.com.qa/premiermotors"
+   ],
+   "models_in_qatar": [
+    "Range Rover (2026 Vogue HSE QAR 789,000)",
+    "Range Rover Sport (2026 from QAR 384,500)",
+    "Range Rover Velar",
+    "Range Rover Evoque (QAR 178,700)",
+    "Defender 90/110/130 (2026 110 X-Dynamic HSE QAR 409,000; 130 QAR 379,000)",
+    "Discovery",
+    "Discovery Sport",
+    "Jaguar F-Pace",
+    "Jaguar F-Type (run-out)"
+   ],
+   "hints": "Also covers: Defender; Discovery; Land Rover / Range Rover Approved Pre-Owned Qatar (Alfardan Premier Motors) || alt dealer: Alfardan Premier Motors || Official landrover-qatar.com and rangerover.com/en-qa carry 'Offers & Finance' pages. Search summary of the Defender/Range Rover approved-used pages: 0% down payment with up to six months grace period || alt dealer: Alfardan Premier Motors || Official landrover-qatar.com and rangerover.com/en-qa carry 'Offers & Finance' pages. Search summary of the Defender/Range Rover approved-used pages: 0% down payment with up to six months grace period || glimpsed: Defender MY2025-2026 | Approved-used Defender: 0% down payment + up to 6 months grace | https://www.landrover-qatar.com/en/defender/offers-and-finance/approved-used | limited time, no end date shown | likely_active || glimpsed: Range Rover MY2025-2026 | Approved-used Range Rover: 0% down + up to 6 months grace (buyback/CEFM) | https://www.rangerover.com/en-qa/offers-and-finance/approved-used?suboffer=buyback-cefm | limited time | likely_active || glimpsed: Defender | Defender new-vehicle offers page | https://www.landrover-qatar.com/en/defender/offers-and-finance/new-vehicles | unknown | unknown || glimpsed: Defender (Approved pre-owned, MY2025-2026) | Approved used Defender: 0% down payment + up to 6 months grace period | https://www.landrover-qatar.com/en/defender/offers-and-finance/approved-used | limited time (no end date shown) | likely_active || glimpsed: Range Rover (Approved pre-owned, MY2025-2026) | Approved used Range Rover: 0% down payment + up to 6 months grace period (buyback/CEFM sub-offer) | https://www.rangerover.com/en-qa/offers-and-finance/approved-used?suboffer=buyback-cefm | limited time (no end date shown) | likely_active || glimpsed: Defender (new veh",
+   "has_current_offers": "yes",
+   "search_budget": 57
+  },
+  {
+   "key": "brand-mazda",
+   "kind": "new_car_brand",
+   "name": "Mazda",
+   "brands": [
+    "Mazda"
+   ],
+   "dealer": "National Car Company (Mazda Qatar)",
+   "website": "https://www.mazda-qatar.com/offers/",
+   "offer_page_urls": [
+    "https://www.mazda-qatar.com/offers/",
+    "https://thepeninsulaqatar.com/article/20/05/2026/mazda-2026-early-summer-offers-a-strength-you-can-feel-a-value-that-lasts"
+   ],
+   "models_in_qatar": [
+    "Mazda3",
+    "Mazda6",
+    "CX-30",
+    "CX-5",
+    "CX-60",
+    "CX-90",
+    "Mazda2",
+    "CX-3",
+    "MX-5"
+   ],
+   "hints": "Also covers: Mazda Qatar Pre-Owned (National Car Company) || Special offers page exists; last dated campaign seen (Peninsula) was early-summer 19 May-18 Jul 2026 (free 1-yr insurance + registration on CX-30/CX-5/CX-60/CX-90). || alt dealer: National Car Company || Early Summer Offers ran 19 May-18 Jul 2026 (free 1yr insurance, free registration, 2yr/30k service, 5yr warranty, 5yr roadside) - expired. Official /offers/ page exists and should be re-checked for a  || Early Summer 2026 offers ran 19 May - 18 Jul 2026 (expired): free 1-yr insurance, free registration, 2yr/30,000km service, 5-yr warranty, 5-yr roadside, zero-down finance via Tamweel/Al Jazeera Financ || alt dealer: National Car Company (NCC) || glimpsed: CX-30 / CX-5 / CX-60 / CX-90 2026 | Early summer offers: free 1-yr comprehensive insurance + free registration | https://thepeninsulaqatar.com/article/20/05/2026/mazda-2026-early-summer-offers-a-strength-you-can-feel-a-value-that-lasts | 19 May - 18 Jul 2026 | expired || glimpsed: CX-30, CX-5, CX-60, CX-90 | Mazda 2026 Early Summer Offers: free 1-yr insurance, free registration, 2yr/30k service, 5-yr warranty | https://thepeninsulaqatar.com/article/20/05/2026/mazda-2026-early-summer-offers-a-strength-you-can-feel-a-value-that-lasts | 19 May - 18 Jul 2026 | expired || glimpsed: CX-30, CX-5, CX-60, CX-90 (MY2026) | Mazda 2026 Early Summer Offers | https://thepeninsulaqatar.com/article/20/05/2026/mazda-2026-early-summer-offers-a-strength-you-can-feel-a-value-that-lasts | 19 May - 18 July 2026 | expired || glimpsed: CX-30, CX-5, || alt dealer: National Car Company || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Official offers page exists (last campaign 19 May-18 Jul 2026, expired)",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-tank",
+   "kind": "new_car_brand",
+   "name": "Tank",
+   "brands": [
+    "Tank"
+   ],
+   "dealer": "Teyseer Motors",
+   "website": "https://gwmqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Tank 300 HEV",
+    "Tank 500",
+    "Tank 700",
+    "Haval H6 HEV",
+    "Haval Jolion Pro",
+    "Haval H7/V7 (listing)",
+    "Ora 03",
+    "GWM Poer",
+    "GWM Wingle"
+   ],
+   "hints": "GWM global news + Teyseer partnership: flagship store in Doha, 200+ bookings at launch. Wey brand not confirmed in Qatar. Grey-market dealers (Al Dahdouh, Mawater City) list Tank 500 2026 from QAR 159 || Teyseer is GWM partner (flagship store Doha). Only grey-market and expired Ramadan (Tank 500 from 155,000, 0% down via Al Jazeera Finance) offers seen; no pickup offer. || alt dealer: Teyseer Motors W.L.L. (Suzuki / GWM Qatar)",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-bentley",
+   "kind": "new_car_brand",
+   "name": "Bentley",
+   "brands": [
+    "Bentley"
+   ],
+   "dealer": "Al Wajba Motors (Bentley / Lamborghini / Bugatti Doha)",
+   "website": "https://alwajbamotors.me/",
+   "offer_page_urls": [
+    "https://www.bentleymotors.com/en/apps/locate.bentley-doha.retailer-7780.html",
+    "https://alwajbamotors.me/",
+    "https://www.facebook.com/bentleyqatarofficial/"
+   ],
+   "models_in_qatar": [
+    "Continental GT (2026 from QAR 800,000)",
+    "Continental GTC",
+    "Flying Spur",
+    "Bentayga (2026 QAR 852,000-1,800,000)"
+   ],
+   "hints": "alt dealer: Al Wajba Motors || Bentley Motors retailer locator lists Bentley Doha at Al Muftah Plaza, Al Rayyan Road plus a Pearl (UDC Tower) showroom; Al Wajba Motors is the dealer. No promotional offers found; aggregator price li",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "shard": "shard-19",
+ "search_budget_total": 184,
+ "items": [
+  {
+   "key": "brand-isuzu",
+   "kind": "new_car_brand",
+   "name": "Isuzu",
+   "brands": [
+    "Isuzu",
+    "Isuzu (unverified - Jaidah Motors & Trading historically; aggregators list other D-Max sellers)"
+   ],
+   "dealer": "Official distributor unverified (seed list says Jaidah Automotive; aggregators list Express Motors and Alaa Allan Automotive as D-Max sellers)",
+   "website": "jaidah.com.qa",
+   "offer_page_urls": [
+    "https://qatar.yallamotor.com/new-cars/isuzu/d-max/2026",
+    "https://www.drivearabia.com/carprices/qatar/isuzu/"
+   ],
+   "models_in_qatar": [
+    "D-Max (3.0L flatbed 2WD, double cab 2WD, 1.9D single/double cab, crew cab 4WD LS/GT)",
+    "MU-X"
+   ],
+   "hints": "Also covers: Isuzu (unverified - Jaidah Motors & Trading historically; aggregators list other D-Max sellers) || Aggregator pricing D-Max 2026 QAR 67,500-128,900. Jaidah not confirmed by any search result; no official site or offers page surfaced. || Jaidah Group not confirmed by search results; aggregators list dealers Express Motors and Alaa Allan Automotive selling D-Max 2026 (QAR 67,500-128,900). Needs direct verification of official distribut || alt dealer: Jaidah Automotive || alt dealer: Jaidah Automotive (Jaidah Group)",
+   "has_current_offers": "unknown",
+   "search_budget": 26
+  },
+  {
+   "key": "brand-kaiyi",
+   "kind": "new_car_brand",
+   "name": "Kaiyi",
+   "brands": [
+    "Kaiyi"
+   ],
+   "dealer": "Al Waha For Cars",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [
+    "https://www.wakalatqatar.com/ar/cars?company%3AAl_Waha_For_Cars%2Cbrand%3AKAIYI="
+   ],
+   "models_in_qatar": [
+    "Kaiyi X3 Flagship",
+    "X3 Flagship"
+   ],
+   "hints": "Search summary: Kaiyi X3 Flagship offered by Al Waha For Cars from QR 43,900. Bestune and Soueast appear in Qatar marketplace listings but no dealer identified. || Kaiyi X3 Flagship from QR 43,900 at Al Waha For Cars; appears only on wakalatqatar/qatarliving listings. || alt dealer: Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025) || alt dealer: Al Waha Automobiles / Al Waha For Cars || Appeared only as a dealer filter on wakalatqatar.com; not otherwise verified. || glimpsed: X3 Flagship | Kaiyi X3 Flagship from QR 43,900 at Al Waha For Cars | https://www.qatarliving.com/en/vehicles/cars/baic | Not stated | unknown || glimpsed: X3 Flagship | Kaiyi X3 Flagship from QR 43,900 | https://www.qatarliving.com/en/vehicles/cars/baic | not stated | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 26
+  },
+  {
+   "key": "brand-daihatsu",
+   "kind": "new_car_brand",
+   "name": "Daihatsu",
+   "brands": [
+    "Daihatsu"
+   ],
+   "dealer": "Taleb Trading Co. (Daihatsu - historic)",
+   "website": "https://talebgroup.com/taleb-trading-co/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Gran Max Van (listed by aggregators)"
+   ],
+   "hints": "alt dealer: Taleb Trading Co. || Aggregators say no official Daihatsu showroom/new models in Qatar; Taleb Trading listed as distributor (C-Ring Rd, tel 4463 7400). Treat as effectively absent from new-car offers. || alt dealer: Abdullah Abdulghani & Bros (AAB)",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-mahindra",
+   "kind": "new_car_brand",
+   "name": "Mahindra",
+   "brands": [
+    "Mahindra"
+   ],
+   "dealer": "Ibin Ajayan Trading (sales@ibinajayan.com.qa, +974 4499 1000)",
+   "website": "https://www.facebook.com/MahindraQatar/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Scorpio / Pik-Up (per mawatershow listings, unverified)"
+   ],
+   "hints": "Facebook Mahindra Qatar page advertises 'exclusive offers' with Ibin Ajayan contact details. Lineup not confirmed. || alt dealer: None || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong. || alt dealer: Ibin Ajayan Trading (Mahindra Qatar)",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-nio",
+   "kind": "new_car_brand",
+   "name": "Nio",
+   "brands": [
+    "Nio"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "3 models per yallamotor (unverified)"
+   ],
+   "hints": "yallamotor has a NIO Qatar page with 3 models, but no official dealer/launch found. Nio's Middle East launch (Oct 2025) centred on UAE. Treat as likely not officially present. || Nio Middle East launch (Oct 2025) centred on UAE; no Qatar dealer found.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-seres",
+   "kind": "new_car_brand",
+   "name": "Seres",
+   "brands": [
+    "Seres"
+   ],
+   "dealer": "None",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Seres listed on drivearabia Qatar (unverified)"
+   ],
+   "hints": "AITO entered Middle East via Performance Plus Motors in UAE (Feb 2026); no Qatar dealer announced. drivearabia has a Seres Qatar price page only. || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-212-baw",
+   "kind": "new_car_brand",
+   "name": "212 (BAW)",
+   "brands": [
+    "212 (BAW)"
+   ],
+   "dealer": "Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025)",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-acura",
+   "kind": "new_car_brand",
+   "name": "Acura",
+   "brands": [
+    "Acura"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not searched directly (budget exhausted); no evidence of Acura being sold new in Qatar; Honda is via Domasco only.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-alfa-romeo",
+   "kind": "new_car_brand",
+   "name": "Alfa Romeo",
+   "brands": [
+    "Alfa Romeo"
+   ],
+   "dealer": "unknown (possibly Alfardan group - unverified)",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Seed list has Alfa Romeo with no dealer/website; no sibling evidence. Needs direct search.",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-baojun",
+   "kind": "new_car_brand",
+   "name": "Baojun",
+   "brands": [
+    "Baojun"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

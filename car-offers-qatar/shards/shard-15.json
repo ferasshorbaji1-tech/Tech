@@ -1,0 +1,131 @@
+{
+ "shard": "shard-15",
+ "search_budget_total": 185,
+ "items": [
+  {
+   "key": "brand-jeep",
+   "kind": "new_car_brand",
+   "name": "Jeep",
+   "brands": [
+    "Jeep"
+   ],
+   "dealer": "United Cars Almana WLL",
+   "website": "https://www.jeep-qatar.com/en/",
+   "offer_page_urls": [
+    "https://www.jeep-qatar.com/en/",
+    "http://dealer-mideast.jeep.com/en/qatar/united-cars-almana/library/cars/jeep-grand-cherokee/",
+    "https://qatar.twffer.com/en/offer/6270/",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://www.dodge.com/qa/en/campaign.html",
+    "https://www.ram.com/qa/en/index.html",
+    "https://www.wakalatqatar.com/en/cars?brand%3AJEEP="
+   ],
+   "models_in_qatar": [
+    "Wrangler (incl. Willys 392, Moab 392, 85th Anniversary)",
+    "Grand Cherokee",
+    "Commander",
+    "Cherokee",
+    "RAM 1500 (model list not surfaced)"
+   ],
+   "hints": "jeep-qatar.com homepage lists 'starting from' prices (Commander 150,000; Wrangler 198,999; Grand Cherokee 184,999 QAR). Stellantis 'Twelve 4 Twelve' Wrangler special-edition drops run 12 Dec 2025 to 1 || alt dealer: United Cars Almana (UCA) || Sibling American lens notes a ram.com/qa campaign page and UCA offer listings on twffer, plus ILoveQatar Ramadan 2026 roundup mentioning 'Al Mana Motors Bestune/RAM' (expired). No RAM-specific current || Dodge Qatar has a /campaign.html page (content not visible in summary). No dated Q4 2026 campaign found. || glimpsed: Commander / Wrangler / Grand Cherokee | All-new Commander from QAR 150,000; Wrangler from 198,999; Grand Cherokee from 184,999 | https://www.jeep-qatar.com/en/ | not shown | likely_active || glimpsed: Wrangler special editions | Twelve 4 Twelve - new limited Wrangler edition on the 12th of each month (85th anniversary) | https://www.media.stellantis.com/me-en/jeep/press/the-jeep-brand-enters-the-twelve-4-twelve-drop-zone-12-x-new-wrangler-special-editions-drop-on-the-12th-of-each-month | until 12 Oct 2026 | active || glimpsed: Various (Jeep/Dodge/RAM/Chrysler) | United Cars Almana Offers Qatar (Twffer listing) | https://qatar.twffer.com/en/offer/6270/ | not shown | unknown || glimpsed: Wrangler special editions | 'Twelve 4 Twelve' Wrangler special-edition drops across GCC incl. Qatar | https://www.jeep-qatar.com/en/ | 12 Dec 2025 - 12 Oct 2026 | active",
+   "has_current_offers": "yes",
+   "search_budget": 45
+  },
+  {
+   "key": "brand-mclaren",
+   "kind": "new_car_brand",
+   "name": "McLaren",
+   "brands": [
+    "McLaren"
+   ],
+   "dealer": "Exclusive Motors (McLaren Doha)",
+   "website": "https://doha.mclaren.com",
+   "offer_page_urls": [
+    "https://doha.mclaren.com/content/mclaren-retailers/doha//en.html",
+    "https://cars.mclaren.com/gl_en/retailers/Doha",
+    "https://alhazm.com/en/mclaren-doha"
+   ],
+   "models_in_qatar": [
+    "GTS (from QAR 875,000)",
+    "Artura",
+    "Artura Spider",
+    "750S",
+    "750S Spider"
+   ],
+   "hints": "alt dealer: Exclusive Motors || McLaren retailer page and Marhaba Qatar article confirm Exclusive Motors as sole McLaren retail partner, showroom at Al Hazm Mall, Al Markhiya St, +974 4442 7222. No offers seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  },
+  {
+   "key": "brand-mini",
+   "kind": "new_car_brand",
+   "name": "MINI",
+   "brands": [
+    "MINI"
+   ],
+   "dealer": "Alfardan Automobiles",
+   "website": "bmw-qatar.com (seed list, unverified)",
+   "offer_page_urls": [
+    "https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom",
+    "https://www.ffcqatar.com/node/44",
+    "https://www.drivearabia.com/carprices/qatar/"
+   ],
+   "models_in_qatar": [
+    "iX / i4 / i5 / i7 (not itemised in results)",
+    "X2",
+    "Cooper",
+    "Countryman",
+    "Aceman (unverified lineup)"
+   ],
+   "hints": "Alfardan Automobiles confirmed BMW/MINI dealer by sibling lens. A search-engine summary attributed 'BMW X2 no down payment from QAR 159,000 or 2,599/mo' to an October 2026 set of offers - unverified.  || alt dealer: Alfardan Automobiles (Alfardan Group) || Dealer Alfardan Automobiles and mini-qatar.com from seed list. Only related offer evidence: First Finance x Alfardan Automotive permanent financing programme for premium vehicles (0% down Qataris / 10",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  },
+  {
+   "key": "brand-peugeot",
+   "kind": "new_car_brand",
+   "name": "Peugeot",
+   "brands": [
+    "Peugeot",
+    "Peugeot (unverified general-knowledge candidate; Peugeot Qatar dealer name NOT surfaced by any search in this session)"
+   ],
+   "dealer": "unknown (verify)",
+   "website": "https://www.peugeot.qa",
+   "offer_page_urls": [
+    "https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322",
+    "https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom"
+   ],
+   "models_in_qatar": [
+    "408",
+    "2008",
+    "3008",
+    "5008",
+    "Landtrek (unverified)"
+   ],
+   "hints": "Also covers: Peugeot (unverified general-knowledge candidate; Peugeot Qatar dealer name NOT surfaced by any search in this session) || peugeot.qa from seed list. QMotor Ramadan 2026 roundup: Peugeot 408 from QAR 1,839/month, 10% down, 7-yr/250,000 km warranty, free registration, 3 yrs roadside (expired). A search-engine synthesised ' || glimpsed: 408 | Peugeot 408 from QAR 1,839/month, 10% down, 7-yr/250,000 km warranty, free registration, 3 yrs roadside | https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322 | Ramadan 2026 | expired || glimpsed: 408 | 408 from QAR 1,839/month, 10% down, 7-yr/250,000 km warranty, free registration | https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322 | Ramadan 2026 | expired || glimpsed: range | 7-year warranty offer (per synthesised 'October 2026' search summary) | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || alt dealer: Ali Bin Ali Group (automotive)",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  },
+  {
+   "key": "brand-voyah",
+   "kind": "new_car_brand",
+   "name": "Voyah",
+   "brands": [
+    "Voyah"
+   ],
+   "dealer": "Al Waha Automobiles",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Voyah Free (EREV)",
+    "Voyah Dream (PHEV MPV)",
+    "Dongfeng models (new store per dongfeng-global.com)",
+    "Forthing T5 Evo (aggregator listing)",
+    "Forthing T5 Evo (listing)"
+   ],
+   "hints": "Peninsula May 2025: VOYAH entered Qatar at Kempinski Doha with partner Al Waha Automobiles. dongfeng-global.com: 'DFM Opens New Store, Releases New Products in Qatar'. Forthing appears only on icartea || VOYAH entered Qatar May 2025 (Peninsula) with Al Waha Automobiles; DFM opened a new store in Qatar. No launch offer surfaced. || alt dealer: Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025) || alt dealer: Al Waha Automobiles / Al Waha For Cars",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  }
+ ]
+}

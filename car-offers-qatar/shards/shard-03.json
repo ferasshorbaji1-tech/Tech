@@ -1,0 +1,126 @@
+{
+ "shard": "shard-03",
+ "search_budget_total": 184,
+ "items": [
+  {
+   "key": "brand-lincoln",
+   "kind": "new_car_brand",
+   "name": "Lincoln",
+   "brands": [
+    "Lincoln"
+   ],
+   "dealer": "Almana Motors Company WLL",
+   "website": "https://lincoln.com.qa/en/",
+   "offer_page_urls": [
+    "https://www.me.lincoln.com/en/qat/",
+    "https://lincoln.com.qa/en/branch-locator/",
+    "https://almanamotors.com.qa/en/offers/",
+    "https://almanamotors.com.qa/en/ford-f-150-special-offer/",
+    "https://almanamotors.com.qa/en/offers/f-150-xlt/",
+    "https://almanamotors.com.qa/en/ford-f-150-offer/",
+    "https://almanamotors.com.qa/en/ford-f-150-offer-2/",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://lincoln.com.qa/en/offers/"
+   ],
+   "models_in_qatar": [
+    "Corsair",
+    "Nautilus",
+    "Aviator",
+    "Navigator",
+    "Ranger",
+    "F-150",
+    "F-150 Tremor",
+    "F-150 Raptor",
+    "Transit",
+    "Ford Trucks (heavy commercial)",
+    "Taurus",
+    "Mustang",
+    "Everest",
+    "Territory",
+    "Expedition",
+    "Bronco",
+    "Explorer",
+    "Lincoln Corsair"
+   ],
+   "hints": "Dealer and lineup confirmed (Corsair from QAR 159,000; Nautilus 229,000; Aviator 279,000; Navigator 389,000 - starting prices from search summary). No promotion page surfaced. || Live offers page; indexed campaigns (Ranger 119,900, Transit from 89,000, F-150 Tremor 249,000; 15 Dec 2025-6 Mar 2026) are expired. One F-150 page (from QAR 189,000, 50/50 over 2 yrs) has no validity || alt dealer: Almana Motors Company W.L.L. (Ford / Lincoln Qatar) || alt dealer: Almana Motors Company || Ford offers page summary showed campaign valid 15 Dec 2025-6 Mar 2026 (Taurus from QAR 99,900, Everest 129,900, Territory 87,000, Explorer 159,000, Ranger 119,900, Mustang 239,000) - expired; Lincoln  || alt dealer: Almana Motors || glimpsed: Corsair / Nautilus / Aviator / Navigator | Lincoln starting prices: Corsair 159,000; Nautilus 229,000; Aviator 279,000; Navigator 389,000 QAR | https://lincoln.com.qa/en/ | not shown | unknown || glimpsed:  | Lincoln Qatar offers: Corsair from 159,000; Nautilus 229,000; Aviator 279,000; Navigator 389,000 | https://lincoln.com.qa/en/offers/ | 6 Mar - 6 Jun 2025 (page may be stale) | expired || glimpsed: Navigator, Aviator, Nautilus, Corsair | Lincoln Qatar offers | https://lincoln.com.qa/en/offers/ | 6 Mar - 6 Jun 2025 (page may be stale) | expired",
+   "has_current_offers": "unknown",
+   "search_budget": 70
+  },
+  {
+   "key": "brand-ford",
+   "kind": "new_car_brand",
+   "name": "Ford",
+   "brands": [
+    "Ford",
+    "Lincoln"
+   ],
+   "dealer": "Almana Motors Company WLL",
+   "website": "https://almanamotors.com.qa/en/",
+   "offer_page_urls": [
+    "https://almanamotors.com.qa/en/offers/",
+    "https://almanamotors.com.qa/en/ford-territory-special-offer/",
+    "https://almanamotors.com.qa/en/ford-f-150-special-offer/",
+    "https://almanamotors.com.qa/en/offers/f-150-xlt/",
+    "https://almanamotors.com.qa/en/ford-f-150-offer/",
+    "https://almanamotors.com.qa/en/ford-f-150-offer-2/",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://lincoln.com.qa/en/offers/"
+   ],
+   "models_in_qatar": [
+    "Taurus",
+    "Mustang",
+    "Everest",
+    "Territory",
+    "Expedition",
+    "Bronco",
+    "Explorer",
+    "Ranger",
+    "F-150",
+    "F-150 Tremor",
+    "F-150 Raptor",
+    "Transit",
+    "Ford Trucks (heavy commercial)",
+    "Lincoln Corsair",
+    "Nautilus",
+    "Aviator",
+    "Navigator"
+   ],
+   "hints": "Also covers: Ford Blue Advantage / Almana Motors pre-owned Qatar || Offers page exists; indexed offers show validity 26 Jun-25 Sep 2025 (Territory) and 15 Dec 2025-6 Mar 2026 (F-150/Transit/Expedition) which are expired. One F-150 page (from QAR 189,000, 50/50 over 2  || Live offers page; indexed campaigns (Ranger 119,900, Transit from 89,000, F-150 Tremor 249,000; 15 Dec 2025-6 Mar 2026) are expired. One F-150 page (from QAR 189,000, 50/50 over 2 yrs) has no validity || alt dealer: Almana Motors Company W.L.L. (Ford / Lincoln Qatar) || alt dealer: Almana Motors Company || Ford offers page summary showed campaign valid 15 Dec 2025-6 Mar 2026 (Taurus from QAR 99,900, Everest 129,900, Territory 87,000, Explorer 159,000, Ranger 119,900, Mustang 239,000) - expired; Lincoln  || alt dealer: Almana Motors || glimpsed: Territory 2025 | Ford Territory special offer - from QAR 87,000 / 1,399 per month | https://almanamotors.com.qa/en/ford-territory-special-offer/ | 26 Jun 2025 - 25 Sep 2025 | expired || glimpsed: F-150 | Ford F-150 special offer - from QAR 189,000, 50% now 50% after 2 years | https://almanamotors.com.qa/en/ford-f-150-special-offer/ | not shown | unknown || glimpsed: F-150 (MY2024) | F-150 25% down, 0% interest, 25% after 1 year, 50% after 2 years | https://almanamotors.com.qa/en/ford-f-150-offer-2/ | 15 Dec 2025 - 6 Mar 2026 | expired || glimpsed: F-150 XLT / F-150 XL | F-150 XLT and F-150 XL offer pages | https://almanamotors.com.qa/en/offers/f-150-xlt/ | not shown | unknown || glimpsed: F-150 Tremor / Transit / Expedition | Ford wint || alt dealer: Almana Motors Company (Ford/Lincoln) || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Ford Blue Advantage is a US programme; no eviden",
+   "has_current_offers": "unknown",
+   "search_budget": 70
+  },
+  {
+   "key": "brand-bmw",
+   "kind": "new_car_brand",
+   "name": "BMW",
+   "brands": [
+    "BMW",
+    "Alpina (via BMW)",
+    "BMW M",
+    "MINI",
+    "Rolls-Royce"
+   ],
+   "dealer": "Alfardan Automobiles",
+   "website": "bmw-qatar.com (seed list, unverified)",
+   "offer_page_urls": [
+    "https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom",
+    "https://www.ffcqatar.com/node/44",
+    "https://www.gulf-times.com/article/712065/business/alfardan-automotive-first-finance-company-launch-permanent-financing-programme-for-premium-vehicles-in-qatar",
+    "https://www.alfardan.com.qa/premiermotors"
+   ],
+   "models_in_qatar": [
+    "iX / i4 / i5 / i7 (not itemised in results)",
+    "X2",
+    "X5",
+    "X7",
+    "7 Series",
+    "5 Series",
+    "3 Series",
+    "iX (unverified lineup)"
+   ],
+   "hints": "Also covers: Alpina (via BMW); BMW M; Alfardan Pre-Owned / BMW Premium Selection Qatar || Alfardan Automobiles confirmed BMW/MINI dealer by sibling lens. A search-engine summary attributed 'BMW X2 no down payment from QAR 159,000 or 2,599/mo' to an October 2026 set of offers - unverified.  || alt dealer: Alfardan Automobiles (Alfardan Group) || Dealer Alfardan Automobiles and bmw-qatar.com from seed list. A search-engine synthesised summary attributed a BMW X2 offer (no down payment, from QAR 159,000 or QAR 2,599/month incl. 3-yr/40,000 km s || glimpsed: X2 | BMW X2 no down payment from QAR 159,000 or QAR 2,599/month | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || glimpsed: X2 | BMW X2 no down payment, from QAR 159,000 or QAR 2,599/month | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || glimpsed: X5 | Rent BMW X5 from QR 9,850/month | https://prestigecarsco.com/ | not stated | likely_active || glimpsed: X2 | BMW X2 with no down payment from QAR 159,000 or QAR 2,599/month | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || glimpsed: X5 (rental) | Rent BMW X5 from QR 9,850/month | https://prestigecarsco.com/ | not stated | likely_active || glimpsed: X5 | Rent BMW X5 from QR 9,850/month | https://prestigecarsco.com/ | Not stated | likely_active || Dealer Alfardan Automobiles and bmw-qatar.com from seed list. A search-engine synthesised summary attributed a BMW X2 offer (no down payment, from QAR 159,000 or QAR 2,599/month incl. 3-yr/40,000 km s || alt dealer: Alfardan Automobiles (BMW/MINI/Rolls-Royce) || No WebSearch could run for this lens (session budget 200/200 was exhausted",
+   "has_current_offers": "unknown",
+   "search_budget": 44
+  }
+ ]
+}

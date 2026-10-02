@@ -1,0 +1,139 @@
+{
+ "shard": "shard-17",
+ "search_budget_total": 178,
+ "items": [
+  {
+   "key": "brand-maxus",
+   "kind": "new_car_brand",
+   "name": "Maxus",
+   "brands": [
+    "LDV",
+    "Maxus",
+    "Maxus/LDV"
+   ],
+   "dealer": "Auto Class Cars (NBK Holding)",
+   "website": "https://www.nbks.com/autoclass/",
+   "offer_page_urls": [
+    "https://iamqatar.qa/pages/feed-post/auto-class-cars-presents-special-offer-on-maxus-v80-the-ideal-van-for-safe-and-comfortable-operations/"
+   ],
+   "models_in_qatar": [
+    "G50",
+    "T60 pickup",
+    "V80 van",
+    "D60 (unconfirmed)"
+   ],
+   "hints": "Also covers: LDV; Maxus/LDV || Auto Class Cars is authorised distributor of MG and Maxus in Qatar. drivearabia: cheapest Maxus G50 from QAR 66,500, range up to 119,000. Maxus V80 special offer article undated. || Auto Class Cars is authorised distributor of MG and Maxus in Qatar. drivearabia: cheapest Maxus G50 from QAR 66,500, range up to 119,000. Maxus V80 special offer article undated. || Auto Class Cars is authorised Maxus distributor. Maxus V80 van special-offer press item is undated. Terron 9 not seen in Qatar results. || glimpsed: V80 van | Auto Class Cars special offer on Maxus V80 | https://iamqatar.qa/pages/feed-post/auto-class-cars-presents-special-offer-on-maxus-v80-the-ideal-van-for-safe-and-comfortable-operations/ | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-omoda",
+   "kind": "new_car_brand",
+   "name": "Omoda",
+   "brands": [
+    "Omoda"
+   ],
+   "dealer": "Silver Lake Motors (Al Mana Holding)",
+   "website": "https://omodajaecooqatar.com/",
+   "offer_page_urls": [
+    "https://omodajaecooqatar.com/offer-jaecoo",
+    "https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models"
+   ],
+   "models_in_qatar": [
+    "Omoda C5",
+    "Jaecoo J5",
+    "Jaecoo J7",
+    "Jaecoo J8"
+   ],
+   "hints": "Official offer page omodajaecooqatar.com/offer-jaecoo shows J5 Luxury from QAR 1,199/month and J8 Comfort from QAR 1,699/month on 20% down, up to 4 yrs insurance, 1 yr free service, 7 yr warranty, fre || Official offer page: J5 Luxury from QAR 1,199/month, J8 Comfort from 1,699/month on 20% down, up to 4 yrs insurance, 1 yr service, 7-yr warranty, free registration (no end date). Summer 2026 MacBook/0 || alt dealer: Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors)",
+   "has_current_offers": "yes",
+   "search_budget": 42
+  },
+  {
+   "key": "brand-rolls-royce",
+   "kind": "new_car_brand",
+   "name": "Rolls-Royce",
+   "brands": [
+    "Rolls-Royce"
+   ],
+   "dealer": "Alfardan Automobiles (Alfardan Group)",
+   "website": "https://www.alfardan.com.qa/",
+   "offer_page_urls": [
+    "https://www.rolls-roycemotorcars.com/doha/en_GB/showroom.html",
+    "https://www.rolls-roycemotorcars.com/doha/en_GB/ownership-services.html"
+   ],
+   "models_in_qatar": [
+    "Phantom",
+    "Ghost",
+    "Cullinan",
+    "Spectre"
+   ],
+   "hints": "alt dealer: Alfardan Automobiles || Official Rolls-Royce Motor Cars Doha pages; Alfardan Automobiles marks 20 years with Rolls-Royce; showroom at Jery Al Samur, +974 4406 5625. Brand does not run retail offers; none seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-volvo",
+   "kind": "new_car_brand",
+   "name": "Volvo",
+   "brands": [
+    "Volvo",
+    "Volvo Cars (general knowledge - Domasco is the long-standing Volvo distributor; NOT verified by search this session)"
+   ],
+   "dealer": "Domasco (seed list)",
+   "website": "volvocars.com/qa (seed list, unverified)",
+   "offer_page_urls": [
+    "https://marhaba.qa/domasco-opens-new-vehicle-financing-options-with-al-jazeera-finance/"
+   ],
+   "models_in_qatar": [
+    "XC40",
+    "XC60",
+    "XC90",
+    "S90 (unverified lineup)"
+   ],
+   "hints": "Also covers: Volvo Cars (general knowledge - Domasco is the long-standing Volvo distributor; NOT verified by search this session) || Only evidence is Domasco's Al Jazeera Finance programme covering its brands (Honda, Volvo, GAC). No Volvo EV offer surfaced. || alt dealer: Domasco (Doha Marketing Services Company) || Domasco as Volvo dealer from seed list and bank lens (Al Jazeera Finance x Domasco financing: up to 72 months Qataris / 48 expats, 0% down for govt employees, 10% private - ongoing programme since 202 || alt dealer: Domasco || glimpsed: Volvo range (Domasco) | Financing up to 72 months (Qataris) / 48 (expats); 0% down govt employees, 10% private | https://marhaba.qa/domasco-opens-new-vehicle-financing-options-with-al-jazeera-finance/ | ongoing programme | unknown || alt dealer: Doha Marketing Services Co. (Domasco)",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-zeekr",
+   "kind": "new_car_brand",
+   "name": "Zeekr",
+   "brands": [
+    "Zeekr"
+   ],
+   "dealer": "Blue Lake Motors (subsidiary of Al Mana Holding)",
+   "website": "https://www.zeekrlife.com/en-qa/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Zeekr X",
+    "Zeekr 001",
+    "Zeekr 7X",
+    "Zeekr 9X"
+   ],
+   "hints": "zeekrlife.com/en-qa post names Blue Lake Motors as exclusive distributor in Qatar; Facebook 'ZEEKR Qatar' and X @zeekrqatar exist. drivearabia: 3 models on sale, X from QAR 165,000, 001 2026 from QAR  || alt dealer: Blue Lake Motors (Al Mana Holding) || zeekrlife.com/en-qa names Blue Lake Motors as exclusive distributor; X from QAR 165,000, 001 2026 from 210,000. No offers surfaced. || alt dealer: Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors) || glimpsed: X / 001 | Zeekr X from QAR 165,000; 001 2026 from QAR 210,000 | https://www.zeekrlife.com/en-qa/ | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-kgm",
+   "kind": "new_car_brand",
+   "name": "KGM",
+   "brands": [
+    "KGM",
+    "SsangYong"
+   ],
+   "dealer": "None",
+   "website": "",
+   "offer_page_urls": [
+    "https://qatar.yallamotor.com/new-cars/ssang-yong/rexton/2025"
+   ],
+   "models_in_qatar": [
+    "Rexton (2025, QAR 95,000-110,000 per YallaMotor)"
+   ],
+   "hints": "Also covers: SsangYong || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong. || No Qatar dealer identified in results; only a YallaMotor Rexton price page. Likely no active official distributor. || No Qatar dealer identified in results; only a YallaMotor Rexton price page. Likely no active official distributor.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

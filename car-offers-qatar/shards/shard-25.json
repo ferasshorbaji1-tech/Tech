@@ -1,0 +1,145 @@
+{
+ "shard": "shard-25",
+ "search_budget_total": 122,
+ "items": [
+  {
+   "key": "dg-qac",
+   "kind": "dealer_group",
+   "name": "Qatar Automobiles Company (QAC) - Mitsubishi",
+   "brands": [
+    "Mitsubishi Motors",
+    "Mitsubishi Fuso (likely)"
+   ],
+   "dealer": "Qatar Automobiles Company W.L.L.",
+   "website": "https://www.mitsubishi-motors.qa",
+   "offer_page_urls": [
+    "https://www.mitsubishi-motors.qa/en/buy/offers",
+    "https://www.mitsubishi-motors.qa/en/company/articles/QAC_Achievement_Awards111",
+    "https://marhaba.qa/qatar-automobiles-company-launches-special-offers-on-mitsubishi-suvs/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Qatar Automobiles Company (QAC) - Mitsubishi || Official offers page mitsubishi-motors.qa/en/buy/offers indexed (content not seen). Seen campaigns are expired: year-end Dec 2024, Ramadan 2025 (to 15 Apr 2025), fleet offer to 31 Aug 2025. QAC routin",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-saham",
+   "kind": "dealer_group",
+   "name": "Saleh Al Hamad Al Mana Co. (SAHAM)",
+   "brands": [
+    "Nissan",
+    "INFINITI",
+    "Renault (probable - Al Mana Leasing fleet lists Renault Duster; renault.qa not attributed in session)",
+    "Al Mana Leasing (rental/lease)"
+   ],
+   "dealer": "Saleh Al Hamad Al Mana Co. W.L.L.",
+   "website": "https://en.nissanqatar.com",
+   "offer_page_urls": [
+    "https://en.nissanqatar.com/offers/sra-lineup-2026.html",
+    "https://www.qatarprnetwork.com/automobile-news/193736-saleh-al-hamad-al-mana-co-drives-a-smarter-start-to-the-school-year-with-nissan-",
+    "https://www.infiniti-qatar.com/offers.html",
+    "https://ar.infiniti-qatar.com/offers.html",
+    "https://www.renault.qa/current-offers/current-offers.html",
+    "https://almanaleasing.com/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Saleh Al Hamad Al Mana Co. (SAHAM) || Nissan: back-to-school SUV campaign announced 29-31 Aug 2026 (0% down, 5yr/300,000km warranty, 3yr/60,000km service on Patrol LE Turbo/3.8 SE, X-Trail, Pathfinder, Kicks, Magnite; tel 8000505) - likel",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-skyline",
+   "kind": "dealer_group",
+   "name": "Skyline Automotive (Hyundai / Genesis Qatar)",
+   "brands": [
+    "Hyundai",
+    "Genesis"
+   ],
+   "dealer": "Skyline Automotive W.L.L.",
+   "website": "https://hyundai.com.qa",
+   "offer_page_urls": [
+    "https://hyundai.com.qa/offers/vehicle-offers/",
+    "https://marhaba.qa/skyline-automotive-launches-hyundai-ramadan-offers/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Skyline Automotive (Hyundai / Genesis Qatar) || Official hyundai.com.qa/offers/vehicle-offers/ page exists (generic financing/limited-time benefits text); no specific Oct 2026 offer text surfaced. Genesis showroom Al Markhiya; only an older academi",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-teyseer",
+   "kind": "dealer_group",
+   "name": "Teyseer Motors W.L.L. (Suzuki / GWM Qatar)",
+   "brands": [
+    "Suzuki",
+    "GWM",
+    "Haval",
+    "Tank",
+    "Ora",
+    "GWM Poer/Wingle"
+   ],
+   "dealer": "Teyseer Motors W.L.L. (Teyseer Group)",
+   "website": "https://teymotor.com",
+   "offer_page_urls": [
+    "https://suzukiqatar.com/en/pages/225",
+    "https://gwmqatar.com/",
+    "https://teymotor.com/en/locations"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Teyseer Motors W.L.L. (Suzuki / GWM Qatar) || Exclusive Suzuki distributor (Airport St showroom, 4490 0865). GWM flagship store in Doha via Teyseer partnership. No 2026 official promotion surfaced; GWM Tank 500 0% down Ramadan 2026 (Al Jazeera Fi",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-uca",
+   "kind": "dealer_group",
+   "name": "United Cars Almana (UCA)",
+   "brands": [
+    "Jeep",
+    "Dodge",
+    "RAM",
+    "Chrysler",
+    "Fiat / Alfa Romeo (unverified - Stellantis brands; not surfaced)"
+   ],
+   "dealer": "United Cars Almana W.L.L. (Almana Group)",
+   "website": "https://www.jeep-qatar.com/en/",
+   "offer_page_urls": [
+    "https://www.jeep-qatar.com/en/",
+    "https://www.dodge.com/qa/en/campaign.html",
+    "https://dodge-qatar.com/en/united-cars-almana/library/offers-list/charger-gt/",
+    "https://www.ram.com/qa/ar/campaign.html",
+    "https://www.chrysler.com/qa/en/campaign.html",
+    "https://qatar.twffer.com/en/offer/6270/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: United Cars Almana (UCA) || American lens: Charger GT offer page (from QR 149,000 + 5yr/100k warranty, 3yr/60k service, 1-yr insurance, free registration/tint; validity unknown); RAM campaign page (1500 Rebel QAR 285,000, Tungst",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "agg-alcoupon-twffer",
+   "kind": "aggregator_media",
+   "name": "alcoupon Qatar car-offer blogs + twffer Qatar offers",
+   "brands": [
+    "Jeep",
+    "Dodge",
+    "RAM",
+    "Chrysler",
+    "Ford"
+   ],
+   "dealer": "",
+   "website": "https://qatar.alcoupon.com/",
+   "offer_page_urls": [
+    "https://qatar.alcoupon.com/en/blog/year-end-offers-on-cars",
+    "https://qatar.alcoupon.com/en/blog/saudi-national-day-car-offers",
+    "https://qatar.alcoupon.com/en/shopping-blog",
+    "https://qatar.twffer.com/en/offer/6270/",
+    "https://qatar.twffer.com/ar/offer/6339/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Alcoupon Qatar; Alcoupon Qatar - year-end car offers blog; Twffer Qatar (offers aggregator) || Evergreen blog 'Year End Offers on Cars 2026' claims up to 30% discounts but summary gives no named dealers/models; coupon-site content, low reliability for concrete offers. || Blog claims year-end discounts up to 30% and SIXT rental 30%+10% end-of-year codes; coupon-site quality, verify. || Lists 'United Cars Almana Offers Qatar' (6270) and 'Great Ford Deals Qatar' (6339); dates not visible.",
+   "has_current_offers": "unknown",
+   "search_budget": 22
+  }
+ ]
+}

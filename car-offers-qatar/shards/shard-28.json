@@ -1,0 +1,287 @@
+{
+ "shard": "shard-28",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "bank-ahli",
+   "kind": "bank_finance",
+   "name": "Ahlibank Qatar",
+   "brands": [],
+   "dealer": "Ahlibank",
+   "website": "https://www.ahlibank.com.qa/",
+   "offer_page_urls": [
+    "https://www.ahlibank.com.qa/en/borrow/auto-loan",
+    "https://yallacompare.com/qat/en/car-loans/ahli-bank-car-loan-expatriates/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Ahlibank Qatar || Evergreen auto loan: approval in 30 minutes, new or used (<3 yrs), 2.29% Qataris / 2.7% expats, up to QAR 2M / 72 months Qataris, QAR 400k / 48 months expats (20% down), min salary 6,000/8,000, compet",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-al-jazeera-finance",
+   "kind": "bank_finance",
+   "name": "Al Jazeera Finance (Tamweel)",
+   "brands": [
+    "Honda",
+    "Volvo",
+    "Domasco brands",
+    "OMODA",
+    "JAECOO",
+    "Soueast"
+   ],
+   "dealer": "Al Jazeera Finance",
+   "website": "https://www.aljazeera.com.qa/en/",
+   "offer_page_urls": [
+    "https://www.aljazeera.com.qa/en/product/cars-and-equipment-finance-for-companies/",
+    "https://www.aljazeera.com.qa/en/",
+    "https://marhaba.qa/domasco-opens-new-vehicle-financing-options-with-al-jazeera-finance/",
+    "https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models",
+    "https://soueastqatar.com/offers/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Jazeera Finance - Cars & Equipment Finance for Companies (fleet finance); Al Jazeera Finance (Tamweel) || Shari'ah-compliant corporate vehicle/equipment finance product page (evergreen); dealer tie-ups with Domasco, OMODA & JAECOO, Soueast, GWM seen in 2025-2026. || Tamweel vehicle finance, Sharia-compliant, 3-month grace. Dealer tie-ups: Domasco (up to 72m Qataris / 48m expats; 0% down for govt/semi-govt employees, 10% private sector; 2023 launch, ongoing progra",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-arab-bank",
+   "kind": "bank_finance",
+   "name": "Arab Bank Qatar",
+   "brands": [],
+   "dealer": "Arab Bank",
+   "website": "https://www.arabbank.com.qa/",
+   "offer_page_urls": [
+    "https://www.arabbank.com.qa/mainmenu/home/Consumer-Banking/loans-credit-facilities/auto-loan",
+    "https://www.arabbank.com.qa/ar/mainmenu/الصفحة-الرئيسية/خدمات-الأفراد/القروض/قروض-السيارات"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Arab Bank Qatar; Arab Bank Qatar car loans; Arab Bank Qatar - car loans with preferential EV/hybrid rates || Evergreen auto loan: up to QAR 400k new / 300k used, up to 6 yrs locals / 4 yrs expats, flexible down payment, can finance more than one car. Contact 4438-7878. No promotion seen. || Up to QAR 400,000 new / 300,000 used, up to 6 yrs (nationals) / 4 yrs (residents), preferential rates for hybrid/EV. || alt dealer: Arab Bank Qatar || Product page: up to QAR 400,000 new / 300,000 used, 6 yrs nationals / 4 yrs residents, preferential rates for hybrid/EV (evergreen).",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-cbq",
+   "kind": "bank_finance",
+   "name": "Commercial Bank of Qatar (CBQ)",
+   "brands": [
+    "Toyota",
+    "Volkswagen"
+   ],
+   "dealer": "Commercial Bank",
+   "website": "https://www.cbq.qa/",
+   "offer_page_urls": [
+    "https://www.cbq.qa/en/personal/loans/vehicle-loan",
+    "https://www.cbq.qa/en/personal/loans/vehicle-loan/green-vehicle-loan",
+    "https://www.cbq.qa/en/personal/loans/vehicle-loan/used-vehicle-loan",
+    "https://www.cbq.qa/en/about-us/campaigns/list/every-journey-begins-with-our-vehicle-loan",
+    "https://www.cbq.qa/en/about-us/campaigns/list/turn-every-drive-into-a-smart-move-with-toyota-and-commercial-bank",
+    "https://www.cbq.qa/en/about-us/campaigns/list/smarter-drives-start-here---easier-loans-with-volkswagen-and-commercial-bank",
+    "https://www.cbq.qa/en/about-us/campaigns/list/looking-for-a-pre-owned-car",
+    "https://www.cbq.com.qa/en/about-us/news/list/commercial-bank-announces-exceptional-vehicle-loan-campaign"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Commercial Bank of Qatar (CBQ); Commercial Bank of Qatar - Green Vehicle Loan (EV incentive); Commercial Bank of Qatar - Volkswagen tie-up (expired, watch for successor); Commercial Bank pre-owned vehicle loan || Evergreen vehicle loan: from 2.49% flat (4.62% p.a.) Qataris / 2.69% flat (4.99% p.a.) expats, nothing to pay up to 3 months, first-year insurance at 2.25% of car value, extra costs financed at 0% for || Green vehicle loan for hybrid/electric with 3-month grace, up to 72 months Qataris / 48 residents; rate not in summary. || alt dealer: Commercial Bank x Q-Auto || 0% interest, 30% min down, up to 36 months, 3-month grace; valid 24 Sep-31 Dec 2025 (expired). Campaign list page should be rechecked for a Q4-2026 VW/Audi successor. || alt dealer: Commercial Bank of Qatar || Evergreen used-vehicle loan page; last pre-owned campaign (5.5% p.a. / 2.97% flat) ran 21 Sep-31 Dec 2025 (expired). Check for Q4-2026 successor.",
+   "has_current_offers": "yes",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-doha-bank",
+   "kind": "bank_finance",
+   "name": "Doha Bank",
+   "brands": [],
+   "dealer": "Doha Bank",
+   "website": "https://www.dohabank.com.qa/",
+   "offer_page_urls": [
+    "https://www.dohabank.com.qa/zero-interest-rate-on-all-car-brands-in-qatar/",
+    "https://x.com/DohaBankQatar/status/1905202711223828934",
+    "https://www.gulf-times.com/story/636480/doha-bank-launches-vehicle-loan-bundled-offer"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Doha Bank || Page 'ZERO % Interest Rate on All Car Brands in Qatar' exists on dohabank.com.qa (validity not visible in summary). Prior campaign: 2.49% flat (4.65% reducing), free comprehensive insurance first year",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-dukhan",
+   "kind": "bank_finance",
+   "name": "Dukhan Bank",
+   "brands": [],
+   "dealer": "Dukhan Bank",
+   "website": "https://www.dukhanbank.com/",
+   "offer_page_urls": [
+    "https://www.dukhanbank.com/personal/financing/car-finance",
+    "https://www.dukhanbank.com/electric-vehicle-finance",
+    "https://www.dukhanbank.com/media-center/press-release/dukhan-bank-unveils-eco-friendly-vehicle-finance-offer-1-less-profit-rate"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Dukhan Bank; Dukhan Bank - Electric Vehicle Finance (EV incentive) || Vehicle finance (evergreen): Shari'ah-compliant, free life insurance, up to 7-year tenure, approval within 24h; min salary QAR 10,000; max QAR 2M/6 yrs Qataris, QAR 400k/4 yrs expats. EV finance: 1% l || EV finance at 1% lower profit rate + up to 3-month grace, Qataris and expats; evergreen product page.",
+   "has_current_offers": "yes",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-first-finance",
+   "kind": "bank_finance",
+   "name": "First Finance Company (FFC)",
+   "brands": [
+    "Alfardan Automotive brands",
+    "BMW",
+    "MINI",
+    "Rolls-Royce",
+    "Jaguar Land Rover"
+   ],
+   "dealer": "First Finance",
+   "website": "https://www.ffcqatar.com/",
+   "offer_page_urls": [
+    "https://www.ffcqatar.com/finance-products/cars",
+    "https://www.ffcqatar.com/node/44",
+    "https://www.ffcqatar.com/node/31",
+    "https://www.gulf-times.com/article/712065/business/alfardan-automotive-first-finance-company-launch-permanent-financing-programme-for-premium-vehicles-in-qatar"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: First Finance Company (FFC); First Finance Company x Alfardan Automotive (BMW/MINI financing) || Shari'ah-compliant car finance: 0% down payment Qataris, 10% expats, up to QAR 2M, up to 72 months (48 expats), 3-month grace, no admin charges. Permanent financing programme with Alfardan Automotive  || alt dealer: First Finance / Alfardan Automotive || Permanent Shari'ah-compliant financing programme for Alfardan premium vehicles: 0% down Qataris, 10% expats, up to QAR 2M, up to 72 months (48 expats), 3-month grace, no admin charges (from bank lens)",
+   "has_current_offers": "yes",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-hsbc",
+   "kind": "bank_finance",
+   "name": "HSBC Qatar",
+   "brands": [],
+   "dealer": "HSBC",
+   "website": "https://www.hsbc.com.qa/",
+   "offer_page_urls": [
+    "https://www.hsbc.com.qa/loans/",
+    "https://yallacompare.com/qat/en/car-loans/hsbc-vehicle-loan-qatari-nationals/",
+    "https://yallacompare.com/qat/en/car-loans/hsbc-vehicle-loan-expatriates/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: HSBC Qatar || Evergreen vehicle loan from 2.8% flat (5.04% reducing), new & used, two payment holidays per year, up to QAR 720k / 6 yrs Qataris, QAR 350k / 4 yrs expats, comprehensive insurance at competitive rates",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-mashreq",
+   "kind": "bank_finance",
+   "name": "Mashreq Qatar",
+   "brands": [],
+   "dealer": "Mashreq",
+   "website": "https://www.mashreq.com/",
+   "offer_page_urls": [
+    "https://yallacompare.com/qat/en/car-loans/mashreq-car-loan-qatari-nationals/",
+    "https://yallacompare.com/qat/en/banks/mashreq/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Mashreq Qatar || Only aggregator (yallacompare) evidence: 3.18% flat / 5.72% reducing, min salary QAR 5,000, up to QAR 397,500 salaried / 450,000 self-employed, 6 yrs Qataris / 4 yrs expats, free AAA Gold roadside mem",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-masraf-al-rayan",
+   "kind": "bank_finance",
+   "name": "Masraf Al Rayan - Green Vehicle Finance",
+   "brands": [],
+   "dealer": "Masraf Al Rayan",
+   "website": "https://www.alrayan.com/",
+   "offer_page_urls": [
+    "https://www.gulf-times.com/article/667459/qatar/masraf-al-rayan-introduces-innovative-green-vehicle-finance-campaign",
+    "https://yallacompare.com/qat/en/car-loans/masraf-al-rayan-auto-finance-expatriates/",
+    "https://www.alrayan.com/calculator/index.html"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Masraf Al Rayan - Green Vehicle Finance; Masraf Al Rayan (incl. merged Al Khaliji) || Green Vehicle Finance 6.25% profit rate + up to 50,000 Avios + 3-month holiday; article undated/older campaign. || Green Vehicle Finance campaign: 6.25% profit rate, up to 50,000 bonus Avios (Qatar Airways Privilege Club), up to 3-month repayment holiday (article undated in summary, likely 2023-24; validity unknow",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-qdb",
+   "kind": "bank_finance",
+   "name": "Qatar Development Bank (QDB)",
+   "brands": [],
+   "dealer": "QDB",
+   "website": "https://www.qdb.qa/",
+   "offer_page_urls": [
+    "https://www.qdb.qa/financing-and-funding/direct-financing"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Qatar Development Bank (QDB) || SME/developmental lender only; no consumer vehicle finance product.",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-qib",
+   "kind": "bank_finance",
+   "name": "QIB Auto Marketplace",
+   "brands": [],
+   "dealer": "QIB",
+   "website": "https://www.qib.com.qa/",
+   "offer_page_urls": [
+    "https://www.qib.com.qa/en/news/qib-launches-the-personal-car-finance-promotion/",
+    "https://www.gulf-times.com/article/701286/qatar/qib-launches-exclusive-ramadan-auto-finance-offer-on-its-auto-marketplace",
+    "https://www.qib.com.qa/en/personal/takaful/auto-takaful/",
+    "https://www.halalwallet.qa/blog/qib-vehicle-finance-review-2026",
+    "https://www.qib.com.qa/ar-automarketplace"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Qatar Islamic Bank (QIB); QIB Auto Marketplace; QIB Auto Marketplace - EV/hybrid extra discount || Yearly Ramadan 'Auto Finance' offer on QIB Auto Marketplace: flat profit rate from 2.63%, fixed installments, no admin charges, extra discount for EV/hybrid; valid until end-April (2026) -> expired as || QIB multi-dealer car marketplace with financing; dealer-specific bank offers not visible in summary. || alt dealer: Qatar Islamic Bank || Ramadan 2026 auto-finance offer (from 2.63% flat, extra EV/hybrid discount) expired end-April 2026; marketplace evergreen.",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-qiib",
+   "kind": "bank_finance",
+   "name": "QIIB (Qatar International Islamic Bank)",
+   "brands": [
+    "Toyota",
+    "Lexus"
+   ],
+   "dealer": "QIIB",
+   "website": "https://www.qiib.com.qa/",
+   "offer_page_urls": [
+    "https://qiib.com.qa/",
+    "https://www.qiib.com.qa/Page/Details/81",
+    "https://www.halalwallet.qa/blog/qiib-vehicle-finance-review-2026"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: QIIB (Qatar International Islamic Bank) || Search summary of qiib.com.qa homepage: 'currently offering a 0% Profit Installment Plan for Toyota or Lexus vehicles' and 'A Year's Salary on Us' salary-transfer campaign with financing from 3.99%. V",
+   "has_current_offers": "yes",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-qnb",
+   "kind": "bank_finance",
+   "name": "QNB Motori Lease-to-Own",
+   "brands": [
+    "Mercedes-Benz"
+   ],
+   "dealer": "Qatar National Bank",
+   "website": "https://www.qnb.com/sites/qnb/qnbqatar/page/ar/arvehiclelease.html",
+   "offer_page_urls": [
+    "https://www.qnb.com/sites/qnb/qnbqatar/page/ar/arvehiclelease.html",
+    "https://al-sharq.com/article/04/01/2026/ناصر-بن-خالد-تمدد-عرض-نهاية-العام-على-مجموعة-من-سيارات-مرسيدس-بنز",
+    "https://qnb.com/sites/qnb/qnbqatar/en/vehicleloanoffer.html",
+    "https://www.qnb.com/sites/qnb/qnbqatar/en/encashbackoffer.html",
+    "https://www.qnb.com/sites/qnb/qnbqatar/page/en/engreenvehicleloan.html",
+    "https://www.qnb.com/sites/qnb/qnbqatar/en/enqnbvehicleloan.html",
+    "https://qnbalahlileasing.com/sites/qnb/qnbqatar/en/envehicleloan.html"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: QNB Motori Lease-to-Own; QNB (NBK Mercedes financing partner); QNB (partner on NBK Mercedes campaigns); QNB (Qatar National Bank); QNB - Sustainable Green Vehicle Loan || Motori vehicle lease: 1-4 year terms, keep or return at end, monthly payments ~40% lower than loan, 100% financing (no down payment), comprehensive insurance and agency maintenance included, free vehi || alt dealer: QNB || QNB was financing partner (0% down, 0.99% rate, 1 yr insurance) on NBK's year-end Mercedes campaign extended to 31 Jan 2026 (expired); likely to recur for year-end 2026. || Named as financing partner (0% down, 0.99% rate) in NBK year-end campaign extended to 31 Jan 2026. || Vehicle loan offer page: 20,000 Life reward points + free insurance, no management fees, min loan QAR 100,000, 0% down payment for Qataris up to 6 yrs, 20% down for non-Qataris up to 4 yrs. Expat prod || Campaign 4.50% APR (2.37% flat) for EV/hybrid ran 3 Nov-31 Dec 2025 (expired); product page may carry a new Q4 2026 rate - recheck.",
+   "has_current_offers": "yes",
+   "search_budget": 12
+  },
+  {
+   "key": "bank-standard-chartered",
+   "kind": "bank_finance",
+   "name": "Standard Chartered Qatar",
+   "brands": [],
+   "dealer": "Standard Chartered",
+   "website": "https://www.sc.com/qa/",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Standard Chartered Qatar || sc.com/qa surfaced only corporate/contact pages; no Qatar retail car loan product found (Saadiq auto finance result was Pakistan, 2021). Likely no consumer auto finance in Qatar.",
+   "has_current_offers": "unknown",
+   "search_budget": 12
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "shard": "shard-10",
+ "search_budget_total": 181,
+ "items": [
+  {
+   "key": "brand-haval",
+   "kind": "new_car_brand",
+   "name": "Haval",
+   "brands": [
+    "Haval"
+   ],
+   "dealer": "Teyseer Motors",
+   "website": "https://gwmqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Tank 300 HEV",
+    "Tank 500",
+    "Tank 700",
+    "Haval H6 HEV",
+    "Haval Jolion Pro",
+    "Haval H7/V7 (listing)",
+    "Ora 03",
+    "GWM Poer",
+    "GWM Wingle"
+   ],
+   "hints": "GWM global news + Teyseer partnership: flagship store in Doha, 200+ bookings at launch. Wey brand not confirmed in Qatar. Grey-market dealers (Al Dahdouh, Mawater City) list Tank 500 2026 from QAR 159 || Teyseer is GWM partner (flagship store Doha). Only grey-market and expired Ramadan (Tank 500 from 155,000, 0% down via Al Jazeera Finance) offers seen; no pickup offer. || alt dealer: Teyseer Motors W.L.L. (Suzuki / GWM Qatar) || glimpsed: H9 Comfort 2026 | Haval H9 Comfort 2026 at QAR 119,000 | https://qatarsale.com/en/showroom/al_majd_mawater_city/cars_for_sale | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-jac",
+   "kind": "new_car_brand",
+   "name": "JAC",
+   "brands": [
+    "JAC"
+   ],
+   "dealer": "JAC Qatar (distributor company name not surfaced)",
+   "website": "https://www.jacqatar.com/cars-offers-in-qatar/",
+   "offer_page_urls": [
+    "https://www.jacqatar.com/cars-offers-in-qatar/",
+    "https://www.jacqatar.com/qatar-summer-car-offers/",
+    "https://www.jacqatar.com/zero-down-payment-car-financing/",
+    "https://www.jacqatar.com/affordable-cars-for-sale-qatar/",
+    "https://www.jacqatar.com/affordable-car-deals-doha/"
+   ],
+   "models_in_qatar": [
+    "JS3",
+    "JS4",
+    "JS6",
+    "J7",
+    "T8 pickup",
+    "T9 pickup",
+    "M4 van (rental listing)",
+    "T8",
+    "T9"
+   ],
+   "hints": "Offers page surfaced repeatedly; details not shown. || jacqatar.com offers pages: 'Cruise with JAC' guaranteed cruise coupon up to QAR 7,500, 6-year unlimited-mileage warranty, 0% down payment for qualified applicants, 24/7 roadside assistance. Prices fro || Offers page: 'Cruise with JAC' coupon up to QAR 7,500, 6-yr unlimited-mileage warranty, 0% down; JS4 at 68,000 with first 4 installments covered (2025 wording). Validity not shown; pickup-specific ter || alt dealer: JAC Motors Qatar (distributor company not identified) || alt dealer: JAC Qatar || Offers page: JS4 at QAR 68,000; 'first 4 monthly installments covered in 2025, installments start 2026', 20% down, 6-year unlimited-mileage warranty - wording suggests a 2025 campaign that may be stal || glimpsed: JS3 / JS4 / JS6 / J7 | Cruise with JAC: guaranteed cruise coupon up to QAR 7,500 + 6-year warranty + 0% down | https://www.jacqatar.com/cars-offers-in-qatar/ | Not stated | unknown || glimpsed: JAC range | JAC Qatar summer car offers | https://www.jacqatar.com/qatar-summer-car-offers/ | Summer (year not stated) | expired || glimpsed: JAC range | JAC Qatar zero down payment car financing | https://www.jacqatar.com/zero-down-payment-car-financing/ | Not stated | unknown || glimpsed: JS3 / JS4 / JS6 / J7 / T8 | Cruise with JAC: cruise coupon up to QAR 7,500 + 6-year warranty + 0% down | https://www.jacqatar.com/cars-offers-in-qatar/ | not stated | unknown || glimpsed: JAC range | JAC Qatar zero down payment car financing |",
+   "has_current_offers": "yes",
+   "search_budget": 57
+  },
+  {
+   "key": "brand-jaguar",
+   "kind": "new_car_brand",
+   "name": "Jaguar",
+   "brands": [
+    "Jaguar"
+   ],
+   "dealer": "Alfardan Premier Motors (Jaguar Land Rover Qatar)",
+   "website": "https://www.landrover-qatar.com/",
+   "offer_page_urls": [
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/new-vehicles",
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/approved-used",
+    "https://www.rangerover.com/en-qa/offers-and-finance/approved-used?suboffer=buyback-cefm",
+    "https://www.landrover-qatar.com/en/range-rover/offers-and-finance/finance-calculator",
+    "https://www.alfardan.com.qa/premiermotors"
+   ],
+   "models_in_qatar": [
+    "Range Rover (2026 Vogue HSE QAR 789,000)",
+    "Range Rover Sport (2026 from QAR 384,500)",
+    "Range Rover Velar",
+    "Range Rover Evoque (QAR 178,700)",
+    "Defender 90/110/130 (2026 110 X-Dynamic HSE QAR 409,000; 130 QAR 379,000)",
+    "Discovery",
+    "Discovery Sport",
+    "Jaguar F-Pace",
+    "Jaguar F-Type (run-out)"
+   ],
+   "hints": "alt dealer: Alfardan Premier Motors || Official landrover-qatar.com and rangerover.com/en-qa carry 'Offers & Finance' pages. Search summary of the Defender/Range Rover approved-used pages: 0% down payment with up to six months grace period",
+   "has_current_offers": "yes",
+   "search_budget": 57
+  },
+  {
+   "key": "brand-bugatti",
+   "kind": "new_car_brand",
+   "name": "Bugatti",
+   "brands": [
+    "Bugatti"
+   ],
+   "dealer": "Al Wajba Motors (Bentley / Lamborghini / Bugatti Doha)",
+   "website": "https://alwajbamotors.me/",
+   "offer_page_urls": [
+    "https://www.bugatti.com/en/partners/doha",
+    "https://newsroom.bugatti.com/en/press-releases/bugatti-opens-a-new-showroom-in-qatar"
+   ],
+   "models_in_qatar": [
+    "Tourbillon",
+    "Mistral/Chiron run-out"
+   ],
+   "hints": "alt dealer: Al Wajba Motors || Bugatti partners page: Bugatti Qatar, Al Muftah Plaza, Al Rayyan Road (Al Wajba Motors). Separate 'Bugatti' listing under AbuIssa Holding / Mall of Qatar is a lifestyle boutique, not cars. No offers (",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "shard": "shard-04",
+ "search_budget_total": 185,
+ "items": [
+  {
+   "key": "brand-nissan",
+   "kind": "new_car_brand",
+   "name": "Nissan",
+   "brands": [
+    "Nissan",
+    "Infiniti"
+   ],
+   "dealer": "Saleh Al Hamad Al Mana Co.",
+   "website": "https://en.nissanqatar.com/offers/sra-lineup-2026.html",
+   "offer_page_urls": [
+    "https://en.nissanqatar.com/offers/sra-lineup-2026.html",
+    "https://www.qatarprnetwork.com/automobile-news/193736-saleh-al-hamad-al-mana-co-drives-a-smarter-start-to-the-school-year-with-nissan-",
+    "https://www.maqinaonline.com/post/saleh-al-hamad-al-mana-co-launches-4-years-interest-free-campaign-for-nissan-customers-in-qatar",
+    "https://businessclass.today/تقسيط-بدون-فوائد-لمدة-4-سنوات-شركة-صالح/",
+    "https://www.gulf-times.com/article/709899/qatar/nissans-best-ever-suv-deals-at-saleh-al-hamad-al-mana-co",
+    "https://al-sharq.com/article/31/08/2026/",
+    "https://al-sharq.com/article/24/02/2026/"
+   ],
+   "models_in_qatar": [
+    "Patrol",
+    "Patrol LE Turbo",
+    "Patrol 3.8 SE",
+    "Patrol PRO-4X",
+    "Patrol NISMO",
+    "X-Trail",
+    "X-Terra",
+    "Pathfinder",
+    "Kicks",
+    "Magnite",
+    "Altima",
+    "Sunny",
+    "Sentra",
+    "Maxima",
+    "Juke",
+    "Navara (not seen in results)",
+    "Urvan (not seen in results)"
+   ],
+   "hints": "Also covers: Nissan Certified Pre-Owned Qatar (Saleh Al Hamad Al Mana) || Page 'Nissan New Car Lineup Special Offers 2026' surfaced; summaries only described Ramadan terms (0% 4 yrs, 15% down, valid 1 Feb-31 Mar 2026) - expired unless updated. || Back-to-school 2026 SUV campaign (Aug 2026, 0% down, 5yr/300k warranty, 3yr/60k service) is likely active but names SUVs only; Navara/Urvan were not mentioned in any result summary, so LCV offer statu || alt dealer: Saleh Al Hamad Al Mana Co. (SAHAM) || Back-to-school 2026 SUV offers (press release Aug 2026): 0% down payment, 5yr/300,000km warranty, 3yr/60,000km service on Patrol LE Turbo 2025/2026, Patrol 3.8 SE 2026, X-Trail, Pathfinder, Magnite, K || Back-to-school campaign announced 29-31 Aug 2026: 0% down payment, 5yr/300,000 km warranty, 3yr/60,000 km service on Patrol LE Turbo 2025 & 2026, Patrol 3.8 SE 2026, X-Trail, Pathfinder, Kicks, Magnit || alt dealer: Saleh Al Hamad Al Mana || glimpsed: Patrol / X-Terra / X-Trail / Pathfinder / Magnite / Kicks | 0% interest 4 years, 15% down, 5-yr warranty, free service, free registration | https://en.nissanqatar.com/offers/sra-lineup-2026.html | 1 Feb - 31 Mar 2026 | expired || glimpsed: Patrol LE Turbo 2025/2026, Patrol 3.8 SE 2026, X-Trail, Pathfinder, Kicks, Magnite | Back-to-school SUV offers: 0% down payment | https://www.qatarprnetwork.com/automobile-news/193736-saleh-al-hamad-al-mana-co-drives-a-smarter-start-to-the-school-year-with-nissan- | announced 29-31 Aug 2026; end date not shown | likely_active || glimpsed: X-Terra, X-Trail, Pathfinder 2025 |  || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Official nissanqatar.com offers page exists (new-car back-to-school 0% d",
+   "has_current_offers": "yes",
+   "search_budget": 80
+  },
+  {
+   "key": "brand-subaru",
+   "kind": "new_car_brand",
+   "name": "Subaru",
+   "brands": [
+    "Subaru"
+   ],
+   "dealer": "Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group)",
+   "website": "https://mannaiautos.com",
+   "offer_page_urls": [
+    "https://gmc.mannaiautos.com/new-vehicles/",
+    "https://cadillac.mannaiautos.com/new-vehicles/",
+    "https://www.mannaiautos.com/autobrands"
+   ],
+   "models_in_qatar": [
+    "GMC Terrain",
+    "GMC Acadia",
+    "GMC Yukon",
+    "GMC Yukon XL",
+    "GMC Sierra",
+    "GMC Canyon AT4X",
+    "Cadillac Escalade",
+    "Cadillac Escalade IQ",
+    "Cadillac Vistiq",
+    "Cadillac Optiq",
+    "Cadillac CT5",
+    "Crosstrek",
+    "Impreza",
+    "Forester",
+    "Outback",
+    "BRZ",
+    "WRX"
+   ],
+   "hints": "alt dealer: Mannai Automotive Group || Only lineup pages surfaced; no promotional campaign text found in summaries. || alt dealer: Mannai Trading Company WLL || Mannai confirmed exclusive Subaru dealer (showroom E-Industrial St 5, tel 4455 8000 / 800 1808). No 2026 promotion surfaced. Aggregator 2026 prices Impreza 75,000; Crosstrek 115,000; Forester 127,500- || glimpsed: Forester | Subaru Forester 3,000 QAR/month | https://mannaiautos.com/autorent | Not stated | likely_active",
+   "has_current_offers": "unknown",
+   "search_budget": 70
+  },
+  {
+   "key": "brand-dongfeng",
+   "kind": "new_car_brand",
+   "name": "Dongfeng",
+   "brands": [
+    "Dongfeng"
+   ],
+   "dealer": "Al Waha Automobiles",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Voyah Free (EREV)",
+    "Voyah Dream (PHEV MPV)",
+    "Dongfeng models (new store per dongfeng-global.com)",
+    "Forthing T5 Evo (aggregator listing)",
+    "Forthing T5 Evo (listing)"
+   ],
+   "hints": "Peninsula May 2025: VOYAH entered Qatar at Kempinski Doha with partner Al Waha Automobiles. dongfeng-global.com: 'DFM Opens New Store, Releases New Products in Qatar'. Forthing appears only on icartea || VOYAH entered Qatar May 2025 (Peninsula) with Al Waha Automobiles; DFM opened a new store in Qatar. No launch offer surfaced. || alt dealer: Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025) || alt dealer: Al Waha Automobiles / Al Waha For Cars",
+   "has_current_offers": "unknown",
+   "search_budget": 35
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "shard": "shard-22",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "dg-al-jaber",
+   "kind": "dealer_group",
+   "name": "Al Jaber Group (automotive)",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Jaber Group (automotive) || No Qatar car-dealer evidence found in sibling results; 'Al Jabr Rent a Car' is a Saudi operator. Gap item.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-al-mana-holding",
+   "kind": "dealer_group",
+   "name": "Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors)",
+   "brands": [
+    "Omoda",
+    "Jaecoo",
+    "Exeed",
+    "Zeekr"
+   ],
+   "dealer": "Silver Lake Motors; Blue Lake Motors (Al Mana Holding)",
+   "website": "https://omodajaecooqatar.com/",
+   "offer_page_urls": [
+    "https://omodajaecooqatar.com/offer-jaecoo",
+    "https://exeedqatar.com/",
+    "https://www.zeekrlife.com/en-qa/",
+    "https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors) || Chinese lens: omodajaecooqatar.com/offer-jaecoo shows J5 Luxury from QAR 1,199/month and J8 Comfort from QAR 1,699/month (20% down, up to 4 yrs insurance, 1-yr free service, 7-yr warranty, free regist",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-al-waha",
+   "kind": "dealer_group",
+   "name": "Al Waha Automobiles / Al Waha For Cars",
+   "brands": [
+    "Jetour",
+    "VOYAH",
+    "Dongfeng",
+    "Forthing (unclear)",
+    "Kaiyi",
+    "Voyah",
+    "212 (BAW)"
+   ],
+   "dealer": "Al Waha Automobiles (Jetour, VOYAH, Dongfeng); Al Waha For Cars (Kaiyi)",
+   "website": "https://www.jetourqatar.com/",
+   "offer_page_urls": [
+    "https://www.jetourqatar.com/",
+    "https://thepeninsulaqatar.com/article/03/11/2025/al-waha-for-cars-opens-212-chinese-car-showroom-in-strategic-local-market-expansion"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Waha Automobiles / Al Waha For Cars; Al Waha For Cars - 212 Chinese car showroom (opened Nov 2025) || jetourqatar.com official; Peninsula May 2025: VOYAH entered Qatar with Al Waha Automobiles; Kaiyi X3 from QR 43,900 via Al Waha For Cars (wakalatqatar). Yallamotor flags a 'Jetour T2 special offer' wi || alt dealer: Al Waha For Cars || Peninsula 3 Nov 2025: Al Waha for Cars opened a '212' Chinese car showroom - a 2025 brand entry. Offer details not seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-al-wajba",
+   "kind": "dealer_group",
+   "name": "Al Wajba Motors (Bentley / Lamborghini / Bugatti Doha)",
+   "brands": [
+    "Bentley",
+    "Lamborghini",
+    "Bugatti"
+   ],
+   "dealer": "Al Wajba Motors",
+   "website": "https://alwajbamotors.me/",
+   "offer_page_urls": [
+    "https://www.bentleymotors.com/en/apps/locate.bentley-doha.retailer-7780.html",
+    "https://www.lamborghini.com/en-en/dealerships/lamborghini-doha",
+    "https://www.bugatti.com/en/partners/doha"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Wajba Motors (Bentley / Lamborghini / Bugatti Doha) || Official brand retailer pages place all three at Al Muftah Plaza, Al Rayyan Road. No promotions; aggregator price lists only.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-alfardan-automobiles",
+   "kind": "dealer_group",
+   "name": "Alfardan Automobiles (Alfardan Group)",
+   "brands": [
+    "BMW",
+    "MINI",
+    "Rolls-Royce",
+    "BMW Motorrad (likely)"
+   ],
+   "dealer": "Alfardan Automobiles W.L.L.",
+   "website": "https://www.alfardan.com.qa/",
+   "offer_page_urls": [
+    "https://www.rolls-roycemotorcars.com/doha/en_GB/showroom.html",
+    "https://www.alfardan.com.qa/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Alfardan Automobiles (Alfardan Group) || Rolls-Royce Motor Cars Doha confirmed (official RR pages; Jery Al Samur showroom). BMW/MINI attribution to Alfardan Automobiles is from the European lens notes and general knowledge; the bmw-qatar.com",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-alfardan-luxury",
+   "kind": "dealer_group",
+   "name": "Alfardan Luxury Motors (Aston Martin Doha)",
+   "brands": [
+    "Aston Martin"
+   ],
+   "dealer": "Alfardan Luxury Motors",
+   "website": "https://astonmartindoha.com/",
+   "offer_page_urls": [
+    "https://www.astonmartin.com/en/dealers/aston-martin-doha",
+    "https://www.alfardan.com.qa/luxury-motors"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Alfardan Luxury Motors (Aston Martin Doha) || Official Aston Martin dealer page: Alfardan Towers, West Bay. No offers seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-alfardan-premier",
+   "kind": "dealer_group",
+   "name": "Alfardan Premier Motors (Jaguar Land Rover Qatar)",
+   "brands": [
+    "Land Rover",
+    "Range Rover",
+    "Defender",
+    "Discovery",
+    "Jaguar"
+   ],
+   "dealer": "Alfardan Premier Motors (Alfardan Group)",
+   "website": "https://www.landrover-qatar.com/",
+   "offer_page_urls": [
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/new-vehicles",
+    "https://www.landrover-qatar.com/en/defender/offers-and-finance/approved-used",
+    "https://www.rangerover.com/en-qa/offers-and-finance/approved-used?suboffer=buyback-cefm",
+    "https://www.landrover-qatar.com/en/range-rover/offers-and-finance/finance-calculator",
+    "https://www.alfardan.com.qa/premiermotors"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Alfardan Premier Motors (Jaguar Land Rover Qatar) || Official landrover-qatar.com 'Offers & Finance' pages: approved-used Defender/Range Rover 0% down + up to 6 months grace, 71-month plan for Qataris, MY2025-2026, 'limited time' (likely active). New-ve",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-alfardan-sports",
+   "kind": "dealer_group",
+   "name": "Alfardan Sports Motors",
+   "brands": [
+    "Ferrari",
+    "Maserati",
+    "Fiat/Abarth (unverified - fiat-qatar.com references an Alfardan Sports Motors about page)"
+   ],
+   "dealer": "Alfardan Sports Motors (Alfardan Group)",
+   "website": "https://www.alfardan.com.qa/sportsmotors",
+   "offer_page_urls": [
+    "https://doha.ferraridealers.com/en-GB",
+    "https://www.maserati.com/qa/en/official-dealer"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Alfardan Sports Motors || Official Ferrari and Maserati dealer pages name Alfardan Sports Motors. No retail discount offers; only Grecale launch package (from QR 299,000 + 3-yr warranty/service) of unknown date.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-ali-bin-ali",
+   "kind": "dealer_group",
+   "name": "Ali Bin Ali Group (automotive)",
+   "brands": [
+    "Peugeot (unverified general-knowledge candidate; Peugeot Qatar dealer name NOT surfaced by any search in this session)"
+   ],
+   "dealer": "Ali Bin Ali Holding",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Ali Bin Ali Group (automotive) || No search result in this session mentioned Ali Bin Ali as a car dealer; the dealer_groups lens could not run its own searches (budget exhausted). Peugeot is active in Qatar (QMotor Ramadan 2026: 408 f",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  }
+ ]
+}

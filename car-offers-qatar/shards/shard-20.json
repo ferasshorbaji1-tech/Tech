@@ -1,0 +1,236 @@
+{
+ "shard": "shard-20",
+ "search_budget_total": 183,
+ "items": [
+  {
+   "key": "brand-bestune",
+   "kind": "new_car_brand",
+   "name": "Bestune",
+   "brands": [
+    "Bestune"
+   ],
+   "dealer": "Al Mana Motors (unverified)",
+   "website": "",
+   "offer_page_urls": [
+    "https://www.iloveqatar.net/news/business/special-offers-promotions-cars-vehicles-ramadan-doha-qatar"
+   ],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary. || ILoveQatar Ramadan 2026 roundup mentions 'Al Mana Motors Bestune/RAM' offers (expired). Brand presence/dealer not otherwise verified.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "brand-buick",
+   "kind": "new_car_brand",
+   "name": "Buick",
+   "brands": [
+    "Buick"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not searched (search budget exhausted). No evidence of official Qatar presence; Buick not marketed in GCC, Rivian has no ME retail.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-citroen",
+   "kind": "new_car_brand",
+   "name": "Citroen",
+   "brands": [
+    "Citroen"
+   ],
+   "dealer": "unknown",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No evidence found in sibling lenses; Citroen listed in seed list without dealer or website. DS not evidenced in Qatar. Unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-cupra",
+   "kind": "new_car_brand",
+   "name": "Cupra",
+   "brands": [
+    "Cupra"
+   ],
+   "dealer": "unknown",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No evidence in any sibling lens or seed list beyond the brand name; Qatar presence of Cupra/SEAT in 2026 unverified. Needs a direct search.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-dacia",
+   "kind": "new_car_brand",
+   "name": "Dacia",
+   "brands": [
+    "Dacia"
+   ],
+   "dealer": "none found",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No evidence of Dacia being sold new in Qatar in any sibling lens; Dacia products are typically sold as Renault (e.g., Duster) in the GCC.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-deepal",
+   "kind": "new_car_brand",
+   "name": "Deepal",
+   "brands": [
+    "Deepal"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No Qatar dealer or listing found in searches; could not run a dedicated query (budget exhausted). || No Qatar dealer or listing found in sibling results; Changan reportedly consolidating Avatr/Deepal (Sept 2026).",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-ds",
+   "kind": "new_car_brand",
+   "name": "DS",
+   "brands": [
+    "DS"
+   ],
+   "dealer": "unknown",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No evidence found in sibling lenses; Citroen listed in seed list without dealer or website. DS not evidenced in Qatar. Unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-fiat",
+   "kind": "new_car_brand",
+   "name": "Fiat",
+   "brands": [
+    "Abarth",
+    "Fiat",
+    "Fiat/Abarth (unverified - fiat-qatar.com references an Alfardan Sports Motors about page)",
+    "Fiat / Alfa Romeo (unverified - Stellantis brands; not surfaced)"
+   ],
+   "dealer": "Alfardan Sports Motors (per fiat-qatar.com about page, unverified)",
+   "website": "https://www.fiat-qatar.com",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Abarth; Fiat/Abarth (unverified - fiat-qatar.com references an Alfardan Sports Motors about page); Fiat / Alfa Romeo (unverified - Stellantis brands; not surfaced) || European-luxury lens noted that fiat-qatar.com lists an 'Alfardan Sports Motors' about page, suggesting Alfardan handles Fiat (and possibly Abarth). Lineup and offers not seen. Unverified. || alt dealer: Alfardan Sports Motors || alt dealer: United Cars Almana (UCA)",
+   "has_current_offers": "unknown",
+   "search_budget": 25
+  },
+  {
+   "key": "brand-force",
+   "kind": "new_car_brand",
+   "name": "Force",
+   "brands": [
+    "Force"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-jinbei",
+   "kind": "new_car_brand",
+   "name": "Jinbei",
+   "brands": [
+    "Jinbei"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-kyc",
+   "kind": "new_car_brand",
+   "name": "KYC",
+   "brands": [
+    "KYC"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Not individually searched (budget exhausted). Bestune and Soueast were mentioned as present in Qatar marketplace listings in one summary.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-leapmotor",
+   "kind": "new_car_brand",
+   "name": "Leapmotor",
+   "brands": [
+    "Leapmotor"
+   ],
+   "dealer": "None",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Li Auto signed UAE (Al Fahim) and KSA (Naghi) dealers in Apr 2026; no Qatar dealer. Leapmotor: no Qatar evidence. || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-li-auto",
+   "kind": "new_car_brand",
+   "name": "Li Auto",
+   "brands": [
+    "Li Auto"
+   ],
+   "dealer": "None",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Li Auto signed UAE (Al Fahim) and KSA (Naghi) dealers in Apr 2026; no Qatar dealer. Leapmotor: no Qatar evidence. || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-opel",
+   "kind": "new_car_brand",
+   "name": "Opel",
+   "brands": [
+    "Opel"
+   ],
+   "dealer": "unknown",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No Qatar evidence in any sibling lens or seed list; Opel's GCC presence may not include Qatar. Unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  },
+  {
+   "key": "brand-polestar",
+   "kind": "new_car_brand",
+   "name": "Polestar",
+   "brands": [
+    "Polestar"
+   ],
+   "dealer": "None identified",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "No Qatar dealer, website or listing appeared in any sibling lens result; this lens could not search (budget exhausted). Treat as probably not officially present. || alt dealer: none found || No evidence of a Polestar retailer in Qatar in any sibling lens; seed list has no dealer/website. Unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

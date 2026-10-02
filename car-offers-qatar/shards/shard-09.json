@@ -1,0 +1,121 @@
+{
+ "shard": "shard-09",
+ "search_budget_total": 185,
+ "items": [
+  {
+   "key": "brand-audi",
+   "kind": "new_car_brand",
+   "name": "Audi",
+   "brands": [
+    "Audi",
+    "Audi (general knowledge: Q-Auto is Audi Qatar importer; dedicated search refused by budget - unverified this session)"
+   ],
+   "dealer": "Q-Auto",
+   "website": "audi-qatar.com / vw-qatar.com (seed list, unverified)",
+   "offer_page_urls": [
+    "https://www.cbq.qa/en/about-us/campaigns/list/smarter-drives-start-here---easier-loans-with-volkswagen-and-commercial-bank",
+    "https://qic.online/en/market/cars/all/audi"
+   ],
+   "models_in_qatar": [
+    "Q5 2026 (listing)",
+    "Q8 2026 (listing)",
+    "e-tron (not seen)",
+    "Q5",
+    "Q8",
+    "Q7",
+    "A6",
+    "A8",
+    "e-tron (unverified lineup)"
+   ],
+   "hints": "Also covers: Audi (general knowledge: Q-Auto is Audi Qatar importer; dedicated search refused by budget - unverified this session); Audi Approved Plus Qatar (Q-Auto) || VW x Commercial Bank 0% campaign (24 Sep-31 Dec 2025) expired; sibling notes mention a VW Qatar evergreen offer page. No Audi e-tron Qatar offer surfaced; Audi query refused by budget. || Dealer Q-Auto and domain audi-qatar.com from seed list (website not confirmed by a search result). Only aggregator evidence: QIC market listings Audi Q5 2026 QAR 95,000 (looks low) and Q8 2026 QAR 200 || glimpsed: Q5 2026 / Q8 2026 | Audi Q5 2026 QAR 95,000; Q8 2026 QAR 200,000 | https://qic.online/en/market/cars/all/audi | not shown | unknown || glimpsed: Q5 2026 / Q8 2026 | Audi Q5 2026 QAR 95,000; Q8 2026 QAR 200,000 | https://qic.online/en/market/cars/new | Not stated | unknown || alt dealer: Q-Auto (Volkswagen / Audi Qatar) || alt dealer: Q-Auto (Audi Qatar) - unverified || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). No evidence gathered. QIC Market listings showed Audi Q5 2026 (QAR 95,00",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-changan",
+   "kind": "new_car_brand",
+   "name": "Changan",
+   "brands": [
+    "Changan",
+    "Changan (listed on AMTC passenger-vehicle page; sole distributor is Elaf Motors - relationship unclear)"
+   ],
+   "dealer": "Elaf Motors (sole distributor)",
+   "website": "https://changanqatar.com/promotion",
+   "offer_page_urls": [
+    "https://changanqatar.com/promotion",
+    "https://www.icartea.com/en/news/changan-cs75-plus-qatar-exclusive-suv-deals-special-offers-2026-2"
+   ],
+   "models_in_qatar": [
+    "Alsvin",
+    "Eado",
+    "CS35 Plus",
+    "CS75 Plus",
+    "CS95",
+    "UNI-S",
+    "UNI-T",
+    "UNI-K",
+    "UNI-V"
+   ],
+   "hints": "Also covers: Changan (listed on AMTC passenger-vehicle page; sole distributor is Elaf Motors - relationship unclear) || Promotion page surfaced; details not shown. || changanqatar.com states Elaf Motors is sole distributor. 2026 prices: Alsvin from QAR 39,000, Eado 58,500, CS35 Plus 59,000, CS95 97,900, Uni-V 120,000, Uni-K 122,900, CS75 Plus 128,000, Uni-T 130,000 || alt dealer: Elaf Motors (Changan Qatar) || glimpsed: CS75 Plus | icartea: Changan CS75 Plus Qatar Spring 2026 package | https://www.icartea.com/en/news/changan-cs75-plus-qatar-exclusive-suv-deals-special-offers-2026-2 | Spring 2026 | expired || glimpsed:  | Changan Qatar promotion page | https://changanqatar.com/promotion | unknown | unknown || alt dealer: Al-Attiya Motors & Trading Co. (AMTC) / Elaf Auto",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-gwm",
+   "kind": "new_car_brand",
+   "name": "GWM",
+   "brands": [
+    "GWM",
+    "Ora",
+    "Poer",
+    "Wingle",
+    "GWM Poer/Wingle",
+    "Wey"
+   ],
+   "dealer": "Teyseer Motors",
+   "website": "https://gwmqatar.com/",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Tank 300 HEV",
+    "Tank 500",
+    "Tank 700",
+    "Haval H6 HEV",
+    "Haval Jolion Pro",
+    "Haval H7/V7 (listing)",
+    "Ora 03",
+    "GWM Poer",
+    "GWM Wingle"
+   ],
+   "hints": "Also covers: Ora; Poer; Wingle; GWM Poer/Wingle; Wey || GWM global news + Teyseer partnership: flagship store in Doha, 200+ bookings at launch. Wey brand not confirmed in Qatar. Grey-market dealers (Al Dahdouh, Mawater City) list Tank 500 2026 from QAR 159 || Teyseer is GWM partner (flagship store Doha). Only grey-market and expired Ramadan (Tank 500 from 155,000, 0% down via Al Jazeera Finance) offers seen; no pickup offer. || alt dealer: Teyseer Motors W.L.L. (Suzuki / GWM Qatar) || glimpsed: Tank 500 | Tank 500 from QAR 155,000 with 0% down payment | https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322 | Ramadan 2026 | expired || glimpsed: Haval V7 2026 | Al Dahdouh Cars: brand new GWM Haval V7 2026 at QAR 107,000 with free delivery, registration and tint | https://www.qatarliving.com/en/vehicles/cars/172634_gwm_haval_v7_2026_v4_brand_new | Listing, undated | unknown || glimpsed: Tank 500 2026 (grey-market showroom) | Tank 500 2026 from QAR 159,000 with free delivery, registration and tint | https://qatarsale.com/en/showroom/al_majd_mawater_city/cars_for_sale | Not stated | unknown || GWM global news + Teyseer partnership: flagship store in Doha, 200+ bookings at launch. Wey brand not confirmed in Qatar. Grey-market dealers (Al Dahdouh, Mawater City) list Tank 500 2026 from QAR 159 || Teyseer is GWM partner (flagship store Doha). Only grey-market and expired Ramadan (Tank 500 from 155,000, 0% down via Al Jazeera Finance) offers seen; no pickup offer. || alt dealer: Teyseer Motors W.L.L. (Suzuki / GWM Qatar) || GWM global news + Teyseer partnership: flagship store in Doha, 200+ bookings at launch. Wey brand not confirmed in Qatar. Grey-market dealers (Al Dahdouh, Mawater City) list Tank 500 2026 from QAR 159 || alt dea",
+   "has_current_offers": "unknown",
+   "search_budget": 47
+  },
+  {
+   "key": "brand-genesis",
+   "kind": "new_car_brand",
+   "name": "Genesis",
+   "brands": [
+    "Genesis"
+   ],
+   "dealer": "Skyline Automotive (seed list)",
+   "website": "genesis.com/qa (seed list, unverified)",
+   "offer_page_urls": [
+    "https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom",
+    "https://www.gulf-times.com/story/641704/genesis-announces-exclusive-offer-for-new-academic-year"
+   ],
+   "models_in_qatar": [
+    "GV70 (per search summary)",
+    "Electrified models not confirmed",
+    "G70",
+    "G80",
+    "G90",
+    "GV70",
+    "GV80",
+    "GV60"
+   ],
+   "hints": "Search-engine summary attributed 'Genesis GV70 5-yr warranty + free insurance' to an October 2026 offer set - unverified, undated. || alt dealer: Skyline Automotive (Hyundai / Genesis Qatar) || alt dealer: Skyline Automotive || Skyline Automotive is Genesis distributor (showroom Al Markhiya). Only an older undated 'new academic year' offer article found. Official Genesis Qatar site not surfaced (X handle @genesisqatar). || glimpsed: GV70 | GV70 with 5-year warranty and free insurance | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || glimpsed: GV70 | Genesis GV70 5-year warranty + free insurance | https://www.gulf-times.com/story/454482/Car-dealers-offer-huge-discounts-to-attract-custom | unknown | unknown || glimpsed: Genesis range | Exclusive offer for new academic year | https://www.gulf-times.com/story/641704/genesis-announces-exclusive-offer-for-new-academic-year | Undated, older article | expired",
+   "has_current_offers": "unknown",
+   "search_budget": 44
+  }
+ ]
+}

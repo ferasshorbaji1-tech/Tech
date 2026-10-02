@@ -1,0 +1,179 @@
+{
+ "shard": "shard-24",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "dg-ibin-ajayan",
+   "kind": "dealer_group",
+   "name": "Ibin Ajayan Trading (Mahindra Qatar)",
+   "brands": [
+    "Mahindra"
+   ],
+   "dealer": "Ibin Ajayan Trading (+974 4499 1000)",
+   "website": "https://www.facebook.com/MahindraQatar/",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Ibin Ajayan Trading (Mahindra Qatar) || Facebook page advertises 'exclusive offers' with Ibin Ajayan contact; no website/offer page seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-jaidah",
+   "kind": "dealer_group",
+   "name": "Jaidah Automotive (Jaidah Group)",
+   "brands": [
+    "Chevrolet",
+    "Isuzu (unverified - Jaidah Motors & Trading historically; aggregators list other D-Max sellers)",
+    "Isuzu (unverified)",
+    "multi-brand used"
+   ],
+   "dealer": "Jaidah Automotive W.L.L. (Jaidah Group)",
+   "website": "https://www.chevroletqatar.com/",
+   "offer_page_urls": [
+    "https://www.chevroletqatar.com/offers/",
+    "https://www.chevroletqatar.com/offers/new-car-offers/",
+    "https://www.chevroletqatar.com/offers/aftersales/service-excellece/",
+    "http://www.jaidahautomotive.com/offers/",
+    "https://qatarsale.com/en/showroom/jaidah_automotive_166"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Jaidah Automotive (Jaidah Group); Jaidah Pre-Owned (Jaidah Automotive / Gulfcar) || American lens: chevroletqatar.com/offers/new-car-offers/ shows promotions for Traverse MY26 and Tahoe MY26; Captiva 2026 page advertises free 5-yr/150,000 km warranty + 5-yr roadside. Ramadan 2026 Tah || alt dealer: Jaidah Automotive || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). Jaidah Automotive showroom page on QatarSale surfaced in sibling lens (l",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-khalid-bin-jassim",
+   "kind": "dealer_group",
+   "name": "Khalid Bin Jassim (automotive)",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Khalid Bin Jassim (automotive) || Not surfaced by any search; no evidence of a car distributorship. Gap item.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-mannai",
+   "kind": "dealer_group",
+   "name": "Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group)",
+   "brands": [
+    "GMC",
+    "Cadillac",
+    "Subaru",
+    "Denza",
+    "Yangwang",
+    "Mannai Auto Rent (rental/lease)",
+    "BYD",
+    "multi-brand used"
+   ],
+   "dealer": "Mannai Trading Company W.L.L. (Mannai Corporation)",
+   "website": "https://mannaiautos.com",
+   "offer_page_urls": [
+    "https://gmc.mannaiautos.com/offers/",
+    "https://gmc.mannaiautos.com/offers/2026-terrain/",
+    "https://gmc.mannaiautos.com/offers/yukon-2026/",
+    "https://cadillac.mannaiautos.com/new-vehicle-offers/escalade/",
+    "https://www.mannaiautos.com/autobrands",
+    "https://mannaiautos.com/autorent",
+    "https://denzaqatar.com/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Mannai Autos / Mannai Trading Co. (Mannai Corporation Automotive Group); Mannai Pre-Owned (Mannai Automotive Group) || American lens: live GMC offer pages for 2026 Terrain (QAR 1,666/month) and 2026 Yukon (0% down, free insurance/registration/tint); Cadillac Escalade 0% interest 50/25/25 plan page (validity unknown).  || alt dealer: Mannai Automotive Group || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). mannaiautos.com confirmed official (new-car GMC/Cadillac offers and leas",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-national-car-company",
+   "kind": "dealer_group",
+   "name": "National Car Company (Mazda Qatar)",
+   "brands": [
+    "Mazda"
+   ],
+   "dealer": "National Car Company W.L.L.",
+   "website": "https://www.mazda-qatar.com",
+   "offer_page_urls": [
+    "https://www.mazda-qatar.com/offers/",
+    "https://thepeninsulaqatar.com/article/20/05/2026/mazda-2026-early-summer-offers-a-strength-you-can-feel-a-value-that-lasts"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: National Car Company (Mazda Qatar) || Mazda only (NOT Kia, contrary to some briefs). Early Summer 2026 offers (19 May-18 Jul 2026, free insurance/registration, zero-down via Tamweel/Al Jazeera Finance) expired; /offers/ page should be rec",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-nbk",
+   "kind": "dealer_group",
+   "name": "Nasser Bin Khaled Automobiles (NBK Automobiles, Nasser Bin Khaled & Sons)",
+   "brands": [
+    "Mercedes-Benz",
+    "Mercedes-AMG",
+    "Mercedes-Maybach",
+    "Mercedes-Benz Vans/Trucks (likely)"
+   ],
+   "dealer": "Nasser Bin Khaled Automobiles W.L.L. (NBK Holding)",
+   "website": "https://www.nbkautomobiles.com",
+   "offer_page_urls": [
+    "https://factqatar.com/nbk-automobiles-unveils-dynamic-mercedes-benz-offer-in-qatar/",
+    "https://www.dunesmagazine.com/post/nasser-bin-khaled-automobiles-introduces-special-offer-on-selected-mercedes-benz-cars",
+    "https://www.zawya.com/en/press-release/companies-news/nasser-bin-khaled-automobiles-continues-its-service-packages-offer-for-a-wide-range-of-mercedes-benz-and-amg-cars-phjkfa99",
+    "https://www.nbks.com/nbk-financial-services/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Nasser Bin Khaled Automobiles (NBK Automobiles, Nasser Bin Khaled & Sons) || ACTIVE: press (FactQatar/Dunes) says offer valid until 31 Oct 2026 - savings up to QAR 125,000 on selected S/E/C-Class, GLC Coupe, GLE Coupe + 3yr/45,000km service, 3-yr warranty, 1-yr insurance, NBK ",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-pioneer-motors",
+   "kind": "dealer_group",
+   "name": "Pioneer Motors Company (Almana Group)",
+   "brands": [
+    "Hongqi",
+    "XPENG"
+   ],
+   "dealer": "Pioneer Motors Company (Almana Group)",
+   "website": "https://www.hongqi-qatar.com/en",
+   "offer_page_urls": [
+    "https://www.hongqi-qatar.com/en"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Pioneer Motors Company (Almana Group) || Gulf Times: Pioneer Motors (Almana) official Hongqi distributor (Salwa Rd / Old Airport, 800 7553); XPENG launched Doha Dec 2025 with Pioneer Motors. No offers surfaced.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-prestige-motors",
+   "kind": "dealer_group",
+   "name": "Prestige Motors",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Prestige Motors || No 'Prestige Motors' dealer surfaced; the similarly named Prestige Cars Company is Alfardan's luxury rental/lease arm (recorded separately). Likely a naming confusion.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-q-auto",
+   "kind": "dealer_group",
+   "name": "Q-Auto (Volkswagen / Audi Qatar)",
+   "brands": [
+    "Volkswagen",
+    "Audi (general knowledge: Q-Auto is Audi Qatar importer; dedicated search refused by budget - unverified this session)"
+   ],
+   "dealer": "Q-Auto W.L.L.",
+   "website": "https://www.volkswagen-qatar.com",
+   "offer_page_urls": [
+    "https://www.volkswagen-qatar.com/en/offers.html",
+    "https://www.volkswagen-qatar.com/ar/offers.html"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Q-Auto (Volkswagen / Audi Qatar) || VW official offers page 'Explore Latest 2026 VW Offers': Passat from QAR 99,900, Tiguan from 109,900, T-Roc from 79,900 (validity not shown - likely active). Q-Auto also sells pre-owned VW. Audi offer",
+   "has_current_offers": "yes",
+   "search_budget": 20
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "shard": "shard-08",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "brand-chery",
+   "kind": "new_car_brand",
+   "name": "Chery",
+   "brands": [
+    "Chery"
+   ],
+   "dealer": "Elite Motors Corporation (exclusive distributor since Sept 2018)",
+   "website": "https://cheryqatar.com/",
+   "offer_page_urls": [
+    "https://qatar.yallamotor.com/new-cars/chery/prices",
+    "https://qatar.hatla2ee.com/ar/new-car",
+    "https://autobeeb.com/ar-qa/tag/سيارات-أيجار-منتهى-بالتمليك-قطر"
+   ],
+   "models_in_qatar": [
+    "Tiggo 2 Pro",
+    "Tiggo 4 Pro",
+    "Tiggo 7 Pro",
+    "Tiggo 7 Pro Max",
+    "Tiggo 8 Pro",
+    "Tiggo 8 Pro Max",
+    "Tiggo 9 Pro",
+    "Tiggo 9 Super Hybrid",
+    "Arrizo 5",
+    "Arrizo 8",
+    "Tiggo 7",
+    "Tiggo 9"
+   ],
+   "hints": "Gulf Times 2026: Elite Motors Qatar is exclusive Chery distributor, won awards at Chery International Summit 2026. Prices on aggregators: Tiggo 2 Pro from QAR 39,900, Tiggo 7 Pro from 54,900, Tiggo 8  || alt dealer: Elite Motors Corporation (Chery Qatar) || alt dealer: unconfirmed (listings via Elite Motors / Yallamotor dealers) || Only price listings (Tiggo 7 Pro QAR 49,900; Tiggo 9 Flagship QAR 99,000; Arrizo 5 from 39,900 with up to QAR 1,600 discount on hatla2ee). Official Qatar dealer not confirmed from search. || alt dealer: Al Nakhla Company for Vehicles || Autobeeb tag page: lease-to-own available on all Chery vehicles via exclusive dealer Al Nakhla; date not visible. || glimpsed: Arrizo 5 2025/2026 | Chery Arrizo 5 from QAR 39,900 (discount up to QAR 1,600) | https://qatar.hatla2ee.com/en/new-car | not shown | likely_active || glimpsed: Tiggo 7 Pro Max 2026 | Chery Tiggo 7 Pro Max 2026 at QAR 59,900 | https://qatar.yallamotor.com/new-cars | not shown | unknown || glimpsed: Tiggo 9 Super Hybrid 2026 | Chery Tiggo 9 Super Hybrid 2026 at QAR 112,900 | https://www.carsemsar.com/en/qatar/search?condition=new | not shown | unknown || glimpsed: Arrizo 5 / Tiggo 4 Pro / Tiggo 8 Pro Max | Arrizo 5 39,900 (999/mo), Tiggo 4 Pro 49,900, Tiggo 8 Pro Max 79,900 (2,000/mo); 0% down, 3-month grace, 2 yrs/40k service | https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322 | Ramadan 2026 | expired || glimpsed:  | Ramadan 2026: Arrizo 5 ",
+   "has_current_offers": "unknown",
+   "search_budget": 56
+  },
+  {
+   "key": "brand-chevrolet",
+   "kind": "new_car_brand",
+   "name": "Chevrolet",
+   "brands": [
+    "Chevrolet"
+   ],
+   "dealer": "Jaidah Automotive",
+   "website": "https://www.chevroletqatar.com/",
+   "offer_page_urls": [
+    "https://www.chevroletqatar.com/offers/",
+    "https://www.chevroletqatar.com/offers/new-car-offers/",
+    "https://www.chevroletqatar.com/offers/aftersales/service-excellece/",
+    "http://www.jaidahautomotive.com/offers/",
+    "https://www.chevroletarabia.com/qa-en/crossovers-and-suvs/tahoe"
+   ],
+   "models_in_qatar": [
+    "Groove",
+    "Captiva",
+    "Captiva PHEV",
+    "Blazer",
+    "Traverse",
+    "Tahoe",
+    "Suburban",
+    "Silverado",
+    "Corvette Stingray",
+    "Corvette Z06",
+    "Spark EUV"
+   ],
+   "hints": "Search summary of chevroletqatar.com/offers/new-car-offers/ says promotions exist for Traverse MY26 and Tahoe MY26; Captiva 2026 page advertises free 5-yr/150,000 km warranty + 5-yr roadside assistanc || New-car offers page shows promotions for Traverse MY26 and Tahoe MY26 (terms not visible). No Silverado-specific offer seen. Chevrolet also sells Captiva PHEV and Spark EUV in Qatar. || alt dealer: Jaidah Automotive (Jaidah Group) || glimpsed: Tahoe / range | Zero down payment, 0% APR 4 years, Monoprix voucher up to QAR 5,000; from 119,900 | https://www.qc.guide/ramadan-car-offers-in-qatar-2026/ | Ramadan 2026 | expired || glimpsed: Traverse MY26 / Tahoe MY26 | New car offers - Traverse MY26 and Tahoe MY26 promotions | https://www.chevroletqatar.com/offers/new-car-offers/ | not shown | likely_active || glimpsed: Captiva 2026 | Free 5-year warranty and 5-year roadside assistance on new Captiva | https://www.chevroletqatar.com/new-vehicles/2026-captiva/ | not shown | likely_active || glimpsed: All (aftersales) | Service Excellence aftersales offer | https://www.chevroletqatar.com/offers/aftersales/service-excellece/ | not shown | unknown || glimpsed: Captiva 2025 / Groove 2025 | Captiva 2025 deposit from QAR 11,985, from QAR 2,236/month; Groove 2025 from QAR 63,900 | https://qatar.hatla2ee.com/en/new-car/chevrolet/captiva | not shown | unknown || glimpsed: Traverse MY26 / Tahoe MY26 | New-car promotions on Traverse and Tahoe MY26 | https://www.chevroletqatar.com/offers/new-car-",
+   "has_current_offers": "yes",
+   "search_budget": 63
+  },
+  {
+   "key": "brand-honda",
+   "kind": "new_car_brand",
+   "name": "Honda",
+   "brands": [
+    "Honda"
+   ],
+   "dealer": "Doha Marketing Services Co. (Domasco)",
+   "website": "https://www.honda.qa",
+   "offer_page_urls": [
+    "https://www.honda.qa/en/cars/used-cars-shop/",
+    "https://www.wakalatqatar.com/en/cars?company%3ADomasco%2Cbrand%3AHONDA=",
+    "https://www.honda.qa/en/cars/new-cars/",
+    "https://honda-mideast.com/en-qa/about-us/dealer-qatar"
+   ],
+   "models_in_qatar": [
+    "City",
+    "Civic",
+    "Accord",
+    "HR-V",
+    "CR-V",
+    "Pilot",
+    "Civic Type R",
+    "Accord e:HEV",
+    "ZR-V",
+    "CR-V (7-seat)",
+    "Odyssey"
+   ],
+   "hints": "Also covers: Honda Certified / Used Cars Shop (Domasco) || alt dealer: Domasco || Summaries show evergreen in-house finance (48 months, 5% down) and 2026 pricing (City 2026 from QAR 61,999-70,999; Pilot 2026 EX QAR 173,999). No dated Q4 2026 campaign surfaced. || Domasco confirmed sole distributor (9 facilities). Only a past Ramadan promotion (Qatar Tribune) seen; no 2026 campaign surfaced. Aggregator prices: City 1.5 DX QAR 61,999 to Pilot 3.5 EX QAR 173,999. || glimpsed: City 2026 and range | In-house finance: down payment from 5%, low EMI over 48 months | https://www.honda.qa/en/cars/used-cars-shop/ | evergreen | likely_active || glimpsed: City 2026 and range | In-house finance: low EMI over 48 months, down payment from 5% | https://www.honda.qa/en/cars/used-cars-shop/ | evergreen | unknown || glimpsed: Honda range | Honda Ramadan promotion | https://www.qatar-tribune.com/article/211775/BUSINESS/Honda-launches-Ramadan-promotion | Ramadan (year unclear) | expired || glimpsed: Used cars shop / City 2026 | Honda in-house finance: 48 months, down payment from 5% | https://www.honda.qa/en/cars/used-cars-shop/ | Evergreen (not dated) | likely_active || alt dealer: Domasco (Doha Marketing Services Co.) || Official honda.qa 'Used Cars Shop' page surfaced in sibling lenses; summaries showed evergreen in-house finance (48 months, from 5% down) but no dated used-car campaign. No WebSearch could run for thi",
+   "has_current_offers": "unknown",
+   "search_budget": 53
+  },
+  {
+   "key": "brand-tesla",
+   "kind": "new_car_brand",
+   "name": "Tesla",
+   "brands": [
+    "Tesla"
+   ],
+   "dealer": "None - no official dealer; online design studio/order per aggregator summary",
+   "website": "",
+   "offer_page_urls": [
+    "https://www.drivearabia.com/carprices/qatar/tesla/",
+    "https://qatar.yallamotor.com/new-cars/tesla"
+   ],
+   "models_in_qatar": [
+    "Model 3",
+    "Model Y"
+   ],
+   "hints": "Aggregators say no Tesla dealership in Qatar; Model Y 2026 from QAR 164,990 (drivearabia) / 184,990 (yallamotor). Official tesla.com Qatar URL not surfaced, so left blank. || alt dealer: No official dealer; online ordering per aggregators || Aggregators say no Tesla dealership in Qatar; Model Y 2026 from QAR 164,990. No official Qatar page or offer surfaced. || glimpsed: Model Y 2026 | Tesla Model Y 2026 from QAR 164,990 | https://www.drivearabia.com/carprices/qatar/tesla/tesla-model-y/ | not shown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

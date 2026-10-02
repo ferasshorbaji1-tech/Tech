@@ -1,0 +1,172 @@
+{
+ "shard": "shard-23",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "dg-almana-motors",
+   "kind": "dealer_group",
+   "name": "Almana Motors Company W.L.L. (Ford / Lincoln Qatar)",
+   "brands": [
+    "Ford",
+    "Lincoln",
+    "Ford Trucks"
+   ],
+   "dealer": "Almana Motors Company W.L.L. (Almana Group)",
+   "website": "https://almanamotors.com.qa/en/",
+   "offer_page_urls": [
+    "https://almanamotors.com.qa/en/offers/",
+    "https://almanamotors.com.qa/en/ford-f-150-offer/",
+    "https://almanamotors.com.qa/en/ford-territory-special-offer/",
+    "https://lincoln.com.qa/en/offers/",
+    "https://qatar.twffer.com/ar/offer/6339/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Almana Motors Company W.L.L. (Ford / Lincoln Qatar) || Offers pages exist; indexed campaigns (Territory 26 Jun-25 Sep 2025; Ford 15 Dec 2025-6 Mar 2026; Lincoln 6 Mar-6 Jun 2025) are expired. One F-150 page (from QAR 189,000, 50/50 over 2 yrs) has no visi",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-auto-class",
+   "kind": "dealer_group",
+   "name": "Auto Class Cars (NBK Holding)",
+   "brands": [
+    "MG",
+    "Maxus/LDV",
+    "Lynk & Co"
+   ],
+   "dealer": "Auto Class Cars (Nasser Bin Khaled Holding)",
+   "website": "https://www.nbks.com/autoclass/",
+   "offer_page_urls": [
+    "https://www.mg-qa.com/offers/",
+    "https://www.mg-qa.com/offers/ramadan-exclusive-offer-2026/",
+    "https://marhaba.qa/auto-class-cars-launches-special-offers-on-selected-mg-models-until-31-july-2026/",
+    "https://www.lynkcoqatar.com/",
+    "https://iamqatar.qa/pages/feed-post/auto-class-cars-presents-special-offer-on-maxus-v80-the-ideal-van-for-safe-and-comfortable-operations/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Auto Class Cars (NBK Holding) || Chinese lens: Auto Class Cars is authorised distributor of MG, Maxus and Lynk & Co (showrooms Salwa Road, Lusail). mg-qa.com/offers exists; last seen campaign ran until 31 July 2026 (expired); Ramadan",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-autostar",
+   "kind": "dealer_group",
+   "name": "Autostar",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Autostar || Not surfaced in any Qatar search result this session; 'Autostar Trading' is a UAE-based importer. No Qatar dealership evidence.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-domasco",
+   "kind": "dealer_group",
+   "name": "Doha Marketing Services Co. (Domasco)",
+   "brands": [
+    "Honda",
+    "GAC Motor",
+    "Aion",
+    "Volvo Cars (general knowledge - Domasco is the long-standing Volvo distributor; NOT verified by search this session)",
+    "Volvo Trucks/Buses (unverified)"
+   ],
+   "dealer": "Doha Marketing Services Company W.L.L. (Domasco)",
+   "website": "https://www.honda.qa",
+   "offer_page_urls": [
+    "https://www.honda.qa/en/cars/new-cars/",
+    "https://www.honda.qa/en/cars/used-cars-shop/",
+    "https://www.gac-motor.qa/en/offers/",
+    "https://www.gac-motor.qa/ar/offers/",
+    "https://honda-mideast.com/en-qa/about-us/dealer-qatar"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Doha Marketing Services Co. (Domasco) || Domasco confirmed sole Honda distributor (9 facilities) and GAC/Aion distributor (gac-motor.qa 'Get Offers' page live; Arabic page lists Empow R from 99,900, M8 134,999, GS4 Max 94,900, validity unkno",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-ebn-sina",
+   "kind": "dealer_group",
+   "name": "Ebn Sina Motors",
+   "brands": [],
+   "dealer": "Ebn Sina Motors",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Ebn Sina Motors || Listed in the brief; European lens explicitly notes it was NOT surfaced by any search. Existence/brand holdings unverified - treat as a gap item.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-elaf-motors",
+   "kind": "dealer_group",
+   "name": "Elaf Motors (Changan Qatar)",
+   "brands": [
+    "Changan"
+   ],
+   "dealer": "Elaf Motors (sole distributor)",
+   "website": "https://changanqatar.com/",
+   "offer_page_urls": [
+    "https://changanqatar.com/promotion"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Elaf Motors (Changan Qatar) || changanqatar.com states Elaf Motors is sole distributor; /promotion page exists (content not seen). Deepal not present in Qatar.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-elite-motors",
+   "kind": "dealer_group",
+   "name": "Elite Motors Corporation (Chery Qatar)",
+   "brands": [
+    "Chery"
+   ],
+   "dealer": "Elite Motors Corporation (exclusive since 2018)",
+   "website": "https://cheryqatar.com/",
+   "offer_page_urls": [
+    "https://cheryqatar.com/",
+    "https://qmotor.com/news-reviews/ramadan-car-promotions-2026-the-best-offers-in-qatar-this-ramadan-1322"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Elite Motors Corporation (Chery Qatar) || Gulf Times 2026: Elite Motors exclusive Chery distributor. Ramadan 2026 offers (Arrizo 5 39,900 at 999/mo, 0% down, 3-month grace) expired. Aggregators list Arrizo 5 from QAR 39,900 with up to QAR 1,6",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-exclusive-motors",
+   "kind": "dealer_group",
+   "name": "Exclusive Motors (McLaren Doha)",
+   "brands": [
+    "McLaren"
+   ],
+   "dealer": "Exclusive Motors",
+   "website": "https://doha.mclaren.com",
+   "offer_page_urls": [
+    "https://doha.mclaren.com/content/mclaren-retailers/doha//en.html",
+    "https://alhazm.com/en/mclaren-doha"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Exclusive Motors (McLaren Doha) || Sole McLaren retail partner, Al Hazm Mall. No offers.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  },
+  {
+   "key": "dg-future-motors",
+   "kind": "dealer_group",
+   "name": "Future Motors (BAIC Qatar)",
+   "brands": [
+    "BAIC",
+    "Beijing"
+   ],
+   "dealer": "Future Motors",
+   "website": "https://www.baic.qa/en",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Future Motors (BAIC Qatar) || Future Motors launched BAIC showroom (Zone 56, Doha; +974 6601 2999). No offers page seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 20
+  }
+ ]
+}

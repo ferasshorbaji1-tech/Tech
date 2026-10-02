@@ -1,0 +1,112 @@
+{
+ "shard": "shard-05",
+ "search_budget_total": 184,
+ "items": [
+  {
+   "key": "brand-kia",
+   "kind": "new_car_brand",
+   "name": "Kia",
+   "brands": [
+    "Kia"
+   ],
+   "dealer": "Al-Attiya Motors & Trading Co. (AMTC)",
+   "website": "https://www.kiaqatar.com",
+   "offer_page_urls": [
+    "https://www.kiaqatar.com/promotion/",
+    "https://www.kiaqatar.com/news/kia-qatar-helps-families-gear-up-for-the-back-to-school-season-with-its-latest-offer/"
+   ],
+   "models_in_qatar": [
+    "EV5",
+    "EV9",
+    "Picanto",
+    "Sonet",
+    "Seltos",
+    "Sportage",
+    "Sorento",
+    "Telluride",
+    "Carnival",
+    "K5",
+    "K8",
+    "Pegas",
+    "Cerato/K4",
+    "Sportage L",
+    "Carens",
+    "K3"
+   ],
+   "hints": "Also covers: Kia Qatar Certified Pre-Owned (Al-Attiya Motors & Trading) || kiaqatar.com/promotion reportedly shows 'currently no promotion'; Ramadan/back-to-school 2025-26 campaigns expired. Gulf Times summary of a 0% for 2 years / 50% down Kia offer is undated. || alt dealer: Al-Attiya Motors & Trading Co. (AMTC) / Elaf Auto || alt dealer: Kia Qatar (kiaqatar.com) || Kia Qatar back-to-school offer news page; in-house finance: 10% minimum down, up to 48 months, free 1st-year comprehensive insurance, free registration, periodic services. Year of the back-to-school p || alt dealer: Al-Attiya Motors & Trading Co. || Brief said National Car Company - WRONG: AMTC is official Kia distributor. kiaqatar.com/promotion/ reportedly shows 'currently no promotion'. Ramadan 2026 campaign (Sportage L, Seltos, Telluride) expi || alt dealer: National Car Company (NCC) || glimpsed: Picanto 2026 1.2L LX | Kia Picanto 2026 from QAR 49,000 | https://qatar.yallamotor.com/new-cars/kia | not shown | unknown || glimpsed: range | No interest for 2 years with 50% down payment | https://www.gulf-times.com/story/574283/Kia-Qatar-launches-limited-period-offer | unknown | unknown || glimpsed: range | No interest for 2 years with 50% down payment (limited period) | https://www.gulf-times.com/story/574283/Kia-Qatar-launches-limited-period-offer | unknown | unknown || glimpsed:  | Kia Qatar promotion page - 'currently no promotion' | https://www.kiaqatar.com/promotion/ | n/a | expired || glimpsed: Range | Back-to-school offer / in-house finance | https://www.kiaqatar.com/news/kia-qa || No WebSearch could run for this lens (session budget 200/200 was exhausted by earlier lenses; 6 queries attempted and refused). kiaqatar.com/promotion reportedly shows 'currently no promotion' (siblin",
+   "has_current_offers": "unknown",
+   "search_budget": 68
+  },
+  {
+   "key": "brand-mercedes-benz",
+   "kind": "new_car_brand",
+   "name": "Mercedes-AMG",
+   "brands": [
+    "Mercedes-Benz",
+    "Mercedes-AMG",
+    "Mercedes-Maybach",
+    "Mercedes-Benz Vans/Trucks (likely)",
+    "AMG",
+    "Maybach"
+   ],
+   "dealer": "Nasser Bin Khaled Automobiles (NBK Automobiles)",
+   "website": "mercedes-benz.com.qa (seed list, unverified)",
+   "offer_page_urls": [
+    "https://factqatar.com/nbk-automobiles-unveils-dynamic-mercedes-benz-offer-in-qatar/",
+    "https://www.zawya.com/en/press-release/companies-news/nasser-bin-khaled-automobiles-continues-its-service-packages-offer-for-a-wide-range-of-mercedes-benz-and-amg-cars-phjkfa99",
+    "https://www.dunesmagazine.com/post/nasser-bin-khaled-automobiles-introduces-special-offer-on-selected-mercedes-benz-cars",
+    "https://www.bishtmagazine.com/post/own-a-mercedes-benz-with-zero-down-payment-nbk-automobiles-extends-140th-anniversary-campaign-until",
+    "https://www.qatarday.com/nasser-bin-khaled-automobiles-presents-special-offer-on-selected-mercedes-benz-c/20266/0",
+    "https://www.maqina.me/post/nasser-bin-khaled-automobiles-presents-special-offer-celebrate-qatar-national-day",
+    "https://al-sharq.com/article/04/01/2026/ناصر-بن-خالد-تمدد-عرض-نهاية-العام-على-مجموعة-من-سيارات-مرسيدس-بنز"
+   ],
+   "models_in_qatar": [
+    "Sprinter / Vito (not seen in results)",
+    "S-Class",
+    "E-Class",
+    "C-Class",
+    "GLC Coupe",
+    "GLE Coupe",
+    "G-Class",
+    "Maybach EQS SUV",
+    "EQ range (not itemised in results)",
+    "Mercedes-Maybach S-Class",
+    "Maybach GLS",
+    "AMG range",
+    "GLC",
+    "GLE",
+    "A-Class",
+    "Maybach S-Class"
+   ],
+   "hints": "Also covers: Mercedes-AMG; Mercedes-Maybach; Mercedes-Benz Vans/Trucks (likely); Mercedes-Benz Certified Pre-Owned Qatar (NBK Automobiles) || NBK is the Mercedes dealer and has an active passenger-car campaign to 31 Oct 2026; no van/commercial offer surfaced in any sibling result. || alt dealer: Nasser Bin Khaled Automobiles || Active NBK campaign to 31 Oct 2026 (up to QR125,000 savings) covers S/E/C/GLC Coupe/GLE Coupe; EQ models not named. || alt dealer: Nasser Bin Khaled Automobiles (NBK Automobiles, Nasser Bin Khaled & Sons) || Press coverage (FactQatar, Dunes Magazine) of NBK offer: savings up to QR125,000 on selected Mercedes-Benz SUVs/sedans (S, E, C, GLC Coupe, GLE Coupe) plus 3yr/45,000km service, 3yr warranty, 1yr comp || Multiple press outlets (FactQatar, Dunes, QatarDay) report NBK's current campaign: savings up to QAR 125,000 on selected 2026 S-Class, E-Class, C-Class, GLC Coupe, GLE Coupe plus 3-yr/45,000 km servic || alt dealer: Nasser Bin Khaled Automobiles (NBK) || Search summary: offer valid until October 31, 2026, savings up to QAR 125,000 on selected S-Class, E-Class, C-Class, GLC Coupe, GLE Coupe, plus 3yr/45,000km service, 3yr warranty, 1yr comprehensive in || alt dealer: Nasser Bin Khaled (NBK) || glimpsed: GLC 200 2026 | Mercedes GLC 200 2026 at QAR 289,000 | https://qic.online/en/market/cars/new | not shown | unknown || glimpsed: A-Class | Monthly instalments from QR 2,739 for A-Class | http://thepeninsulaqatar.com/article/24/03/2025/nbk-automobiles-presents-special-offer-on-mercedes-benz-cars | March 2025 | expired || glimpsed: S / E / C-Class, GLC Coupe, GLE Coupe (2026) | Savings up to Q || alt dealer: Nasser Bin Khaled Automobiles (NBK Automobiles, Nasser Bin Khaled & Sons) || alt dealer: Nasser Bin Khaled Automobiles (NBK Automobiles) || Pr",
+   "has_current_offers": "yes",
+   "search_budget": 78
+  },
+  {
+   "key": "brand-aston-martin",
+   "kind": "new_car_brand",
+   "name": "Aston Martin",
+   "brands": [
+    "Aston Martin"
+   ],
+   "dealer": "Alfardan Luxury Motors (Aston Martin Doha)",
+   "website": "https://astonmartindoha.com/",
+   "offer_page_urls": [
+    "https://www.astonmartin.com/en/dealers/aston-martin-doha",
+    "https://astonmartindoha.com/",
+    "https://www.alfardan.com.qa/luxury-motors"
+   ],
+   "models_in_qatar": [
+    "Vantage (2026 from ~QAR 660,000)",
+    "Vantage Roadster",
+    "DB12",
+    "DBX / DBX707 (from QAR 917,000)",
+    "Vanquish",
+    "Valour (QAR 5.5M)"
+   ],
+   "hints": "alt dealer: Alfardan Luxury Motors || astonmartin.com dealer page + astonmartindoha.com: Alfardan Luxury Motors (est. 2020) is official dealer, Alfardan Towers, West Bay, +974 4042 6363. An aggregator wrongly says 'no official dealer' - o",
+   "has_current_offers": "unknown",
+   "search_budget": 38
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "shard": "shard-16",
+ "search_budget_total": 178,
+ "items": [
+  {
+   "key": "brand-chrysler",
+   "kind": "new_car_brand",
+   "name": "Chrysler",
+   "brands": [
+    "Chrysler"
+   ],
+   "dealer": "United Cars Almana WLL",
+   "website": "https://www.chrysler.com/qa/en/",
+   "offer_page_urls": [
+    "https://www.chrysler.com/qa/en/campaign.html",
+    "http://dealer-mideast.chrysler.com/qatar/united/",
+    "https://qatar.twffer.com/ar/offer/6339/",
+    "https://www.dodge.com/qa/en/campaign.html",
+    "https://www.ram.com/qa/en/index.html",
+    "https://www.wakalatqatar.com/en/cars?brand%3AJEEP="
+   ],
+   "models_in_qatar": [
+    "300",
+    "Pacifica",
+    "Voyager",
+    "RAM 1500 (model list not surfaced)"
+   ],
+   "hints": "Campaign page exists but no offer content in summary. Chrysler 300 2026 3.6L Touring QAR 157,000; Pacifica 2026 'coming soon' on yallamotor. || alt dealer: United Cars Almana (UCA) || Sibling American lens notes a ram.com/qa campaign page and UCA offer listings on twffer, plus ILoveQatar Ramadan 2026 roundup mentioning 'Al Mana Motors Bestune/RAM' (expired). No RAM-specific current || Dodge Qatar has a /campaign.html page (content not visible in summary). No dated Q4 2026 campaign found. || glimpsed: 300 2026 3.6L Touring | Chrysler 300 2026 Touring QAR 157,000 | https://qatar.yallamotor.com/new-cars/chrysler/prices | not shown | unknown || glimpsed:  | Chrysler Qatar campaign page | https://www.chrysler.com/qa/en/campaign.html | unknown | unknown",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-infiniti",
+   "kind": "new_car_brand",
+   "name": "INFINITI",
+   "brands": [
+    "INFINITI"
+   ],
+   "dealer": "Saleh Al Hamad Al Mana Co. (SAHAM)",
+   "website": "https://www.infiniti-qatar.com/offers.html",
+   "offer_page_urls": [
+    "https://www.infiniti-qatar.com/offers.html",
+    "https://ar.infiniti-qatar.com/offers.html",
+    "https://qatar.yallamotor.com/new-cars/infiniti",
+    "https://www.drivearabia.com/carprices/qatar/infiniti/"
+   ],
+   "models_in_qatar": [
+    "QX80",
+    "QX60",
+    "QX55",
+    "QX50"
+   ],
+   "hints": "Offers page surfaced; details not shown. || alt dealer: Saleh Al Hamad Al Mana Co. (likely) || Official Arabic offers page indexed ('عروض انفينيتي على أفخم السيارات'); contents not visible. Dedicated search was refused by budget. || alt dealer: Saleh Al Hamad Al Mana Co. || Only aggregator pricing seen (QX50 from QAR 178,000; QX55 195,000; QX60 244,500-298,500; QX80 499,000). No Infiniti-specific Qatar promotion found; distributor is same group as Nissan (not re-verified || alt dealer: Saleh Al Hamad Al Mana || glimpsed: Q50 | Infiniti Q50 300 QAR/day | https://almanaleasing.com/ | Not stated | likely_active",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-jaecoo",
+   "kind": "new_car_brand",
+   "name": "Jaecoo",
+   "brands": [
+    "Jaecoo"
+   ],
+   "dealer": "Silver Lake Motors (Al Mana Holding)",
+   "website": "https://omodajaecooqatar.com/",
+   "offer_page_urls": [
+    "https://omodajaecooqatar.com/offer-jaecoo",
+    "https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models"
+   ],
+   "models_in_qatar": [
+    "Omoda C5",
+    "Jaecoo J5",
+    "Jaecoo J7",
+    "Jaecoo J8"
+   ],
+   "hints": "Official offer page omodajaecooqatar.com/offer-jaecoo shows J5 Luxury from QAR 1,199/month and J8 Comfort from QAR 1,699/month on 20% down, up to 4 yrs insurance, 1 yr free service, 7 yr warranty, fre || Official offer page: J5 Luxury from QAR 1,199/month, J8 Comfort from 1,699/month on 20% down, up to 4 yrs insurance, 1 yr service, 7-yr warranty, free registration (no end date). Summer 2026 MacBook/0 || alt dealer: Al Mana Holding automotive subsidiaries (Silver Lake Motors / Blue Lake Motors) || glimpsed: J5, J7, J8 | Summer offer: from QAR 1,630/month, 0% down, 7-yr warranty, 1 yr free service, free registration | https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models | Summer campaign | expired || glimpsed: J5 Luxury / J8 Comfort 2026 | JAECOO J5 Luxury from QAR 1,199/month, J8 Comfort from QAR 1,699/month | https://omodajaecooqatar.com/offer-jaecoo | Not stated on summary | likely_active || glimpsed: J5 / J7 / J8 | OMODA & JAECOO x Al Jazeera Finance summer offer: free MacBook Neo, 0% down | https://www.dunesmagazine.com/post/omoda-jaecoo-and-al-jazeera-finance-launch-exclusive-summer-offer-on-jaecoo-j5-j7-and-j8-models | Summer 2026 | expired || glimpsed: J5 Luxury / J8 Comfort 2026 | JAECOO J5 Luxury from QAR 1,199/month, J8 Comfort from QAR 1,699/month | https://omodajaecooqatar.com/offer-jaecoo | not stated | likely_active || glimpsed: J5 / J7 / J8 | Summer offer: free MacBook Neo, 0% down, f",
+   "has_current_offers": "yes",
+   "search_budget": 42
+  },
+  {
+   "key": "brand-lamborghini",
+   "kind": "new_car_brand",
+   "name": "Lamborghini",
+   "brands": [
+    "Lamborghini"
+   ],
+   "dealer": "Al Wajba Motors (Bentley / Lamborghini / Bugatti Doha)",
+   "website": "https://alwajbamotors.me/",
+   "offer_page_urls": [
+    "https://www.lamborghini.com/en-en/dealerships/lamborghini-doha",
+    "https://www.facebook.com/lamborghinidohaofficial/"
+   ],
+   "models_in_qatar": [
+    "Urus (2026 from QAR 1,300,000)",
+    "Revuelto (2026 from QAR 3,000,000)",
+    "Temerario",
+    "Huracan run-out variants (aggregator listings)"
+   ],
+   "hints": "alt dealer: Al Wajba Motors || Official Lamborghini dealership page: Al Muftah Plaza Building, Al Rayyan Road, +974 4411 4411; Al Wajba Motors confirmed as dealer. No promotions seen, only aggregator price lists.",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-maserati",
+   "kind": "new_car_brand",
+   "name": "Maserati",
+   "brands": [
+    "Maserati"
+   ],
+   "dealer": "Alfardan Sports Motors",
+   "website": "https://www.alfardan.com.qa/sportsmotors",
+   "offer_page_urls": [
+    "https://www.maserati.com/qa/en/official-dealer",
+    "https://www.alfardan.com.qa/sportsmotors"
+   ],
+   "models_in_qatar": [
+    "Grecale (GT, Modena, Trofeo)",
+    "GranTurismo",
+    "GranCabrio Trofeo",
+    "MC20/MCXtrema (collector)"
+   ],
+   "hints": "maserati.com/qa official dealer page names Alfardan Sports Motors. Only offer-like item seen is the Grecale launch package (from QR299,000 with 3-yr unlimited-km warranty + 3-yr/45,000 km service on G || glimpsed: Grecale | Grecale from QR 299,000 with 3-yr warranty and 3-yr/45,000 km service | https://www.gulf-times.com/story/728505/Alfardan-Sports-Motors-launches-new-Maserati-Grecale-in-Qatar | launch pricing, pre-2026 | unknown || glimpsed: Levante | Lease Levante from QR 9,500/month (lease-to-own up to 4 yrs) | https://www.prestigecarsco.com/LongTermLease | not stated | likely_active || glimpsed: Grecale GT / Modena / Trofeo | Grecale from QR299,000 with 3-year warranty and 3-year/45,000 km service package | https://www.gulf-times.com/story/728505/Alfardan-Sports-Motors-launches-new-Maserati-Grecale-in-Qatar | launch pricing (pre-2026 article) | unknown || glimpsed: Levante | Lease Maserati Levante from QR 9,500/month | https://www.prestigecarsco.com/LongTermLease | Not stated | likely_active",
+   "has_current_offers": "unknown",
+   "search_budget": 32
+  },
+  {
+   "key": "brand-aito",
+   "kind": "new_car_brand",
+   "name": "Aito",
+   "brands": [
+    "Aito"
+   ],
+   "dealer": "None",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [
+    "Seres listed on drivearabia Qatar (unverified)"
+   ],
+   "hints": "AITO entered Middle East via Performance Plus Motors in UAE (Feb 2026); no Qatar dealer announced. drivearabia has a Seres Qatar price page only. || Sibling lenses found UAE/KSA dealers only for Li Auto and AITO; no Qatar evidence for Leapmotor, Mahindra, KGM/SsangYong.",
+   "has_current_offers": "unknown",
+   "search_budget": 8
+  }
+ ]
+}

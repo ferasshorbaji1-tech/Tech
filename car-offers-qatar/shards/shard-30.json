@@ -1,0 +1,307 @@
+{
+ "shard": "shard-30",
+ "search_budget_total": 180,
+ "items": [
+  {
+   "key": "rent-carrent",
+   "kind": "rental_lease",
+   "name": "Carrent Qatar",
+   "brands": [],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Carrent Qatar || Query returned no Carrent-specific result; existence in Qatar unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-dollar",
+   "kind": "rental_lease",
+   "name": "Dollar Qatar",
+   "brands": [
+    "Dollar"
+   ],
+   "dealer": "",
+   "website": "",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Dollar Qatar || No Dollar-specific Qatar page surfaced in the combined Thrifty/Dollar query; Qatar presence unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-ekar",
+   "kind": "rental_lease",
+   "name": "ekar Qatar",
+   "brands": [],
+   "dealer": "ekar",
+   "website": "https://qatar.alcoupon.com/en/discount-codes/ekar",
+   "offer_page_urls": [
+    "https://qatar.alcoupon.com/en/discount-codes/ekar"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: ekar Qatar || Coupon-site page for ekar discount codes in Qatar; operation status unverified.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-enterprise",
+   "kind": "rental_lease",
+   "name": "Enterprise / National / Alamo Qatar",
+   "brands": [
+    "Enterprise",
+    "National",
+    "Alamo"
+   ],
+   "dealer": "Enterprise Rent-A-Car Qatar (enterprise.qa)",
+   "website": "https://enterprise.qa/en/",
+   "offer_page_urls": [
+    "https://enterprise.qa/en/",
+    "https://www.enterprise.com/en/car-rental-locations/qa.html",
+    "https://www.alamo.com/en/car-rental-locations/qa/doha-hamad-international-airport-kqa1.html"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Enterprise / National / Alamo Qatar; Enterprise / National / Alamo Qatar - commercial vehicle leasing || Official enterprise.qa site; HIA branch (National counter serves Alamo). Offers tailor-made leasing packages for passenger/commercial vehicles with comprehensive insurance, maintenance, replacement, 2 || alt dealer: Enterprise Rent-A-Car Qatar || Tailor-made leasing packages for passenger and commercial vehicles with insurance, maintenance, replacement; no dated promo seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-europcar",
+   "kind": "rental_lease",
+   "name": "Europcar Qatar",
+   "brands": [
+    "Europcar"
+   ],
+   "dealer": "Europcar Qatar (+974 40108888)",
+   "website": "https://www.europcar.com/en-qa",
+   "offer_page_urls": [
+    "https://www.europcar.com/en-us/p/offers/qatar",
+    "https://www.europcar.com/en-qa/p/car-rental/by-duration/1-month",
+    "https://www.europcar.com/en-us/p/qatar-monthly-vehicle-rental",
+    "https://www.qatarairways.com/en/Privilege-Club/offers/europcar-june-offer.html"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Europcar Qatar || Official offers page lists 'up to 20% off your next rental'; monthly rentals from QAR 1,199 (Mini/Economy/Compact/SUV), 1-12 month plans. An 'up to 15% off' deal for pick-ups 13 Feb-15 Mar 2026 is exp",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-ezhire",
+   "kind": "rental_lease",
+   "name": "eZhire Qatar (and EZ Car Rental)",
+   "brands": [
+    "Mitsubishi",
+    "Nissan",
+    "Lamborghini",
+    "Rolls-Royce"
+   ],
+   "dealer": "eZhire",
+   "website": "https://www.ezhire.ae/rent-a-car-in-qatar",
+   "offer_page_urls": [
+    "https://offers.ezhire.qa/order-car-rental-in-qatar",
+    "https://take.app/ezcarrental"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: eZhire Qatar (and EZ Car Rental) || eZhire Qatar app: on-demand delivery, no deposit, transparent rates. A separate 'EZ CAR RENTAL' take.app page advertises 50% off one-day rentals (country not confirmed). 'Ezcar' from the lens may refe",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-hertz",
+   "kind": "rental_lease",
+   "name": "Hertz Qatar",
+   "brands": [
+    "Hertz"
+   ],
+   "dealer": "Hertz Qatar (hertz.qa)",
+   "website": "https://www.hertz.qa",
+   "offer_page_urls": [
+    "https://www.hertz.qa/rentacar/car-rent/qatar",
+    "https://bookingauto.net/en/qatar/doha-qatar-rental-car/hertz"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Hertz Qatar || Official site hertz.qa exists; summaries mention a Summer Rental promo (book by June 15, travel through Aug 30) which is expired, a $22/day regular plan promo (aggregator), Gulf Air/Oman Air miles pro",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-local-tail",
+   "kind": "rental_lease",
+   "name": "Local Qatar rental companies: Al Jaber / Al Jabr Rent a Car, Al Saad Rent a Car, Astar Limousine Qatar, AVR - Al-Futtaim Vehicle Rentals Qatar, Khalid Car Rental, Petra Rent A Car (via QatarSale), Prime Fleet Qatar, Rent Solutions Qatar, Roscar Qatar, Strong Rent a Car, Trend Car / Tareq Al Qeyada",
+   "brands": [
+    "MG",
+    "Hyundai",
+    "Geely",
+    "Jaecoo"
+   ],
+   "dealer": "Al Saad Rent a Car",
+   "website": "https://jrac.com.sa/en",
+   "offer_page_urls": [
+    "https://alsaadrentacar.com/",
+    "https://www.astarlimousineqa.com/cheap-car-rental/",
+    "https://www.avr.qa/",
+    "https://qatarsale.com/en/products/cars_for_rent",
+    "https://rentsolutions.qa/",
+    "https://al-sharq.com/article/25/08/2026/سترونج-لتأجير-السيارات-تطلق-عروضا-حصرية-على-أحدث-طرازاتها-في-قطر",
+    "https://www.strongrentacar.com/en/rent-a-car/all-our-fleet?view=carslist&orderby=price&ordertype=asc&lim=20",
+    "https://tareqalqeyada.com/categories/1104762/التأجير-الشهري-والسنوي"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Al Jaber / Al Jabr Rent a Car; Al Saad Rent a Car; Astar Limousine Qatar; AVR - Al-Futtaim Vehicle Rentals Qatar; Khalid Car Rental; Petra Rent A Car (via QatarSale); Prime Fleet Qatar; Rent Solutions Qatar; Roscar Qatar; Strong Rent a Car; Trend Car / Tareq Al Qeyada || Al Jabr Rent a Car is a Saudi operator; no Qatar branch evidence. || Daily/weekly/monthly packages for individuals, companies and site projects; no prices seen. || alt dealer: Astar Limousine || Cheap monthly/weekly/daily/long-term rental in Doha; no prices in summary. || alt dealer: Al-Futtaim || Site 'Lease or Rent a Car in Qatar' surfaced; no offer details in summary. || Not searched (search budget exhausted). || alt dealer: Petra Rent A Car || QatarSale listing: MG ZS at QR 1,799/month. || Monthly rental category page surfaced only. || alt dealer: Rent Solutions || Homepage promotes a Deposit-Free rental option. || alt dealer: Roscar || No deposit, no credit card rental (Arabic page title). || alt dealer: Strong Rent a Car || Al Sharq (25 Aug 2026): Back-to-School 2026 exclusive packages on latest economy and luxury models, brand-new cars, no hidden fees, 24/7 roadside assistance; ~3,000 vehicles, 6 branches incl. HIA. Als || alt dealer: Tareq Al Qeyada || Monthly/annual rental category lists Hyundai Kona, Geely Coolray, Jaecoo J5 with discounts; exact prices not in summary.",
+   "has_current_offers": "yes",
+   "search_budget": 30
+  },
+  {
+   "key": "rent-lumi",
+   "kind": "rental_lease",
+   "name": "Lumi Rental",
+   "brands": [],
+   "dealer": "",
+   "website": "https://lumirental.com/en",
+   "offer_page_urls": [],
+   "models_in_qatar": [],
+   "hints": "Also covers: Lumi Rental || Saudi operator (Seera Group); 23% online discount applies to KSA; no Qatar operations found.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-mannai",
+   "kind": "rental_lease",
+   "name": "Mannai Auto Rent",
+   "brands": [
+    "GMC",
+    "Cadillac",
+    "Subaru",
+    "BYD",
+    "Foton",
+    "JAC"
+   ],
+   "dealer": "Mannai Corporation Automotive Group",
+   "website": "https://mannaiautos.com/autorent",
+   "offer_page_urls": [
+    "https://mannaiautos.com/autorent",
+    "https://qatarsale.com/en/showroom/mannai_auto_rent/cars_for_rent",
+    "https://gmc.mannaiautos.com/offers/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Mannai Auto Rent; Mannai Auto Rent (pickup/van/EV leasing) || Listed lease rates: BYD SUVs 2,600-2,900/month, Cadillac XT6 4,500/month, Cadillac XT4 4,000/month, Escalade 13,500/month, Yukon SLE 6,500/month (3-year lease), Subaru Forester 3,000/month, JAC M4 van || Published lease rates: JAC M4 van QAR 100/day, BYD SUVs 2,600-2,900/month, Foton pickups listed; price list rather than dated campaign.",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-nbk",
+   "kind": "rental_lease",
+   "name": "Nasser Bin Khaled & Al Mulla Rent a Car / NBK Financial Services",
+   "brands": [
+    "Mercedes-Benz"
+   ],
+   "dealer": "Nasser Bin Khaled & Sons",
+   "website": "https://www.nbks.com/nbk-financial-services/",
+   "offer_page_urls": [
+    "https://www.nbks.com/nbk-financial-services/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Nasser Bin Khaled & Al Mulla Rent a Car / NBK Financial Services || Directory listings only for the rent-a-car entity; NBK Financial Services offers leasing with Guaranteed Buyback. NBK supplied 17 Mercedes to Strong Rent a Car fleet (older news). No rental offer page",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-prestige-alfardan",
+   "kind": "rental_lease",
+   "name": "Prestige Cars (Alfardan)",
+   "brands": [
+    "BMW",
+    "Land Rover",
+    "Jaguar",
+    "MINI",
+    "Maserati",
+    "Mercedes-Benz (fleet)"
+   ],
+   "dealer": "Prestige Cars Company / Alfardan Group (+974 7043 0030)",
+   "website": "https://prestigecarsco.com/",
+   "offer_page_urls": [
+    "https://www.prestigecarsco.com/LongTermLease",
+    "https://www.alfardan.com.qa/prestige-cars",
+    "https://qatarsale.com/en/showroom/prestige_cars/cars_for_rent"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Prestige Cars (Alfardan); Prestige Cars (Alfardan) - BMW/MINI rental & lease; Prestige Cars Company (Alfardan rental/lease arm) || BMW X5 rental from QR 9,850/month; Maserati Levante lease from QR 9,500/month; lease-to-own and regular leasing up to 4 years with warranty, service, replacement, full insurance. Branches HIA, The Pea || alt dealer: Prestige Cars Company (Alfardan Group) || BMW X5 rental from QR 9,850/month; lease-to-own up to 4 years incl. warranty, service, insurance (from rental lens). || alt dealer: Prestige Cars Company / Alfardan Group || Rental lens: BMW X5 from QR 9,850/month, Maserati Levante lease from QR 9,500/month, lease-to-own up to 4 years. Listed here as the Alfardan group division.",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-selfdrive",
+   "kind": "rental_lease",
+   "name": "SelfDrive Qatar",
+   "brands": [],
+   "dealer": "SelfDrive",
+   "website": "https://www.selfdrive.qa/",
+   "offer_page_urls": [
+    "https://www.selfdrive.qa/monthly-car-rental-subscription/"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: SelfDrive Qatar || Monthly car rental from QAR 899/month; monthly subscription from QAR 999.",
+   "has_current_offers": "yes",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-sixt",
+   "kind": "rental_lease",
+   "name": "Sixt Qatar",
+   "brands": [
+    "Sixt"
+   ],
+   "dealer": "Sixt Qatar",
+   "website": "https://www.sixt.com/car-rental/qatar/",
+   "offer_page_urls": [
+    "https://www.sixt.com/car-rental/qatar/doha/doha-salwa-road/",
+    "https://www.sixt.com/luxury-cars/qatar/doha/",
+    "https://carsrenter.com/en/qatar/doha-qatar-rental-car/sixt"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Sixt Qatar || Branches at HIA, The Pearl, InterContinental, Salwa Road. Aggregator carsrenter cites '20% off for 3+ days'; Momondo cites from $24/day. No official Sixt Qatar promotion page seen.",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-thrifty",
+   "kind": "rental_lease",
+   "name": "Thrifty Qatar",
+   "brands": [
+    "Thrifty"
+   ],
+   "dealer": "Thrifty Car Rental Doha",
+   "website": "",
+   "offer_page_urls": [
+    "https://www.carrentalsqatar.com/thrifty",
+    "https://carsrenter.com/en/qatar/doha-qatar-rental-car/thrifty",
+    "https://bookingautos.com/en/qatar/suppliers/thrifty"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Thrifty Qatar || Only aggregator/broker pages found (no official Thrifty Qatar domain). Broker text claims up to 30% off 3+ days (Compact/Estate/4x4/Minivan) and up to 40% off 5+ days, from $8/day; these are generic b",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  },
+  {
+   "key": "rent-toyota-kinto",
+   "kind": "rental_lease",
+   "name": "Toyota KINTO Rent / AAB Lease-to-Own",
+   "brands": [
+    "Toyota",
+    "Lexus"
+   ],
+   "dealer": "Abdullah Abdulghani & Bros (AAB)",
+   "website": "https://www.toyotaqatar.com/rent",
+   "offer_page_urls": [
+    "https://www.toyotaqatar.com/rent",
+    "https://www.toyotaqatar.com/aab/news-line-up/detail/aab-launches-kinto-rent-in-qatar",
+    "https://thepeninsulaqatar.com/article/06/03/2025/al-abdulghani-motors-unveils-exclusive-ramdan-offers-on-toyota-and-lexus-vehicles"
+   ],
+   "models_in_qatar": [],
+   "hints": "Also covers: Toyota KINTO Rent / AAB Lease-to-Own || AAB Lease-to-Own: no guarantor, no down payment, no bank approval; free registration, service and insurance during lease (stated in Ramadan 2025 campaign). KINTO Rent launched in Qatar. Current Q4 202",
+   "has_current_offers": "unknown",
+   "search_budget": 10
+  }
+ ]
+}
