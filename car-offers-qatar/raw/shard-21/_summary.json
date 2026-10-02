@@ -1,0 +1,159 @@
+{
+ "shard": "shard-21",
+ "searches_total": 124,
+ "items": [
+  {
+   "key": "brand-rivian",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 6,
+   "models_without_offer": [],
+   "notes": "No official Rivian presence in Qatar or GCC retail; only UAE grey imports found. No offers."
+  },
+  {
+   "key": "brand-seat",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 5,
+   "models_without_offer": [],
+   "notes": "No SEAT/Cupra dealer or listings in Qatar found (only 2006-2014 Altea price pages on drivearabia). No offers."
+  },
+  {
+   "key": "brand-smart",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 5,
+   "models_without_offer": [
+    "smart #1",
+    "smart #3",
+    "smart #5"
+   ],
+   "notes": "drivearabia lists smart #1/#3/#5 2026 for Qatar as 'Coming Soon'/price unavailable; no dealer identified (NBK Automobiles searches returned only Mercedes-Benz). No offers."
+  },
+  {
+   "key": "brand-wuling",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 4,
+   "models_without_offer": [],
+   "notes": "No official distributor; only a handful of grey-import Hongguang listings on Qatar Living. No offers."
+  },
+  {
+   "key": "brand-skoda",
+   "offers": 7,
+   "active": 5,
+   "likely_active": 2,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 26,
+   "models_without_offer": [],
+   "notes": "Exclusive distributor since 2025 is Q-Auto (also VW/Audi), replacing Ibin Ajayan; lineup Kodiaq, Karoq, Kushaq, Octavia, Superb (2026 list prices QAR 74k-145k). Only concrete campaign found is the Lusail University community offer valid to 31 Dec 2026 (recorded per model) plus a 2025 Kushaq clearance listing and QNB lease-to-own tie-up. No general public finance campaign, CPO or aftersales promo surfaced."
+  },
+  {
+   "key": "brandgroup-exotic-longtail",
+   "offers": 2,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 2,
+   "searches": 10,
+   "models_without_offer": [
+    "Soueast S06/S07/S09 (West Lake Motors)",
+    "Renault Duster/Koleos (Saleh Al Hamad Al Mana)",
+    "Ineos Grenadier (Al Adiyat Automobiles)",
+    "Isuzu D-Max/MU-X (Jaidah)",
+    "Peugeot 2008/3008/5008/408 (no dealer)",
+    "Lotus",
+    "Brabus/Mansory/Pagani/Koenigsegg/Rimac/Alpina/Morgan/Caterham",
+    "Foton",
+    "Tata",
+    "KGM/SsangYong"
+   ],
+   "notes": "Dealers identified: Soueast = West Lake Motors (Al Mana Holding, Salwa Rd showroom opened Nov 2025); Renault = Saleh Al Hamad Al Mana; Ineos = Al Adiyat Automobiles (The Pearl); Isuzu = Jaidah Heavy Equipment; Geely = Skyline Motors; Peugeot/Lotus/tuner & hypercar brands = no Qatar dealer. Only Geely offers surfaced (icartea spring package, Raya back-to-school to 30 Sep 2026, both expired)."
+  },
+  {
+   "key": "dg-aab",
+   "offers": 30,
+   "active": 14,
+   "likely_active": 4,
+   "unknown": 1,
+   "expired": 11,
+   "searches": 31,
+   "models_without_offer": [
+    "Hilux",
+    "Innova",
+    "Corolla Cross",
+    "Highlander",
+    "C-HR",
+    "GR86/GR Yaris/GR Corolla",
+    "Granvia",
+    "Rush",
+    "Lexus ES",
+    "Lexus GX",
+    "Lexus TX",
+    "Lexus LM",
+    "Lexus LC",
+    "Lexus RZ",
+    "KINTO Rent"
+   ],
+   "notes": "Active: Commercial Bank x Toyota/Lexus 0% interest campaign 15 Aug-25 Dec 2026 on 14 named models (recorded per model). Likely active: toyotaqatar.com 'Wise Choice' 0% profit and 'Your Car, Your Way' QAR 3,150/mo zero-down banners; lexusqatar.com MY2026 LX QAR 150k down + 3-yr in-house (from hint). Expired Ramadan 2026 gold-bar/KEYPLAN/50-50 offers recorded for 10 models. No 2026 aftersales or KINTO promo found."
+  },
+  {
+   "key": "dg-al-attiya-amtc",
+   "offers": 2,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 2,
+   "searches": 21,
+   "models_without_offer": [
+    "Kia Pegas",
+    "K3",
+    "K5",
+    "Seltos",
+    "Sonet",
+    "Sportage",
+    "Sorento",
+    "Carnival",
+    "Telluride",
+    "EV5",
+    "EV6",
+    "AVATR 07/11/12",
+    "Changan (all)",
+    "Al Attiya Rent a Car"
+   ],
+   "notes": "kiaqatar.com/promotion reportedly shows no current promotion; only expired back-to-school 2025 and Ramadan 2026 campaigns (terms not surfaced). AVATR (Elaf Auto), Changan (Elaf Motors) and Al Attiya Rent a Car: no 2026 offers found."
+  },
+  {
+   "key": "dg-al-boraq-porsche",
+   "offers": 1,
+   "active": 0,
+   "likely_active": 1,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 16,
+   "models_without_offer": [
+    "911",
+    "718 Boxster/Cayman",
+    "Macan",
+    "Macan Electric",
+    "Cayenne",
+    "Panamera",
+    "Taycan"
+   ],
+   "notes": "No price/finance/aftersales promotions in 2026; activity is events (World Road Show Jan 2026, Open Track Day, GT3 RS Rennsport Ramadan display, 911 Turbo S debut Apr 2026). Only standing Porsche Approved pre-owned warranty programme recorded."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "porsche-approved-preowned-12m-warranty-porsche-centre-doha",
+  "category": "used_cpo",
+  "brand": "Porsche",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Porsche Centre Doha (Al Boraq Automobiles Co. W.L.L.)",
+  "dealer_group": "Al Boraq Automobiles",
+  "offer_title": "Porsche Approved Pre-Owned: minimum 12 months Porsche Approved Warranty + Porsche Assistance, 111-point inspection",
+  "offer_types": [
+   "extended_warranty",
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": null,
+  "tenure_months": null,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [],
+  "warranty": "minimum 12 months Porsche Approved Warranty + Porsche Assistance",
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Standing programme on live dealer page; not a dated promotion",
+  "source_url": "https://dealer.porsche.com/qa/doha/en-GB/Pre-Owned",
+  "source_type": "dealer_site",
+  "source_date": null,
+  "evidence_quote": "A minimum of 12 months Porsche Approved Warranty and Porsche Assistance ... each vehicle has been inspected in compliance with a 111-point checklist.",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "No price promotions, finance campaigns or aftersales offers found for Porsche Centre Doha in 2026; 2026 activity is events only (World Road Show 5-12 Jan 2026, Open Track Day 12 Jan, GT3 RS Rennsport Ramadan display, 911 Turbo S debut 21 Apr 2026). Approved pre-owned stock on finder.porsche.com/qa ranges QAR 90,000 - 1,550,000."
+ }
+]
