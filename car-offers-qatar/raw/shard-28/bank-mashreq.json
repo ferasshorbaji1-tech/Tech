@@ -1,0 +1,78 @@
+[
+ {
+  "id": "all-brands-all-models-low-rate-finance-mashreq",
+  "category": "bank_finance",
+  "brand": "All brands",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Mashreq",
+  "dealer_group": null,
+  "offer_title": "Mashreq Qatar Car Loan for Qatari nationals - 3.18% flat (5.72% reducing), up to QAR 397,500 salaried / 450,000 self-employed, free AAA Gold membership",
+  "offer_types": [
+   "low_rate_finance",
+   "gift_accessories"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": "Up to 80% funding salaried / up to 100% self-employed",
+  "interest_rate": "3.18% flat (5.72% reducing)",
+  "tenure_months": 72,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Complimentary AAA Gold membership worth QAR 500 p.a. (24x7 roadside assistance, lockout service, petrol delivery, free annual registration)"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Only aggregator (yallacompare) listing found; no dated promotion on mashreq.com Qatar pages or in press (6 searches EN/AR)",
+  "source_url": "https://yallacompare.com/qat/en/car-loans/mashreq-car-loan-qatari-nationals/",
+  "source_type": "aggregator",
+  "source_date": null,
+  "evidence_quote": "Flat rate: 3.18%, Reducing rate: 5.72%, Minimum salary: QAR 5,000 ... up to 80% funding for salaried individuals and up to 100% funding for self-employed individuals, with loan amounts up to QAR 397,500 for salaried and QAR 450,000 for self-employed individuals, repayment periods up to 72 months ... complimentary AAA Gold membership worth QAR 500 per annum",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "Min salary QAR 5,000; no guarantor required; new and pre-owned vehicles."
+ },
+ {
+  "id": "all-brands-all-models-low-rate-finance-mashreq-2",
+  "category": "bank_finance",
+  "brand": "All brands",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Mashreq",
+  "dealer_group": null,
+  "offer_title": "Mashreq Qatar Car Loan for expatriates - 3.18% flat (5.72% reducing), up to QAR 397,500 salaried / 450,000 self-employed, free AAA Gold membership",
+  "offer_types": [
+   "low_rate_finance",
+   "gift_accessories"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": "Up to 80% funding salaried / up to 100% self-employed",
+  "interest_rate": "3.18% flat (5.72% reducing)",
+  "tenure_months": 48,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Complimentary AAA Gold membership worth QAR 500 p.a. (24x7 roadside assistance, lockout service, petrol delivery, free annual registration)"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Only aggregator (yallacompare) listing found; no dated promotion on mashreq.com Qatar pages or in press (6 searches EN/AR)",
+  "source_url": "https://yallacompare.com/qat/en/car-loans/mashreq-car-loan-expatriates/",
+  "source_type": "aggregator",
+  "source_date": null,
+  "evidence_quote": "Flat rate: 3.18%, Reducing rate: 5.72%, Minimum salary: QAR 5,000 ... up to 80% funding for salaried individuals and up to 100% funding for self-employed individuals, with loan amounts up to QAR 397,500 for salaried and QAR 450,000 for self-employed individuals, repayment periods up to 48 months ... complimentary AAA Gold membership worth QAR 500 per annum",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "Min salary QAR 5,000; no guarantor required; new and pre-owned vehicles."
+ }
+]

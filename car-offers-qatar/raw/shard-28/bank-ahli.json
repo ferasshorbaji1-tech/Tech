@@ -1,0 +1,80 @@
+[
+ {
+  "id": "ahlibank-all-models-low-rate-finance-ahlibank",
+  "category": "bank_finance",
+  "brand": "Ahlibank",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Ahlibank",
+  "dealer_group": null,
+  "offer_title": "Ahlibank Auto Loan (standard product) - 30-minute approval, up to 72 months Qataris / 48 months expats",
+  "offer_types": [
+   "low_rate_finance",
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": "Minimum 20% of vehicle value",
+  "interest_rate": null,
+  "tenure_months": 72,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Free roadside assistance with auto insurance",
+   "Competitive comprehensive motor insurance rates"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Evergreen product page on ahlibank.com.qa (no campaign dates); no 2026 promotion found in 12 searches",
+  "source_url": "https://www.ahlibank.com.qa/en/borrow/auto-loan",
+  "source_type": "bank_site",
+  "source_date": null,
+  "evidence_quote": "Ahlibank Qatar offers auto loans with a maximum term of 72 months for Qataris and 48 months for expatriates, with 30 minutes approval ... A minimum 20% down payment of the vehicle value is required ... Competitive rates available on auto insurance with free road side assistance and fast 30 minutes approval.",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "Product terms, not a promotion. Min salary QAR 6,000 Qataris / QAR 8,000 expats assigned to Ahlibank account; max instalment 75% basic salary+social allowance (Qataris) / 50% total salary (expats). Expats: max QAR 400,000 incl. interest over 48 months; new or used cars under 3 years. Brochure: https://www.ahlibank.com.qa/Library/Assets/Ahlibank_Borrow_Brochure_Digital_EN-min-100034.pdf"
+ },
+ {
+  "id": "ahlibank-all-models-low-rate-finance-ahlibank-2",
+  "category": "bank_finance",
+  "brand": "Ahlibank",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Ahlibank",
+  "dealer_group": null,
+  "offer_title": "Ahlibank Auto Loan for Qataris - 4.88% p.a. reducing (2.64% flat), up to QAR 2M, fee-free credit card first year",
+  "offer_types": [
+   "low_rate_finance",
+   "gift_accessories"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": "4.88% p.a. reducing (2.64% p.a. flat)",
+  "tenure_months": 72,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Fee-free credit card for the first year",
+   "Competitive comprehensive motor insurance rate"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": "Press release: Ramadan 2019 offer valid until 10 June 2019; the rate is still shown on the live 'Borrow Offers - Auto Loan' promotions page",
+  "status": "unknown",
+  "status_reason": "Live promotions page on ahlibank.com.qa still displays this rate/benefit set, but the only dated source is a May 2019 press release (expired 10 June 2019); could not confirm 2026 validity",
+  "source_url": "https://www.ahlibank.com.qa/en/personal/offers-promotions/promotions/borrow-offers-auto-loan-/auto-loan",
+  "source_type": "bank_site",
+  "source_date": null,
+  "evidence_quote": "Ahlibank offers a competitive auto loan rate of 4.88% p.a. for Qataris, with a reducing rate of 2.64% p.a. fixed rate. Key features include: Auto loan amounts up to QAR 2,000,000 including interest ... Financing available for all new or used cars less than 3 years old; Fee-free Credit Card for the first year",
+  "observed_date": "2026-10-02",
+  "confidence": "low",
+  "notes": "Qataris only. Press release: https://www.ahlibank.com.qa/en/media-center/news-press-releases/ahlibank-launches-new-auto-loan-for-qataris-during-ramadan-with-competitive-interest-rate"
+ }
+]

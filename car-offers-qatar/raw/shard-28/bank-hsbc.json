@@ -1,0 +1,80 @@
+[
+ {
+  "id": "all-brands-all-models-low-rate-finance-hsbc",
+  "category": "bank_finance",
+  "brand": "All brands",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "HSBC",
+  "dealer_group": null,
+  "offer_title": "HSBC Qatar Vehicle Loan for Qatari nationals - from 2.8% p.a. flat (5.04% reducing), new & used cars, two payment holidays a year, up to QAR 720,000",
+  "offer_types": [
+   "low_rate_finance",
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": "From 2.8% p.a. flat (5.04% reducing)",
+  "tenure_months": 72,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Two payment holidays annually (instalment suppression up to twice a year)",
+   "Comprehensive car insurance at competitive rates"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Evergreen product terms (hsbc.com.qa/loans and yallacompare); no dated 2026 vehicle-loan promotion found in 7 searches",
+  "source_url": "https://www.hsbc.com.qa/loans/",
+  "source_type": "bank_site",
+  "source_date": null,
+  "evidence_quote": "HSBC offers vehicle loans with low rates from just 2.8% per annum flat rate ... Finance available for both new and used cars, two payment holidays annually, high loan amounts of up to QAR720,000 for Qatari nationals ... instalment suppression option to defer monthly instalments up to twice a year.",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "Min salary QAR 15,000. Aggregator: https://yallacompare.com/qat/en/car-loans/hsbc-vehicle-loan-qatari-nationals/ . Representative APR example 4.6% fixed. Separate HSBC Premier account cashback (up to QAR 10,000) ended 31 Aug 2026 and is not a car-loan offer."
+ },
+ {
+  "id": "all-brands-all-models-low-rate-finance-hsbc-2",
+  "category": "bank_finance",
+  "brand": "All brands",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "HSBC",
+  "dealer_group": null,
+  "offer_title": "HSBC Qatar Vehicle Loan for expatriates - from 2.8% p.a. flat (5.04% reducing), new & used cars, two payment holidays a year, up to QAR 350,000",
+  "offer_types": [
+   "low_rate_finance",
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": "From 2.8% p.a. flat (5.04% reducing)",
+  "tenure_months": 48,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Two payment holidays annually (instalment suppression up to twice a year)",
+   "Comprehensive car insurance at competitive rates"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Evergreen product terms (hsbc.com.qa/loans and yallacompare); no dated 2026 vehicle-loan promotion found in 7 searches",
+  "source_url": "https://www.hsbc.com.qa/loans/",
+  "source_type": "bank_site",
+  "source_date": null,
+  "evidence_quote": "HSBC offers vehicle loans with low rates from just 2.8% per annum flat rate ... Finance available for both new and used cars, two payment holidays annually, high loan amounts of up to QAR350,000 for expatriates ... instalment suppression option to defer monthly instalments up to twice a year.",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "Salary transfer available. Aggregator: https://yallacompare.com/qat/en/car-loans/hsbc-vehicle-loan-expatriates/ . Representative APR example 4.6% fixed. Separate HSBC Premier account cashback (up to QAR 10,000) ended 31 Aug 2026 and is not a car-loan offer."
+ }
+]
