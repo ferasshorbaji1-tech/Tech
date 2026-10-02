@@ -181,5 +181,40 @@
   "observed_date": "2026-10-02",
   "confidence": "low",
   "notes": "drivearabia lists the 2025 Kaiyi X3 as 'Not Sold Here' in Qatar; Kaiyi E5 (QAR 57,700 est.) and X7 2026 shown as 'Coming Soon'. No dealer promotion page found in 16 searches."
+ },
+ {
+  "id": "kaiyi-x7-2025-green-67000-50km-al-waha-qic",
+  "category": "new_car",
+  "brand": "Kaiyi",
+  "model": "X7",
+  "trim_variant": "1.6T, green, beige leather, 50 km (brand new)",
+  "model_year": 2025,
+  "dealer": "Al Waha For Cars (Al Waha Cars, Mawater City, Doha)",
+  "dealer_group": null,
+  "offer_title": "Brand-new Kaiyi X7 2025 (50 km) at QAR 67,000 - Al Waha Cars",
+  "offer_types": [
+   "special_price"
+  ],
+  "price_qar": 67000,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": null,
+  "tenure_months": null,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Live dealer listing on qic.online in 2026; no end date",
+  "source_url": "https://qic.online/en/market/cars/used/kaiyi/x7/2025/id-5611",
+  "source_type": "aggregator",
+  "source_date": null,
+  "evidence_quote": "There is a brand-new 2025 Kaiyi X7 listed at QAR 67,000 with a turbo engine, green exterior color, and beige leather interior. The vehicle is located at Al Waha Cars in Mawater City, Doha. The car has only 50 km on the odometer",
+  "observed_date": "2026-10-02",
+  "confidence": "medium",
+  "notes": "qic.online id mapping (id-5611 vs id-5156/id-5615) for this exact unit is not certain. Below the QAR 77,000-79,000 new-price range cited by Qatar Living for the X7 2025."
  }
 ]

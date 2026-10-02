@@ -304,5 +304,44 @@
   "observed_date": "2026-10-02",
   "confidence": "low",
   "notes": "Candidate listing URLs: 189376_baw_212_t01_2026 / 193006_baw_212_t01_2026 on qatarliving.com"
+ },
+ {
+  "id": "212-adventure-mall-of-qatar-shop-win-style-raffle-2026",
+  "category": "other",
+  "brand": "212 (BAW)",
+  "model": "212 Adventure (T01)",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Mall of Qatar (promotion partner; 212 distributor in Qatar is Al Waha For Cars)",
+  "dealer_group": null,
+  "offer_title": "Mall of Qatar 'Shop, Win & Style': spend QAR 200 for a chance to win a 212 Adventure or share of QAR 100,000 gift cards",
+  "offer_types": [
+   "gift_accessories",
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": null,
+  "tenure_months": null,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "Prize draw: 212 Adventure vehicle",
+   "QAR 100,000 Mall of Qatar gift cards (Zara / Zara Home)"
+  ],
+  "warranty": null,
+  "validity_start": "2026-09-01",
+  "validity_end": "2026-10-31",
+  "validity_text": "1 September to 31 October 2026; draws 20 Sep, 11 Oct, 1 Nov 2026",
+  "status": "active",
+  "status_reason": "Campaign explicitly runs 1 Sep - 31 Oct 2026, covering 2026-10-02",
+  "source_url": "https://www.qatarliving.com/en/article/shop-at-mall-of-qatar-for-a-chance-to-win-a-212-adventure-and-qar-100-000-in-gift-cards",
+  "source_type": "news",
+  "source_date": "2026-09",
+  "evidence_quote": "giving shoppers the chance to win a 212 Adventure vehicle or a share of QAR 100,000 in Mall of Qatar gift cards. Running from 1 September to 31 October 2026 ... Shoppers who spend QAR 200 during the campaign period can enter the promotional draw",
+  "observed_date": "2026-10-02",
+  "confidence": "high",
+  "notes": "Not a dealer sales offer: a retail raffle whose grand prize is a 212 Adventure SUV. Recorded because it is a live 2026 brand promotion in Qatar."
  }
 ]

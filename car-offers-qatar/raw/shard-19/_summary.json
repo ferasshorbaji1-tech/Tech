@@ -1,0 +1,155 @@
+{
+ "shard": "shard-19",
+ "searches_total": 122,
+ "items": [
+  {
+   "key": "brand-isuzu",
+   "offers": 3,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 3,
+   "expired": 0,
+   "searches": 26,
+   "models_without_offer": [
+    "D-Max (all cabs/trims)",
+    "MU-X",
+    "NPR/NQR trucks"
+   ],
+   "notes": "Official distributor confirmed as Jaidah Heavy Equipment (Jaidah Group), new Isuzu showroom opened in Doha (Gulf Times). No promotion page, finance offer or campaign surfaced in 26 searches; only Qatar Living asking prices for new 2026 D-Max (QR 79,000 4x2 / QR 89,000 4x4) and MU-X (~QR 128,000). Aggregator list price D-Max 2026 QAR 58,000-88,000."
+  },
+  {
+   "key": "brand-kaiyi",
+   "offers": 6,
+   "active": 0,
+   "likely_active": 4,
+   "unknown": 2,
+   "expired": 0,
+   "searches": 21,
+   "models_without_offer": [
+    "X3 / X3 Pro (only old glimpse of QR 43,900)",
+    "E5 (listed QAR 57,700 est., 'not sold')",
+    "X7 2026 ('Coming Soon')"
+   ],
+   "notes": "Dealer Al Waha For Cars (Mawater City); aggregator text also names 'KAIYI Qatar / Al Wahab Automobiles'. Offers found are dealer listing prices on qic.online / Qatar Living (X7 2025 QAR 65,000-69,000 with warranty + service package) and an aggregator statement about instalment plans with no down payment. X3 'Not Sold Here' on drivearabia; X7 2026 'Coming Soon'. A Bahrain Kaiyi X3 Pro offer (Asia Motors) surfaced but is not Qatar."
+  },
+  {
+   "key": "brand-daihatsu",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 11,
+   "models_without_offer": [
+    "Gran Max Van",
+    "Gran Max Pickup",
+    "Terios",
+    "Sirion",
+    "Rocky"
+   ],
+   "notes": "Taleb Trading Co. is the historic Daihatsu dealer (named in MEC recalls 2015/2017). Aggregators show 'Not Sold Here' for Gran Max/Terios/Sirion; no showroom, price list or offer found. Effectively absent from new-car offers."
+  },
+  {
+   "key": "brand-mahindra",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 14,
+   "models_without_offer": [
+    "Scorpio Pik-Up",
+    "Scorpio-N",
+    "Bolero",
+    "XUV700",
+    "Thar"
+   ],
+   "notes": "Ibin Ajayan Trading is the distributor (Gulf Times launch of Scorpio Pik-Up, undated/old). No Qatar price list, listing or promotion found in 14 searches; Facebook 'exclusive offers' hint could not be verified via search."
+  },
+  {
+   "key": "brand-nio",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 5,
+   "models_without_offer": [
+    "EL8",
+    "ET5",
+    "EC6"
+   ],
+   "notes": "No official NIO dealer in Qatar (drivearabia: 'Not Sold Here', price not available for EL8/ET5/EC6). Middle East presence is Abu Dhabi NIO House. No offers."
+  },
+  {
+   "key": "brand-seres",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 5,
+   "models_without_offer": [
+    "5 SF"
+   ],
+   "notes": "No official Seres dealer in Qatar; drivearabia shows Seres 5 SF at QAR 200,000-205,000 (price page only, 2023-2025). AITO entered UAE only (Feb 2026). No offers."
+  },
+  {
+   "key": "brand-212-baw",
+   "offers": 9,
+   "active": 1,
+   "likely_active": 4,
+   "unknown": 4,
+   "expired": 0,
+   "searches": 17,
+   "models_without_offer": [
+    "T01 Navigator / Adventure trims (no official Qatar launch price found; drivearabia est. QAR 120,700)"
+   ],
+   "notes": "Al Waha For Cars is exclusive 212 distributor; showroom opened 3 Nov 2025 (Peninsula/Zawya). Found Al Waha listings for 212 Station 2026 at QAR 99,000-115,000 incl. warranty & service package, 2025 unit at QAR 89,000, Qatar Living T01 listings QAR 89,000-99,000, plus Mall of Qatar raffle (1 Sep-31 Oct 2026) with a 212 Adventure as prize. No formal finance/registration campaign found."
+  },
+  {
+   "key": "brand-acura",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 4,
+   "models_without_offer": [
+    "all (no dealer)"
+   ],
+   "notes": "No Acura dealer or listings in Qatar; only a ccarprice.com converted price (ADX A-Spec Advance 2026 ~QR 154,336) which is not a dealer price. No offers."
+  },
+  {
+   "key": "brand-alfa-romeo",
+   "offers": 3,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 3,
+   "searches": 15,
+   "models_without_offer": [
+    "Giulia 2026",
+    "Stelvio 2026",
+    "Tonale 2026",
+    "Giulia Quadrifoglio",
+    "Stelvio Quadrifoglio",
+    "Junior"
+   ],
+   "notes": "Alfardan Sports Motors (The Pearl) is the authorised reseller (Peninsula 2019) and launched the Tonale in Qatar (factqatar); drivearabia nonetheless lists no official dealer. Only offer found is the August 2019 summer campaign (range from QR 109,000 with 5-year/120,000 km service & warranty), recorded as expired. 2026 list prices: Tonale QAR 201,000-215,000, Giulia 219,000-220,000, Stelvio 275,000-276,000, Giulia QV 419,000-420,000, Stelvio QV 455,000-460,000."
+  },
+  {
+   "key": "brand-baojun",
+   "offers": 0,
+   "active": 0,
+   "likely_active": 0,
+   "unknown": 0,
+   "expired": 0,
+   "searches": 4,
+   "models_without_offer": [
+    "all (no dealer)"
+   ],
+   "notes": "No Baojun dealer, listing or price page for Qatar; Wuling appears only as grey imports. No offers."
+  }
+ ]
+}
