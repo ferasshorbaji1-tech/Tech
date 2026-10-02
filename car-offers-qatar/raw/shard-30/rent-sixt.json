@@ -1,0 +1,38 @@
+[
+ {
+  "id": "sixt-all-20pct-off-3plus-days-carsrenter-sixt-qatar",
+  "category": "rental_lease",
+  "brand": "Sixt",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "Sixt Qatar",
+  "dealer_group": null,
+  "offer_title": "20% off for rentals of 3+ days (aggregator claim)",
+  "offer_types": [
+   "cash_discount",
+   "rental_rate"
+  ],
+  "price_qar": null,
+  "discount": "20% off for 3+ days",
+  "down_payment": null,
+  "interest_rate": null,
+  "tenure_months": null,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "unknown",
+  "status_reason": "Only an aggregator (carsrenter.com) cites this; no official Sixt Qatar promotion page found and the Sixt worldwide 'up to 20% off' campaign (book by 14 Apr 2026) excluded Qatar",
+  "source_url": "https://carsrenter.com/en/qatar/doha-qatar-rental-car/sixt",
+  "source_type": "aggregator",
+  "source_date": null,
+  "evidence_quote": "Aggregator carsrenter cites '20% off for 3+ days'; Momondo cites from $24/day.",
+  "observed_date": "2026-10-02",
+  "confidence": "low",
+  "notes": "From mapping hints. Branches: HIA, The Pearl (Medina Centrale), InterContinental, Salwa Road. From 1 Jan 2026 kilometres driven are subject to a government road tax added at return (not an offer). Bank tie-ups found (Riyad Bank KSA, Credimax Bahrain 15% monthly) are outside Qatar."
+ }
+]

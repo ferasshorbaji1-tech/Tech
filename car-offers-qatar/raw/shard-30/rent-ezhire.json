@@ -1,0 +1,40 @@
+[
+ {
+  "id": "ezhire-all-no-deposit-on-demand-delivery-ezhire-qatar",
+  "category": "rental_lease",
+  "brand": "eZhire",
+  "model": "All models",
+  "trim_variant": null,
+  "model_year": null,
+  "dealer": "eZhire Qatar",
+  "dealer_group": null,
+  "offer_title": "No security deposit on any rental, 24/7 on-demand doorstep delivery (daily/weekly/monthly plans)",
+  "offer_types": [
+   "other"
+  ],
+  "price_qar": null,
+  "discount": null,
+  "down_payment": null,
+  "interest_rate": null,
+  "tenure_months": null,
+  "monthly_installment_qar": null,
+  "grace_period": null,
+  "freebies": [
+   "no security deposit",
+   "doorstep delivery"
+  ],
+  "warranty": null,
+  "validity_start": null,
+  "validity_end": null,
+  "validity_text": null,
+  "status": "likely_active",
+  "status_reason": "Standing policy described on live eZhire pages covering UAE, Qatar, Bahrain and KSA; no dated Qatar promotion found",
+  "source_url": "https://www.ezhire.ae/rent-a-car-in-qatar",
+  "source_type": "dealer_site",
+  "source_date": null,
+  "evidence_quote": "eZhire doesn't require customers to provide a deposit on any car rental, making it easy and convenient for customers to get the car they need when they need it.",
+  "observed_date": "2026-10-02",
+  "confidence": "low",
+  "notes": "Promo codes EZDIB (20%) and EZENBD (up to 20%) found are UAE bank tie-ups with AED caps, not Qatar. The hinted 'EZ CAR RENTAL' take.app page (50% off one-day rental) did not surface in search and its country is unconfirmed."
+ }
+]
