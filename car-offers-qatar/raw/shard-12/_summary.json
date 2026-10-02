@@ -1,0 +1,76 @@
+{
+ "shard": "shard-12",
+ "searches_total": 130,
+ "items": [
+  {
+   "key": "brand-volkswagen",
+   "offers": 23,
+   "active": 7,
+   "likely_active": 3,
+   "unknown": 2,
+   "expired": 11,
+   "searches": 46,
+   "models_without_offer": [
+    "Jetta (not sold in Qatar per DriveArabia)",
+    "ID.4 / electric (no Qatar pricing)"
+   ],
+   "notes": "Official offers page: Passat from 99,900, Tiguan from 109,900 (likely_active); Lusail University affinity flyer (7 models, cashback + free insurance/registration/service, valid to 31 Dec 2026); CBQ 0% campaign expired 31 Dec 2025; old Smart Buy/QNB Ramadan deals expired. T-Roc 79,900 from AR page is a sibling hint, unconfirmed."
+  },
+  {
+   "key": "brand-porsche",
+   "offers": 6,
+   "active": 0,
+   "likely_active": 2,
+   "unknown": 1,
+   "expired": 3,
+   "searches": 24,
+   "models_without_offer": [
+    "Taycan",
+    "Macan",
+    "Cayenne",
+    "Panamera",
+    "911",
+    "718"
+   ],
+   "notes": "No price/finance promotions found; only Porsche Approved warranty programme, free destination charging, QIB marketplace tie-up, and 2026 events (World Road Show, Ramadan Rennsport display, 911 Turbo S launch)."
+  },
+  {
+   "key": "brand-suzuki",
+   "offers": 5,
+   "active": 0,
+   "likely_active": 4,
+   "unknown": 1,
+   "expired": 0,
+   "searches": 34,
+   "models_without_offer": [
+    "Swift (list price only)",
+    "Baleno",
+    "Fronx",
+    "Grand Vitara",
+    "Jimny",
+    "Across (launch price only)"
+   ],
+   "notes": "Offers only visible via hatla2ee aggregator (Ertiga 2025, Ciaz 2024, Dzire 2024 discounts). No Teyseer campaign page or press offer found for 2026."
+  },
+  {
+   "key": "brand-baic",
+   "offers": 2,
+   "active": 0,
+   "likely_active": 1,
+   "unknown": 0,
+   "expired": 1,
+   "searches": 30,
+   "models_without_offer": [
+    "BJ80",
+    "BJ60",
+    "BJ40C",
+    "X7",
+    "X55 II",
+    "U5 Plus",
+    "BJ30",
+    "X35"
+   ],
+   "notes": "Only brand-wide warranty/free-service promo (FACT magazine, expired 31 Mar 2026) and standing 5yr/150k warranty. No model-level offers found; baic.qa surfaced nothing."
+  }
+ ]
+}
